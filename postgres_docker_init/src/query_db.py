@@ -13,20 +13,16 @@ connection = psycopg2.connect(
     password=os.environ.get('password')
 )
 
-# creates a cursor for execution of sql queries
 cur = connection.cursor()
-
 
 def count_record():
 	cur.execute(
-		"SELECT COUNT(*) FROM assignement.crypto_prices;"
+		"SELECT count(*) FROM assignement.crypto_prices"
 	)
 
 	result = cur.fetchall()
 
 	print(result)
-
-
 
 if __name__=="__main__":
 	count_record()
