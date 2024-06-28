@@ -22,16 +22,23 @@ class APIExtractAndLoad:
         self.bq_client = bigquery.Client()
         self.gcs_client = storage.Client()
 
-        logging.basicConfig(
-            level=logging.INFO,
-            format='%(asctime)s - %(levelname)s - %(message)s',
-            handlers=[
-                logging.FileHandler('apiextractandload.log'),
-                logging.StreamHandler()
-            ]
-        )
+        # logger for APIExtractAndLoad
+        self.logger = logging.getLogger(f"{__name__}.APIExtractAndLoad")
+        self.logger.setLevel(logging.INFO)
+        if not self.logger.hasHandlers():
+            fh = logging.FileHandler('apiextractandload.log')
+            fh.setLevel(logging.INFO)
+            ch = logging.StreamHandler()
+            ch.setLevel(logging.INFO)
+            formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+            fh.setFormatter(formatter)
+            ch.setFormatter(formatter)
+            self.logger.addHandler(fh)
+            self.logger.addHandler(ch)
 
-        self.logger = logging.getLogger(__name__)
+    # adds a new line to the log files before execution for readability
+    def log_newline(self):
+        self.logger.info("\n")
 
 
     def validate_bucket_existence(self):
@@ -174,6 +181,7 @@ class APIExtractAndLoad:
             - validate bq dataset existence
             - load data to bg from gcs
         """
+        self.log_newline()
         self.logger.info("Starting E&L process...")
 
         try:

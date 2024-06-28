@@ -30,19 +30,19 @@ Simplifying the whole process, there is a bash script that install the dependenc
 
 To run the bash script:
 
-   ```console
-   ./execute.sh
+```console
+./execute.sh
 
 ![complete execution code execution](./data/code_execution.png)
 
 you can also run each caller independently:
 
-   ```console
-   python3 load_caller.py 
+```console
+python3 load_caller.py 
 
 ![csv to bigquery process](./data/load_caller.png)
 
-   ```console
-   python3 extract_load_caller.py
+```console
+python3 extract_load_caller.py
 
 ![api data to gcs and to bq](./data/extract_load_caller.png)

@@ -14,11 +14,9 @@ if __name__ == "__main__":
         table_id=get_env_variable('TABLE_ID'),
         csv_filepath=get_env_variable('CSV_FILEPATH')
     )
-    print()
     transmitter.execute()
 
 
-if __name__ == "__main__":
     """
     The second part of the task:
         - fetch data from an api
@@ -26,7 +24,7 @@ if __name__ == "__main__":
         - write to bigquery
     """
     script_dir = os.path.dirname(os.path.abspath(__file__))
-
+    
     extractload = APIExtractAndLoad(
         project_id=get_env_variable('PROJECT_ID'),
         dataset_id=get_env_variable('GCS_DATASET_ID'),
@@ -36,6 +34,5 @@ if __name__ == "__main__":
         bucket_name=get_env_variable('BUCKET_NAME'),
         path=os.path.join(script_dir, get_env_variable('JSON_PATH'))
     )
-    print()
     extractload.execute()
     print()

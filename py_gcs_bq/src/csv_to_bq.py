@@ -19,16 +19,24 @@ class BigQueryTransmiter:
         self.csv_filepath = csv_filepath
         self.client = bigquery.Client()
 
-        logging.basicConfig(
-            level=logging.INFO,
-            format='%(asctime)s - %(levelname)s - %(message)s',
-            handlers=[
-                logging.FileHandler("bigquerytransmiter.log"),
-                logging.StreamHandler()
-            ]
-        )
+        # logger for BigQueryTransmiter
+        self.logger = logging.getLogger(f"{__name__}.BigQueryTransmiter")
+        self.logger.setLevel(logging.INFO)
+        if not self.logger.hasHandlers():
+            fh = logging.FileHandler("bigquerytransmiter.log")
+            fh.setLevel(logging.INFO)
+            ch = logging.StreamHandler()
+            ch.setLevel(logging.INFO)
+            formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+            fh.setFormatter(formatter)
+            ch.setFormatter(formatter)
+            self.logger.addHandler(fh)
+            self.logger.addHandler(ch)
+    
 
-        self.logger = logging.getLogger(__name__)
+    # adds a new line to the log files before execution for readability
+    def log_newline(self):
+        self.logger.info("\n")
 
 
     def validate_dataset_existence(self):
@@ -117,6 +125,7 @@ class BigQueryTransmiter:
         """
         Here, csv_to_dataframe and transmit_to_bigquery are executed.
         """
+        self.log_newline()
         self.logger.info("Execution now in process...")
 
         try:
