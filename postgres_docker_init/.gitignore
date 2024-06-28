@@ -1,0 +1,4 @@
+.env
+env/
+pg_data
+../sandbox.py
