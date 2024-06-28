@@ -15,6 +15,8 @@ These program does two things:
 
    - Environment variable are manage accordingly in the `.env` file
 
+   - `.env.example` should serve as a guide on how the evenvironment variables are defined, an almost complete file.
+
    - Proper logging of responses and pipeline progress.
    
    - _[apiextractandload.log](apiextractandload.log)_ keeps the of log of the file: _[extract_and_load.py](./src/extract_and_load.py)_
