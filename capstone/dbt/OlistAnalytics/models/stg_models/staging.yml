@@ -1,0 +1,30 @@
+
+version: 2
+
+sources:
+  # # postgres settings
+  # - name: stg_models
+  #   description: 'raw products and orders data with neccesary joins'
+  #   database: ecommerce
+  #   schema: cpstn
+  #   tables:
+  #     - name: olist_products
+  #       description: 'products table for olist dataset'
+  #     - name: olist_orders
+  #     - name: olist_order_items
+  #     - name: olist_order_payments
+  
+  # bigquery
+  - name: stg_models
+    database: utility-range-425622-c7  # BigQuery project ID
+    schema: olist_ecommerce_dataset    # dataset name
+    tables:
+      - name: orders
+      - name: products
+      - name: customers
+      - name: cities
+      - name: geolocation
+      - name: order_items
+      - name: sellers.sql
+      - name: zip_codes
+      - name: product_category_translation

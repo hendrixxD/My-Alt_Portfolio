@@ -1,0 +1,16 @@
+env
+.env
+compose_files/
+ven/
+/airflow/config/
+snippets.txt
+
+/pg/source_pg_data
+/pg/docker-compose-original.yml
+
+/dbt/Dockerfile
+/dbt/Dockerfile_orignal
+/dbt/sample.yml
+
+/airflow/airflow_pg_data
+

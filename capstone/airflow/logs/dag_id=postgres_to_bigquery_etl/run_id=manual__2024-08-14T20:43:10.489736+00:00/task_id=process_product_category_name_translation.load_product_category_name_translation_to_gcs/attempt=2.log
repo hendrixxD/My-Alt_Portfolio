@@ -1,0 +1,23 @@
+[2024-08-14T20:51:01.085+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_to_bigquery_etl.process_product_category_name_translation.load_product_category_name_translation_to_gcs manual__2024-08-14T20:43:10.489736+00:00 [queued]>
+[2024-08-14T20:51:01.100+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_to_bigquery_etl.process_product_category_name_translation.load_product_category_name_translation_to_gcs manual__2024-08-14T20:43:10.489736+00:00 [queued]>
+[2024-08-14T20:51:01.100+0000] {taskinstance.py:1359} INFO - Starting attempt 2 of 4
+[2024-08-14T20:51:01.141+0000] {taskinstance.py:1380} INFO - Executing <Task(PostgresToGCSOperator): process_product_category_name_translation.load_product_category_name_translation_to_gcs> on 2024-08-14 20:43:10.489736+00:00
+[2024-08-14T20:51:01.155+0000] {standard_task_runner.py:57} INFO - Started process 27763 to run task
+[2024-08-14T20:51:01.162+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'postgres_to_bigquery_etl', 'process_product_category_name_translation.load_product_category_name_translation_to_gcs', 'manual__2024-08-14T20:43:10.489736+00:00', '--job-id', '561', '--raw', '--subdir', 'DAGS_FOLDER/extract_from_pg.py', '--cfg-path', '/tmp/tmpx_o_zmh0']
+[2024-08-14T20:51:01.166+0000] {standard_task_runner.py:85} INFO - Job 561: Subtask process_product_category_name_translation.load_product_category_name_translation_to_gcs
+[2024-08-14T20:51:01.253+0000] {task_command.py:415} INFO - Running <TaskInstance: postgres_to_bigquery_etl.process_product_category_name_translation.load_product_category_name_translation_to_gcs manual__2024-08-14T20:43:10.489736+00:00 [running]> on host d81d956e7878
+[2024-08-14T20:51:01.408+0000] {warnings.py:109} WARNING - /home/***/.local/lib/python3.8/site-packages/***/utils/context.py:206: AirflowContextDeprecationWarning: Accessing 'execution_date' from the template is deprecated and will be removed in a future version. Please use 'data_interval_start' or 'logical_date' instead.
+  warnings.warn(_create_deprecation_warning(key, self._deprecation_replacements[key]))
+
+[2024-08-14T20:51:01.556+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='postgres_to_bigquery_etl' AIRFLOW_CTX_TASK_ID='process_product_category_name_translation.load_product_category_name_translation_to_gcs' AIRFLOW_CTX_EXECUTION_DATE='2024-08-14T20:43:10.489736+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-14T20:43:10.489736+00:00'
+[2024-08-14T20:51:01.572+0000] {sql_to_gcs.py:161} INFO - Executing query
+[2024-08-14T20:51:01.649+0000] {base.py:73} INFO - Using connection ID 'source_postgres_db' for task execution.
+[2024-08-14T20:51:01.702+0000] {sql_to_gcs.py:180} INFO - Writing local data files
+[2024-08-14T20:51:01.723+0000] {sql_to_gcs.py:186} INFO - Uploading chunk file #0 to GCS.
+[2024-08-14T20:51:01.755+0000] {connection.py:232} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-08-14T20:51:01.762+0000] {base.py:73} INFO - Using connection ID 'google_cloud_default' for task execution.
+[2024-08-14T20:51:03.539+0000] {gcs.py:564} INFO - File /tmp/tmp0wryprtm uploaded to data/product_category_name_translation_20240814_204310.json in stg-olist-ecommerce-dataset2 bucket
+[2024-08-14T20:51:03.541+0000] {sql_to_gcs.py:189} INFO - Removing local file
+[2024-08-14T20:51:03.609+0000] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=postgres_to_bigquery_etl, task_id=process_product_category_name_translation.load_product_category_name_translation_to_gcs, execution_date=20240814T204310, start_date=20240814T205101, end_date=20240814T205103
+[2024-08-14T20:51:03.651+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-08-14T20:51:03.790+0000] {taskinstance.py:2776} INFO - 1 downstream tasks scheduled from follow-on schedule check

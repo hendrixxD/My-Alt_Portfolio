@@ -1,0 +1,63 @@
+
+# The following dbt_project.yml configures a project that looks like this:
+# .
+# └── models
+#     ├── example
+#     │   ├── my_first_dbt_model.sql
+#     │   └── my_second_dbt_model.sql
+#     └── ecommerce_model
+#     |    ├── olist_orders_ecommerce_model.sql
+#     |__ ecommerce_model_transform
+#          |__ 
+#
+#
+
+name: 'OlistAnalytics'
+version: '1.0.0'
+
+# This setting configures which "profile" dbt uses for this project.
+profile: 'OlistAnalytics'
+
+# These configurations specify where dbt should look for different types of files.
+# The `model-paths` config, for example, states that models in this project can be
+# found in the "models/" directory. You probably won't need to change these!
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+# directories to be removed by `dbt clean`
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+
+# Configuring models
+# Full documentation: https://docs.getdbt.com/docs/configuring-models
+
+# In this example config, we tell dbt to build all models in the example/
+# directory as views. These settings can be overridden in the individual model
+# files using the `{{ config(...) }}` macro.
+models:
+  OlistAnalytics:
+    # +docs:
+    #   target: true
+    ecommerce_model_transform:
+      +materialized: view
+      +schema: transform # "{{ 'transform' if target.name in ['dev', 'prod'] else target.schema }}"
+    
+    stg_models:
+      +materialized: view
+      +schema: staging # "{{ 'staging' if target.name in ['dev', 'prod'] else target.schema }}"
+    
+    int_models:
+      +materialized: view
+      +schema: "{{ 'intermediate' if target.name in ['dev', 'prod'] else target.schema }}"
+    
+    fct_models:
+      +materialized: view
+      +schema: "{{ 'final' if target.name in ['dev', 'prod'] else target.schema }}"
+
+      
