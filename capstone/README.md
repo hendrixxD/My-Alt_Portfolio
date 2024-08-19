@@ -49,7 +49,10 @@ Ochestrating the injestion and loading of data from postgres to bigquery and ana
 8. Conclusion
    - File Structure
 
+---
 
+![](./imgs/architecture.png)
+###### ELT architecture
 
 ---
 
