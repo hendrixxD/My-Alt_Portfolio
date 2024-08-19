@@ -1,0 +1,16 @@
+[2024-08-15T05:49:35.491+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_to_bigquery_etl.create_gcs_bucket manual__2024-08-15T04:06:26.658756+00:00 [queued]>
+[2024-08-15T05:49:35.515+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_to_bigquery_etl.create_gcs_bucket manual__2024-08-15T04:06:26.658756+00:00 [queued]>
+[2024-08-15T05:49:35.515+0000] {taskinstance.py:1359} INFO - Starting attempt 2 of 5
+[2024-08-15T05:49:35.570+0000] {taskinstance.py:1380} INFO - Executing <Task(GCSCreateBucketOperator): create_gcs_bucket> on 2024-08-15 04:06:26.658756+00:00
+[2024-08-15T05:49:35.582+0000] {standard_task_runner.py:57} INFO - Started process 35242 to run task
+[2024-08-15T05:49:35.590+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'postgres_to_bigquery_etl', 'create_gcs_bucket', 'manual__2024-08-15T04:06:26.658756+00:00', '--job-id', '614', '--raw', '--subdir', 'DAGS_FOLDER/extract_from_pg.py', '--cfg-path', '/tmp/tmp6zs3syqf']
+[2024-08-15T05:49:35.595+0000] {standard_task_runner.py:85} INFO - Job 614: Subtask create_gcs_bucket
+[2024-08-15T05:49:35.678+0000] {task_command.py:415} INFO - Running <TaskInstance: postgres_to_bigquery_etl.create_gcs_bucket manual__2024-08-15T04:06:26.658756+00:00 [running]> on host d81d956e7878
+[2024-08-15T05:49:35.865+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='postgres_to_bigquery_etl' AIRFLOW_CTX_TASK_ID='create_gcs_bucket' AIRFLOW_CTX_EXECUTION_DATE='2024-08-15T04:06:26.658756+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-15T04:06:26.658756+00:00'
+[2024-08-15T05:49:35.880+0000] {connection.py:232} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-08-15T05:49:35.895+0000] {base.py:73} INFO - Using connection ID 'google_cloud_default' for task execution.
+[2024-08-15T05:49:35.925+0000] {gcs.py:1066} INFO - Creating Bucket: stg-olist-ecommerce-dataset2; Location: europe-west2; Storage Class: REGIONAL
+[2024-08-15T05:49:38.172+0000] {gcs.py:158} WARNING - Bucket stg-olist-ecommerce-dataset2 already exists
+[2024-08-15T05:49:38.187+0000] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=postgres_to_bigquery_etl, task_id=create_gcs_bucket, execution_date=20240815T040626, start_date=20240815T054935, end_date=20240815T054938
+[2024-08-15T05:49:38.302+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-08-15T05:49:38.382+0000] {taskinstance.py:2776} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,42 @@
+[2024-08-16T15:58:43.046+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_to_bigquery_etl.process_olist_order_items.load_olist_order_items_to_bigquery manual__2024-08-15T04:06:26.658756+00:00 [queued]>
+[2024-08-16T15:58:43.073+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_to_bigquery_etl.process_olist_order_items.load_olist_order_items_to_bigquery manual__2024-08-15T04:06:26.658756+00:00 [queued]>
+[2024-08-16T15:58:43.075+0000] {taskinstance.py:1359} INFO - Starting attempt 4 of 5
+[2024-08-16T15:58:43.127+0000] {taskinstance.py:1380} INFO - Executing <Task(GCSToBigQueryOperator): process_olist_order_items.load_olist_order_items_to_bigquery> on 2024-08-15 04:06:26.658756+00:00
+[2024-08-16T15:58:43.148+0000] {standard_task_runner.py:57} INFO - Started process 307 to run task
+[2024-08-16T15:58:43.159+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'postgres_to_bigquery_etl', 'process_olist_order_items.load_olist_order_items_to_bigquery', 'manual__2024-08-15T04:06:26.658756+00:00', '--job-id', '643', '--raw', '--subdir', 'DAGS_FOLDER/extract_from_pg.py', '--cfg-path', '/tmp/tmpm7tfm78v']
+[2024-08-16T15:58:43.165+0000] {standard_task_runner.py:85} INFO - Job 643: Subtask process_olist_order_items.load_olist_order_items_to_bigquery
+[2024-08-16T15:58:43.308+0000] {task_command.py:415} INFO - Running <TaskInstance: postgres_to_bigquery_etl.process_olist_order_items.load_olist_order_items_to_bigquery manual__2024-08-15T04:06:26.658756+00:00 [running]> on host c04129f4379c
+[2024-08-16T15:58:43.468+0000] {warnings.py:109} WARNING - /home/***/.local/lib/python3.8/site-packages/***/utils/context.py:206: AirflowContextDeprecationWarning: Accessing 'execution_date' from the template is deprecated and will be removed in a future version. Please use 'data_interval_start' or 'logical_date' instead.
+  warnings.warn(_create_deprecation_warning(key, self._deprecation_replacements[key]))
+
+[2024-08-16T15:58:43.560+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='postgres_to_bigquery_etl' AIRFLOW_CTX_TASK_ID='process_olist_order_items.load_olist_order_items_to_bigquery' AIRFLOW_CTX_EXECUTION_DATE='2024-08-15T04:06:26.658756+00:00' AIRFLOW_CTX_TRY_NUMBER='4' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-15T04:06:26.658756+00:00'
+[2024-08-16T15:58:43.591+0000] {connection.py:232} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-08-16T15:58:43.605+0000] {base.py:73} INFO - Using connection ID 'google_cloud_default' for task execution.
+[2024-08-16T15:58:43.610+0000] {gcs_to_bigquery.py:375} INFO - Using existing BigQuery table for storing data...
+[2024-08-16T15:58:43.767+0000] {gcs_to_bigquery.py:379} INFO - Executing: {'load': {'autodetect': True, 'createDisposition': 'CREATE_IF_NEEDED', 'destinationTable': {'projectId': 'utility-range-425622-c7', 'datasetId': 'olist_ecommerce_data3', 'tableId': 'olist_order_items'}, 'sourceFormat': 'NEWLINE_DELIMITED_JSON', 'sourceUris': ['gs://stg-olist-ecommerce-dataset2/data/olist_order_items_20240815_040626.json'], 'writeDisposition': 'WRITE_TRUNCATE', 'ignoreUnknownValues': False, 'maxBadRecords': 5}}
+[2024-08-16T15:58:43.769+0000] {bigquery.py:1598} INFO - Inserting job ***_postgres_to_bigquery_etl_process_olist_order_items_load_olist_order_items_to_bigquery_2024_08_15T04_06_26_658756_00_00_027a59e6d3177cd8129951c40acdce35
+[2024-08-16T15:58:45.264+0000] {taskinstance.py:1935} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/google/cloud/transfers/gcs_to_bigquery.py", line 380, in execute
+    job: BigQueryJob | UnknownJob = self._submit_job(self.hook, job_id)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/google/cloud/transfers/gcs_to_bigquery.py", line 302, in _submit_job
+    return hook.insert_job(
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/google/common/hooks/base_google.py", line 467, in inner_wrapper
+    return func(self, *args, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/providers/google/cloud/hooks/bigquery.py", line 1601, in insert_job
+    job_api_repr._begin()
+  File "/home/airflow/.local/lib/python3.8/site-packages/google/cloud/bigquery/job/base.py", line 693, in _begin
+    api_response = client._call_api(
+  File "/home/airflow/.local/lib/python3.8/site-packages/google/cloud/bigquery/client.py", line 816, in _call_api
+    return call()
+  File "/home/airflow/.local/lib/python3.8/site-packages/google/api_core/retry.py", line 349, in retry_wrapped_func
+    return retry_target(
+  File "/home/airflow/.local/lib/python3.8/site-packages/google/api_core/retry.py", line 191, in retry_target
+    return target()
+  File "/home/airflow/.local/lib/python3.8/site-packages/google/cloud/_http/__init__.py", line 494, in api_request
+    raise exceptions.from_http_response(response)
+google.api_core.exceptions.NotFound: 404 POST https://bigquery.googleapis.com/bigquery/v2/projects/utility-range-425622-c7/jobs?prettyPrint=false: Not found: Dataset utility-range-425622-c7:olist_ecommerce_data3
+[2024-08-16T15:58:45.293+0000] {taskinstance.py:1398} INFO - Marking task as UP_FOR_RETRY. dag_id=postgres_to_bigquery_etl, task_id=process_olist_order_items.load_olist_order_items_to_bigquery, execution_date=20240815T040626, start_date=20240816T155843, end_date=20240816T155845
+[2024-08-16T15:58:45.408+0000] {standard_task_runner.py:104} ERROR - Failed to execute job 643 for task process_olist_order_items.load_olist_order_items_to_bigquery (404 POST https://bigquery.googleapis.com/bigquery/v2/projects/utility-range-425622-c7/jobs?prettyPrint=false: Not found: Dataset utility-range-425622-c7:olist_ecommerce_data3; 307)
+[2024-08-16T15:58:45.495+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2024-08-16T15:58:45.628+0000] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,32 @@
+database:
+  source_postgres_db:
+    conn_type: postgres
+    host: <SOURCE POSTGRESS SERVICE>
+    schema: <DB NAME>
+    login: <PG USER>
+    password: <PG PASS>
+    port: 5432
+
+google_cloud:
+  google_cloud_default:
+    conn_type: google_cloud_platform
+    project_id: <GCP PROJECT ID>
+    gcs_bucket: <GCS BUCKET>
+    bq_dataset: <BQ DATASET>
+    bucket_location: europe-west2
+    storage_class: REGIONAL
+    gcs_location: europe-west2
+    key_path: /opt/airflow/config/<SERVICE ACCOUNT JSON KEY>
+
+
+tables: [
+    olist_customers,
+    olist_geolocation,
+    olist_order_items,
+    olist_order_payments,
+    olist_order_reviews,
+    olist_orders,
+    olist_products,
+    olist_sellers,
+    product_category_name_translation
+    ]

@@ -1,0 +1,20 @@
+[2024-08-17T19:11:05.715+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: postgres_to_bigquery_etl.process_olist_products.load_olist_products_to_bigquery manual__2024-08-17T19:09:55.908657+00:00 [queued]>
+[2024-08-17T19:11:05.842+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: postgres_to_bigquery_etl.process_olist_products.load_olist_products_to_bigquery manual__2024-08-17T19:09:55.908657+00:00 [queued]>
+[2024-08-17T19:11:05.845+0000] {taskinstance.py:1359} INFO - Starting attempt 1 of 4
+[2024-08-17T19:11:06.253+0000] {taskinstance.py:1380} INFO - Executing <Task(GCSToBigQueryOperator): process_olist_products.load_olist_products_to_bigquery> on 2024-08-17 19:09:55.908657+00:00
+[2024-08-17T19:11:06.283+0000] {standard_task_runner.py:57} INFO - Started process 635 to run task
+[2024-08-17T19:11:06.302+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'postgres_to_bigquery_etl', 'process_olist_products.load_olist_products_to_bigquery', 'manual__2024-08-17T19:09:55.908657+00:00', '--job-id', '761', '--raw', '--subdir', 'DAGS_FOLDER/extract_from_pg.py', '--cfg-path', '/tmp/tmpkxjpmnbr']
+[2024-08-17T19:11:06.322+0000] {standard_task_runner.py:85} INFO - Job 761: Subtask process_olist_products.load_olist_products_to_bigquery
+[2024-08-17T19:11:06.561+0000] {task_command.py:415} INFO - Running <TaskInstance: postgres_to_bigquery_etl.process_olist_products.load_olist_products_to_bigquery manual__2024-08-17T19:09:55.908657+00:00 [running]> on host c04129f4379c
+[2024-08-17T19:11:06.871+0000] {warnings.py:109} WARNING - /home/***/.local/lib/python3.8/site-packages/***/utils/context.py:206: AirflowContextDeprecationWarning: Accessing 'execution_date' from the template is deprecated and will be removed in a future version. Please use 'data_interval_start' or 'logical_date' instead.
+  warnings.warn(_create_deprecation_warning(key, self._deprecation_replacements[key]))
+
+[2024-08-17T19:11:07.186+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='postgres_to_bigquery_etl' AIRFLOW_CTX_TASK_ID='process_olist_products.load_olist_products_to_bigquery' AIRFLOW_CTX_EXECUTION_DATE='2024-08-17T19:09:55.908657+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-08-17T19:09:55.908657+00:00'
+[2024-08-17T19:11:07.235+0000] {connection.py:232} WARNING - Connection schemes (type: google_cloud_platform) shall not contain '_' according to RFC3986.
+[2024-08-17T19:11:07.292+0000] {base.py:73} INFO - Using connection ID 'google_cloud_default' for task execution.
+[2024-08-17T19:11:07.302+0000] {gcs_to_bigquery.py:375} INFO - Using existing BigQuery table for storing data...
+[2024-08-17T19:11:08.081+0000] {gcs_to_bigquery.py:379} INFO - Executing: {'load': {'autodetect': True, 'createDisposition': 'CREATE_IF_NEEDED', 'destinationTable': {'projectId': 'utility-range-425622-c7', 'datasetId': 'olist_ecommerce_dataset', 'tableId': 'olist_products'}, 'sourceFormat': 'NEWLINE_DELIMITED_JSON', 'sourceUris': ['gs://stg-olist-ecommerce-dataset/data/olist_products_20240817_190955.json'], 'writeDisposition': 'WRITE_TRUNCATE', 'ignoreUnknownValues': False, 'maxBadRecords': 5}}
+[2024-08-17T19:11:08.107+0000] {bigquery.py:1598} INFO - Inserting job ***_postgres_to_bigquery_etl_process_olist_products_load_olist_products_to_bigquery_2024_08_17T19_09_55_908657_00_00_2c2a55fb306ab6f69835622cd0e711d4
+[2024-08-17T19:11:13.334+0000] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=postgres_to_bigquery_etl, task_id=process_olist_products.load_olist_products_to_bigquery, execution_date=20240817T190955, start_date=20240817T191105, end_date=20240817T191113
+[2024-08-17T19:11:13.597+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2024-08-17T19:11:14.140+0000] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check
