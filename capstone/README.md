@@ -157,9 +157,6 @@ This approach:
 - Establishes clear relationships between tables using primary and foreign keys
 - Prepares the data for efficient querying and analysis
 
-               Models structure
-
-![modesl structure](./imgs/)
 
 ###### Models
    
@@ -273,6 +270,35 @@ This DAG allows for parallel processing of multiple tables, efficiently transfer
   ![](./imgs/dagg.png)
 
 ---
+
+                    Results Report.
+                
+![](./imgs/adt.png)
+###### average delivery time per an order
+  - calculated in:
+    - minuete
+    - hour
+    - day
+
+![](./imgs/obs.png)
+###### count of orders per state
+
+this visualization shows the total number of orders in each brazilian state.
+
+there are 26 states in brazil with one federal capital making a total of <u>27 states</u>.
+
+the state codenamed `SP` in the dataset has the highest number of orders with a count of `149,981`
+
+`São Paulo` it is believe. the most populous city in Brazil
+
+![](./imgs/sbc.png)
+###### sales by product category
+
+this visualization shows the total sales per each product category.
+
+the product with the highest total sales is <u>beleza_saude</u> and a cumilative sum of `1, 258, 681.34`
+
+the product name translation is: `healthy_beauty`
 
                               Conclusion
 
