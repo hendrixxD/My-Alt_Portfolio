@@ -56,6 +56,8 @@ services:
       retries: 5
       start_period: 5s
     restart: always
+    networks:
+      - bigquery_data_network
 
   # source database for injestion
   source-postgres:
@@ -76,18 +78,18 @@ services:
       interval: 10s
       timeout: 5s
       retries: 5
-    # networks:
-    #   - source_data_network
+    networks:
+      - bigquery_data_network
 
   # source-db visualixation
-  # metabase:
-  #   image: metabase/metabase:latest
-  #   depends_on:
-  #     - source-postgres
-  #   ports:
-  #     - 3000:3000
-  #   networks:
-  #     - source_data_network
+  metabase:
+    image: metabase/metabase:latest
+    depends_on:
+      - source-postgres
+    ports:
+      - 3000:3000
+    networks:
+      - bigquery_data_network
   
   # redis
   redis:
@@ -104,6 +106,8 @@ services:
     restart: always
     environment:
       - REDIS_PASSWORD=${REDIS_PASSWORD}
+    networks:
+      - bigquery_data_network
   
   # # dbt
   # dbt:
@@ -158,6 +162,8 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
+    networks:
+      - bigquery_data_network
   
   # airflow scheduler
   airflow-scheduler:
@@ -174,6 +180,8 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
+    networks:
+      - bigquery_data_network
   
   # airflow workers
   airflow-worker:
@@ -195,6 +203,8 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
+    networks:
+      - bigquery_data_network
 
   # 
   airflow-triggerer:
@@ -211,6 +221,8 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
+    networks:
+      - bigquery_data_network
   
   # initialization
   airflow-init:
@@ -288,6 +300,8 @@ services:
     user: "${AIRFLOW_UID:-50000}:0"
     volumes:
       - ./airflow:/sources
+    networks:
+      - bigquery_data_network
     # healthcheck:
     #   test: ["CMD", "airflow", "db", "check"]
     #   interval: 10s
@@ -317,10 +331,12 @@ services:
       <<: *airflow-common-depends-on
       airflow-init:
         condition: service_completed_successfully
+    networks:
+      - bigquery_data_network
 
-# networks:
-#   source_data_network:
-#     driver: bridge
+networks:
+  bigquery_data_network:
+    driver: bridge
 
 volumes:
   source_pg_data:
