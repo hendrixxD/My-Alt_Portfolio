@@ -57,17 +57,15 @@ Ochestrating the injestion and loading of data from postgres to bigquery and ana
 ---
 
                               Synopsis
-This DAG automates an ETL process to move data from PostgreSQL to Google BigQuery via Google Cloud Storage. It operates as follows:
 
-1. Loads configuration from a YAML file.
-2. Creates a GCS bucket and BigQuery dataset if they don't exist.
-3. For each specified table:
-  a. Extracts data from `Postgres` and loads it into `GCS`.
-b. Transfers the data from `GCS` to `BigQuery`.
+In the realm of data engineering, building robust data pipelines is a fundamental practice for ensuring seamless data flow and transformation across systems. This project showcases the development of a comprehensive end-to-end ELT (Extract, Load, Transform) pipeline that integrates several key technologies to efficiently handle data from ingestion to visualization.
 
-Task groups is been leverraged for parallel processing of tables, and error handling and logging throughout the process is implemented as well.
-
-The DAG is designed to run once, doesn't [backfill](./backfilling.md) missed runs, and ensures only one instance runs at a time. It's flexible and reusable across different environments due to its configuration-driven approach.
+Components Integrated:
+  - postgresSQL
+  - Airflow
+  - DBT
+  - Metabase
+  - Docker, Docker-compose.
 
 ---
 
@@ -79,39 +77,50 @@ The DAG is designed to run once, doesn't [backfill](./backfilling.md) missed run
 
                               services
 
-#### **`Airflow Postgres Database (airflow-postgres)`**
+- _Airflow Postgres Database (`airflow-postgres`)_
+  
 This service sets up the PostgreSQL database for Airflow.
 
-#### **`Source PostgreSQL Database (source-postgres)`**
+- _Source PostgreSQL Database (`source-postgres`)_
+  
 This service manages the source PostgreSQL database used for data ingestion.
 
-#### **`Redis (redis)`**
+- _Redis (`redis`)_
+  
 Redis is used as the message broker for the CeleryExecutor in Airflow.
 
-#### **`Flower (flower)`**
+- _Flower (`flower`)_
+  
 Flower provides a UI for monitoring the Celery workers in Airflow.
 
-#### **`dbt (dbt)`**
+- _dbt (`dbt`)_
+  
 This service builds a Docker image that includes dbt with all available adapters.
 
-#### **`Airflow Webserver (airflow-webserver)`**
+- _Airflow Webserver (`airflow-webserver`)_
+  
 The Airflow webserver provides the UI for Airflow.
 
-#### **`Airflow Scheduler (airflow-scheduler)`**
+- _Airflow Scheduler (`airflow-scheduler`)_
+  
 The Airflow scheduler triggers tasks to be executed.
 
-#### **`Airflow Worker (airflow-worker)`**
+- _Airflow Worker (`airflow-worker`)_
+  
 Celery workers execute the tasks triggered by the scheduler.
 
-#### **`Airflow Triggerer (airflow-triggerer)`**
+- _Airflow Triggerer (`airflow-triggerer`)_
+  
 The triggerer handles deferred tasks in Airflow.
 
-#### **`Airflow Initialization (airflow-init)`**
+- _Airflow Initialization (`airflow-init`)_
+  
 This service runs initialization scripts to prepare the Airflow environment.
 
 ---
 
                               ELT
+
 - **Extraction**
   - leverages `docker-entrypoint-initdb.d` 
 
@@ -121,11 +130,12 @@ In your Docker Compose setup:
 A local `init.sql` file is mounted file to `docker-entrypoint-initdb.d/init.sql` inside the container.
 This `init.sql` script contains SQL commands to create tables and load data from CSV files.
 
-When thecontainer starts for the first time, it will automatically run this init.sql script.
+When the container starts for the first time, it will automatically run this `init.sql` script.
 This approach allows for automating the process of setting up the initial database schema and populating it with data.
 
 - **Load**
-**PG to GCS**
+  
+   **PG to GCS**
    - Uses PostgresToGCSOperator
    - Extracts data from Postgres using a SQL query
    - Loads this data into Google Cloud Storage (GCS) as JSON files
@@ -137,11 +147,12 @@ This approach allows for automating the process of setting up the initial databa
    - Automatically detects the schema of the incoming data
    - Creates the table if it doesn't exist, or truncates and replaces data if it does
    - Each file is named with the table name and a timestamp
+  
+
 - **Transform**
 
-In the transformation phase, dbt (data build tool) is leveraged to process the data loaded into BigQuery. The primary approach taken is normalization to Second Normal Form (2NF).
+In the transformation phase, dbt (data build tool) is leveraged to process the data loaded into BigQuery. The primary approach taken is normalization to _Second Normal Form (2NF)_.
 
-Models are built in dbt to transform the raw data.
 The transformation focuses on normalizing the data to 2NF, which:
 
  - Eliminates partial dependencies
@@ -149,7 +160,7 @@ The transformation focuses on normalizing the data to 2NF, which:
  - Improves data integrity
 
 
-The [normalized structure]() is designed to support analytics questions about the data.
+The [normalized structure](./imgs/olist_2NF_schema.png) is designed to support analytics questions about the data.
 
 
 This approach:
@@ -193,6 +204,97 @@ build models
 ---
 
                               Ochestration
+
+  ```python
+  with DAG(
+    'postgres_to_bigquery_etl',
+    default_args=default_args,
+    description='ETL DAG for uploading multiple tables from Postgres to BigQuery via GCS',
+    schedule_interval='@once',
+    catchup=False,
+    max_active_runs=1
+  ) as dag:
+  ```
+
+This dag automates an ETL process to move data from PostgreSQL to Google BigQuery via Google Cloud Storage. It operates as follows:
+
+1. Loads configuration from a YAML file.
+   ```python
+   def load_config():
+     """
+     Load configuration from YAML file.
+     """
+     try:
+         with open('./config/config.yml', 'r') as file:
+             return yaml.safe_load(file)
+     except Exception as e:
+         logger.error(f"Failed to load configuration: {str(e)}")
+        raise
+   
+   config = load_config()
+   ```
+
+2. Creates a GCS bucket and BigQuery dataset if they don't exist.
+  ```python
+  # Create GCS bucket if it doesn't exist
+    create_bucket = GCSCreateBucketOperator(
+        task_id='create_gcs_bucket',
+        bucket_name=GCS_BUCKET,
+        project_id=GCP_PROJECT_ID,
+        location=GCS_LOCATION,
+        storage_class='REGIONAL',
+        gcp_conn_id=GCP_CONN_ID
+    )
+
+    # creates a bigquery dataset if it dosent alrady exist
+    create_dataset = BigQueryCreateEmptyDatasetOperator(
+        task_id='create_bigquery_dataset',
+        dataset_id=BQ_DATASET,
+        project_id=GCP_PROJECT_ID,
+        location=BQ_LOCATION,
+        exists_ok=True,
+        gcp_conn_id=GCP_CONN_ID
+    )
+  ```
+
+3. For each specified table:
+   - a. Extracts data from `Postgres` and loads it into `GCS`.
+     ```python
+     to_gcs_task = PostgresToGCSOperator(
+          task_id=f'load_{table}_to_gcs',
+          postgres_conn_id=POSTGRES_CONN_ID,
+          gcp_conn_id=GCP_CONN_ID,
+          sql=f'SELECT * FROM cpstn.{table}',
+          bucket=GCS_BUCKET,
+          filename=f'data/{table}_{{{{ execution_date.strftime("%Y%m%d_%H%M%S") }}}}.json',
+          export_format='json',
+          gzip=False,
+     )
+     ```
+   - b. Transfers the data from `GCS` to `BigQuery`.
+     ```python
+     to_bq_task = GCSToBigQueryOperator(
+          task_id=f'load_{table}_to_bigquery',
+          bucket=GCS_BUCKET,
+          source_objects=[f'data/{table}_{{{{ execution_date.strftime("%Y%m%d_%H%M%S") }}}}.json'],
+          destination_project_dataset_table=f'{GCP_PROJECT_ID}.{BQ_DATASET}.{table}',
+          source_format='NEWLINE_DELIMITED_JSON',
+          create_disposition="CREATE_IF_NEEDED",
+          write_disposition='WRITE_TRUNCATE',
+          max_bad_records=5,
+          autodetect=True,
+          gcp_conn_id=GCP_CONN_ID,
+      )
+     ```
+
+Task groups is been leverraged for parallel processing of tables, and error handling and logging throughout the process is implemented as well.
+
+  ```python
+  with TaskGroup(group_id=f'process_{table}') as tg:
+  ```
+
+The DAG is designed to run once, doesn't [backfill](./backfilling.md) missed runs, and ensures only one instance runs at a time. It's flexible and reusable across different environments due to its configuration-driven approach.
+
  #### functionalities of the DAG
 
 - _Imports and Configuration_
@@ -271,7 +373,11 @@ This DAG allows for parallel processing of multiple tables, efficiently transfer
 
 ---
 
-                    Results Report.
+                    Metabase
+                    
+As a user-friendly data visualization tool, Metabase is integrated to provide interactive dashboards and analytics. It connects directly to bigquery intermediate model dataset, allowing for interactice visualization and insights into the data.
+
+###### Results Report.
                 
 ![](./imgs/adt.png)
 ###### average delivery time per an order
@@ -302,6 +408,7 @@ the product name translation is: `healthy_beauty`
 
                               Conclusion
 
+This project serves as a practical demonstration of how modern data engineering tools and practices can be integrated to build a powerful, automated, and scalable data pipeline. The combination of PostgreSQL, Airflow, dbt, Metabase, Docker, and Docker-Compose ensures that data flows smoothly from ingestion to visualization, empowering users with valuable insights and analytics.
 
 ##### File Structure
 
