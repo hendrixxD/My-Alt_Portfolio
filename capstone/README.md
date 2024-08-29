@@ -51,7 +51,7 @@ Ochestrating the injestion and loading of data from postgres to bigquery and ana
 
 ---
 
-![](./imgs/architecture.png)
+![](./imgs/archi.png)
 ###### ELT architecture
 
 ---
