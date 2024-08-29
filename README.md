@@ -3,18 +3,34 @@
 This repository hosts all the project tasks and assignments for the altschool third trimester
 
 ## Projects
-
- - Docker Infrastructure Setup
+ - `Expense Tracker OOP` with
+   - postgres
+   - psycopg2
+   - python
+ - `Crypto Analytics` with
+   - postgresSQL
+   - python
+ - `Card Event Analytics` with
+   - python
+   - postgreSQL
+ - `Basic Docker Infrastructure Setup`
    - Docker Compose
- - Interaction of GCS and Bigquery With
+   - python
+ - `GCS/Bigquery Interaction` With
    - Docker/Docker Compose
    - GCS
    - BigQuery
- - End-To-End ETL Pipeline with
+   - python
+ - `e-commerce startup - events level analysis` with
+   - docker/ docker-compos
+   - python
+   - postgreSQL
+ - `End-To-End ETL Pipeline` with
    - Docker/Docker Compose
    - Postgres
    - Airflow
    - GCS
    - BigQuery
    - DBT
+   - python
 
