@@ -17,3 +17,4 @@ This repository hosts all the project tasks and assignments for the altschool th
    - GCS
    - BigQuery
    - DBT
+
