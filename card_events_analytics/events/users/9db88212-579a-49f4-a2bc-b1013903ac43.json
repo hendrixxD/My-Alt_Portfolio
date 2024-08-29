@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9db88212-579a-49f4-a2bc-b1013903ac43"
+  },
+  "payload": {
+    "id": 926,
+    "name": "Maria Mccarthy",
+    "address": "470 Courtney Circle Apt. 028\nWest Jeffreyland, WI 21889",
+    "job": "Risk manager",
+    "score": 0.6444471052791433
+  }
+}

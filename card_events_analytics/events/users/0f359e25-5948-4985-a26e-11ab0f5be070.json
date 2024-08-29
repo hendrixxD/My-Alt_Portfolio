@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0f359e25-5948-4985-a26e-11ab0f5be070"
+  },
+  "payload": {
+    "id": 524,
+    "name": "Elizabeth Mcbride",
+    "address": "79734 Debra Route\nNew Cheryl, FM 34630",
+    "job": "Psychologist, prison and probation services",
+    "score": 0.9983840217465565
+  }
+}

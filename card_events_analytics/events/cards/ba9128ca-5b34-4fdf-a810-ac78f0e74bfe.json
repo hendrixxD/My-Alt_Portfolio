@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5506,
+    "user_id": 471,
+    "created_by_name": "Catherine Bowen PhD",
+    "updated_at": "2023-10-23 23:28:40",
+    "created_at": "2023-10-23 23:28:40",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:40",
+    "event_id": "ba9128ca-5b34-4fdf-a810-ac78f0e74bfe"
+  }
+}

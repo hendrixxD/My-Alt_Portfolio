@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 912,
+    "user_id": 460,
+    "created_by_name": "David Rivera",
+    "updated_at": "2023-10-23 23:12:15",
+    "created_at": "2023-10-23 23:12:15",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:15",
+    "event_id": "c59e27d1-1742-42ea-9c36-a4b3f282adb0"
+  }
+}

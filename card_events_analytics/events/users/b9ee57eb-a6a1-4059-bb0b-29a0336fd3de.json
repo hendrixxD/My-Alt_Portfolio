@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b9ee57eb-a6a1-4059-bb0b-29a0336fd3de"
+  },
+  "payload": {
+    "id": 212,
+    "name": "Jason Lynch",
+    "address": "PSC 5277, Box 3781\nAPO AE 01935",
+    "job": "Radiographer, therapeutic",
+    "score": 0.39306476800078183
+  }
+}

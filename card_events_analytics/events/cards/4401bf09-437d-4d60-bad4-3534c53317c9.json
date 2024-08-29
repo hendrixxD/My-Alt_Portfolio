@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 534,
+    "user_id": 147,
+    "created_by_name": "Vanessa Parks",
+    "updated_at": "2023-10-23 23:17:59",
+    "created_at": "2023-10-23 23:10:47",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:59",
+    "event_id": "4401bf09-437d-4d60-bad4-3534c53317c9"
+  }
+}

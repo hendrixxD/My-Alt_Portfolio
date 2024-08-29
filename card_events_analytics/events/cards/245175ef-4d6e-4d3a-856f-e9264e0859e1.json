@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 731,
+    "user_id": 438,
+    "created_by_name": "Loretta Mitchell MD",
+    "updated_at": "2023-10-23 23:11:31",
+    "created_at": "2023-10-23 23:11:31",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:31",
+    "event_id": "245175ef-4d6e-4d3a-856f-e9264e0859e1"
+  }
+}

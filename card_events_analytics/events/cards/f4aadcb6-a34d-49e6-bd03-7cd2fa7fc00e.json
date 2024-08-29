@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3841,
+    "user_id": 716,
+    "created_by_name": "Mary Shea",
+    "updated_at": "2023-10-23 23:30:24",
+    "created_at": "2023-10-23 23:22:37",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:24",
+    "event_id": "f4aadcb6-a34d-49e6-bd03-7cd2fa7fc00e"
+  }
+}

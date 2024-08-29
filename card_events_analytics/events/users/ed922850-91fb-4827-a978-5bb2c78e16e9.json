@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ed922850-91fb-4827-a978-5bb2c78e16e9"
+  },
+  "payload": {
+    "id": 525,
+    "name": "Amanda Rivera",
+    "address": "USS Jordan\nFPO AA 23466",
+    "job": "Midwife",
+    "score": 0.8944858627383269
+  }
+}

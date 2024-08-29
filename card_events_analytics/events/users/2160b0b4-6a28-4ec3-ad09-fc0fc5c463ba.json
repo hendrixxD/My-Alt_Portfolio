@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2160b0b4-6a28-4ec3-ad09-fc0fc5c463ba"
+  },
+  "payload": {
+    "id": 591,
+    "name": "Bradley Short",
+    "address": "127 Evans Ridges Suite 716\nEast Marymouth, SD 69304",
+    "job": "Nurse, adult",
+    "score": 0.20369879353764098
+  }
+}

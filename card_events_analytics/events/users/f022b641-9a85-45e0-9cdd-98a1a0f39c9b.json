@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f022b641-9a85-45e0-9cdd-98a1a0f39c9b"
+  },
+  "payload": {
+    "id": 481,
+    "name": "John Bryant",
+    "address": "77203 Morris Plains\nPort Michael, CA 14839",
+    "job": "Investment analyst",
+    "score": 0.13884300751648626
+  }
+}

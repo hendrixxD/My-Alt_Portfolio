@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1547,
+    "user_id": 327,
+    "created_by_name": "Julie Williams",
+    "updated_at": "2023-10-23 23:16:49",
+    "created_at": "2023-10-23 23:14:24",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:49",
+    "event_id": "d797e237-9f3f-4d97-ba72-df485e6354c9"
+  }
+}

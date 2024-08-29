@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 443,
+    "user_id": 597,
+    "created_by_name": "Teresa Keller",
+    "updated_at": "2023-10-23 23:10:27",
+    "created_at": "2023-10-23 23:10:27",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:27",
+    "event_id": "8dd0a2db-41e8-421f-873a-e1b096269860"
+  }
+}

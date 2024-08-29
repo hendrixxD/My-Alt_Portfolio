@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2f71291e-1453-4656-84f0-89bd669bf34d"
+  },
+  "payload": {
+    "id": 739,
+    "name": "Christopher Fowler",
+    "address": "085 Gordon Orchard\nCraighaven, MH 60977",
+    "job": "Clinical psychologist",
+    "score": 0.2828759746976286
+  }
+}

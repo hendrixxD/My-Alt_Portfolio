@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4fee435b-f497-4110-bb76-6ee2e2031002"
+  },
+  "payload": {
+    "id": 864,
+    "name": "Mrs. Ashley Jones",
+    "address": "PSC 4212, Box 9440\nAPO AE 65902",
+    "job": "Exhibitions officer, museum/gallery",
+    "score": 0.5992463218671472
+  }
+}

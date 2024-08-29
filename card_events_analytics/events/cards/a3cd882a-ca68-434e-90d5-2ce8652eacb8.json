@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1329,
+    "created_by_name": "Bonnie Powell",
+    "updated_at": "2023-10-23 23:17:24",
+    "created_at": "2023-10-23 23:13:37",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:24",
+    "event_id": "a3cd882a-ca68-434e-90d5-2ce8652eacb8"
+  }
+}

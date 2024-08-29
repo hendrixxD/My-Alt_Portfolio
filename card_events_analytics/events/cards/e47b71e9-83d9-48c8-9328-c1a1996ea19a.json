@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1449,
+    "user_id": 781,
+    "created_by_name": "Charles Nolan",
+    "updated_at": "2023-10-23 23:19:39",
+    "created_at": "2023-10-23 23:14:03",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:39",
+    "event_id": "e47b71e9-83d9-48c8-9328-c1a1996ea19a"
+  }
+}

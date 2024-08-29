@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6e653271-9fda-43eb-a75a-f439ff2e28e1"
+  },
+  "payload": {
+    "id": 65,
+    "name": "Kayla Bennett",
+    "address": "7233 Smith Trail\nWest Samantha, LA 03774",
+    "job": "Sports therapist",
+    "score": 0.04145293551103313
+  }
+}

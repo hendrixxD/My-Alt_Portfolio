@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4352,
+    "user_id": 451,
+    "created_by_name": "Diane Hutchinson",
+    "updated_at": "2023-10-23 23:24:57",
+    "created_at": "2023-10-23 23:24:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:57",
+    "event_id": "6029ee27-e8f3-41af-ad61-9149e65b3df1"
+  }
+}

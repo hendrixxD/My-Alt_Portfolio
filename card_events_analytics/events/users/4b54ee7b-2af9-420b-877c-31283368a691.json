@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4b54ee7b-2af9-420b-877c-31283368a691"
+  },
+  "payload": {
+    "id": 141,
+    "name": "Ariel Leonard",
+    "address": "4598 Price Stravenue\nLake Brianfort, ND 88112",
+    "job": "Designer, television/film set",
+    "score": 0.4789260817025046
+  }
+}

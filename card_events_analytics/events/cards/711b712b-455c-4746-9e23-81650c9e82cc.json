@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 939,
+    "user_id": 786,
+    "created_by_name": "Christopher Hernandez",
+    "updated_at": "2023-10-23 23:23:24",
+    "created_at": "2023-10-23 23:12:21",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:24",
+    "event_id": "711b712b-455c-4746-9e23-81650c9e82cc"
+  }
+}

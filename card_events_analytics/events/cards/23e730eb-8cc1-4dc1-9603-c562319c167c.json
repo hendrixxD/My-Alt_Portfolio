@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3580,
+    "user_id": 447,
+    "created_by_name": "Nicholas Trevino",
+    "updated_at": "2023-10-23 23:21:47",
+    "created_at": "2023-10-23 23:21:47",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:47",
+    "event_id": "23e730eb-8cc1-4dc1-9603-c562319c167c"
+  }
+}

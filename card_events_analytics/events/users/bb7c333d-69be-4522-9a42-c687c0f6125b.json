@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bb7c333d-69be-4522-9a42-c687c0f6125b"
+  },
+  "payload": {
+    "id": 328,
+    "name": "Robert Peters",
+    "address": "7140 Kevin Route\nPort Adamstad, NY 60366",
+    "job": "Catering manager",
+    "score": 0.4933628246147841
+  }
+}

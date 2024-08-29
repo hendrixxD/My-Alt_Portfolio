@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b7620df2-73d2-4ff4-9215-1ce4da55a75d"
+  },
+  "payload": {
+    "id": 335,
+    "name": "Regina Ward",
+    "address": "Unit 7421 Box 5208\nDPO AP 52203",
+    "job": "Accommodation manager",
+    "score": 0.39532707715365945
+  }
+}

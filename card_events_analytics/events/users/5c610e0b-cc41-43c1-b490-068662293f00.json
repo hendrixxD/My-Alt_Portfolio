@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5c610e0b-cc41-43c1-b490-068662293f00"
+  },
+  "payload": {
+    "id": 323,
+    "name": "Timothy Smith",
+    "address": "9602 Jeffrey Isle\nLoritown, MD 39428",
+    "job": "Logistics and distribution manager",
+    "score": 0.5406854152942424
+  }
+}

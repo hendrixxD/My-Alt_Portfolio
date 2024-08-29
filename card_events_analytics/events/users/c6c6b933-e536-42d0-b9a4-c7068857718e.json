@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c6c6b933-e536-42d0-b9a4-c7068857718e"
+  },
+  "payload": {
+    "id": 463,
+    "name": "Ebony Brown",
+    "address": "65923 Stephanie Drive\nNorth Brian, AR 91689",
+    "job": "Acupuncturist",
+    "score": 0.9017204098863688
+  }
+}

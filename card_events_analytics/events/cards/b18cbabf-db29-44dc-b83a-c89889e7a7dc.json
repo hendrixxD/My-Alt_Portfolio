@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 771,
+    "user_id": 2,
+    "created_by_name": "Desiree Hancock",
+    "updated_at": "2023-10-23 23:21:39",
+    "created_at": "2023-10-23 23:11:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:39",
+    "event_id": "b18cbabf-db29-44dc-b83a-c89889e7a7dc"
+  }
+}

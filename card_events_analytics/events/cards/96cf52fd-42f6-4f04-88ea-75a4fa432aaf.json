@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2619,
+    "user_id": 984,
+    "created_by_name": "Jay Obrien",
+    "updated_at": "2023-10-23 23:22:31",
+    "created_at": "2023-10-23 23:18:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:31",
+    "event_id": "96cf52fd-42f6-4f04-88ea-75a4fa432aaf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "73f7f0e3-e690-4822-9e73-12de3253f04c"
+  },
+  "payload": {
+    "id": 259,
+    "name": "Megan Combs",
+    "address": "75367 Gary Spurs Apt. 775\nWilliamsbury, NY 07441",
+    "job": "Music therapist",
+    "score": 0.4583112343358383
+  }
+}

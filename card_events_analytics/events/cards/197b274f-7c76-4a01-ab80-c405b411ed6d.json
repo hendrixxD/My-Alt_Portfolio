@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 5364,
+    "created_by_name": "Tammy Gonzalez",
+    "updated_at": "2023-10-23 23:28:03",
+    "created_at": "2023-10-23 23:28:03",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:03",
+    "event_id": "197b274f-7c76-4a01-ab80-c405b411ed6d"
+  }
+}

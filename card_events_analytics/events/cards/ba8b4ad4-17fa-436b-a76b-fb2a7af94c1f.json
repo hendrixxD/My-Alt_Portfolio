@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 262,
+    "user_id": 326,
+    "created_by_name": "Ryan Spencer",
+    "updated_at": "2023-10-23 23:12:53",
+    "created_at": "2023-10-23 23:09:48",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:53",
+    "event_id": "ba8b4ad4-17fa-436b-a76b-fb2a7af94c1f"
+  }
+}

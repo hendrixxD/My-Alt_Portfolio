@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2201,
+    "user_id": 252,
+    "created_by_name": "Eric Griffin",
+    "updated_at": "2023-10-23 23:16:45",
+    "created_at": "2023-10-23 23:16:45",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:45",
+    "event_id": "199806b8-b69e-4184-aa9d-4ca8b7cc296a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5060,
+    "user_id": 579,
+    "created_by_name": "Joseph Taylor",
+    "updated_at": "2023-10-23 23:26:51",
+    "created_at": "2023-10-23 23:26:51",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:51",
+    "event_id": "c15c0a7b-603d-44b7-a960-cde2c96ae30c"
+  }
+}

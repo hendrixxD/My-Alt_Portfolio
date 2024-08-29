@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4347,
+    "user_id": 165,
+    "created_by_name": "Lori Walker",
+    "updated_at": "2023-10-23 23:24:26",
+    "created_at": "2023-10-23 23:24:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:26",
+    "event_id": "dc629754-b6dc-4423-8e69-ab3a169329e2"
+  }
+}

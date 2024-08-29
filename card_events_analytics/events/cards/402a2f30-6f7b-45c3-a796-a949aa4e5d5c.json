@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1805,
+    "user_id": 889,
+    "created_by_name": "Curtis Brown",
+    "updated_at": "2023-10-23 23:15:19",
+    "created_at": "2023-10-23 23:15:19",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:19",
+    "event_id": "402a2f30-6f7b-45c3-a796-a949aa4e5d5c"
+  }
+}

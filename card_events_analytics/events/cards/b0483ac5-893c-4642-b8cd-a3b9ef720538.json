@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2681,
+    "user_id": 461,
+    "created_by_name": "Kevin Gibbs",
+    "updated_at": "2023-10-23 23:18:32",
+    "created_at": "2023-10-23 23:18:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:32",
+    "event_id": "b0483ac5-893c-4642-b8cd-a3b9ef720538"
+  }
+}

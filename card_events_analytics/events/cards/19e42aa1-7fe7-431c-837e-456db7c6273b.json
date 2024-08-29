@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5833,
+    "user_id": 534,
+    "created_by_name": "Heather Leon MD",
+    "updated_at": "2023-10-23 23:29:52",
+    "created_at": "2023-10-23 23:29:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:52",
+    "event_id": "19e42aa1-7fe7-431c-837e-456db7c6273b"
+  }
+}

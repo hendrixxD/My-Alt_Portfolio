@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7edaf05e-b4bd-4c91-8326-34eab39cb75e"
+  },
+  "payload": {
+    "id": 551,
+    "name": "Jasmine Patel",
+    "address": "7465 Anderson Mountain\nHansentown, DE 17638",
+    "job": "Senior tax professional/tax inspector",
+    "score": 0.9283514841016108
+  }
+}

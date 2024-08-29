@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5587,
+    "user_id": 838,
+    "created_by_name": "Michael Harvey",
+    "updated_at": "2023-10-23 23:28:57",
+    "created_at": "2023-10-23 23:28:57",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:57",
+    "event_id": "a66c80f0-ebf4-47a5-a00f-b84bf8690871"
+  }
+}

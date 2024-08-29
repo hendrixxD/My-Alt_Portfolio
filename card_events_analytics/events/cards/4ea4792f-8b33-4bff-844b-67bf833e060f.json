@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4105,
+    "user_id": 69,
+    "created_by_name": "Kevin Cunningham",
+    "updated_at": "2023-10-23 23:23:35",
+    "created_at": "2023-10-23 23:23:35",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:35",
+    "event_id": "4ea4792f-8b33-4bff-844b-67bf833e060f"
+  }
+}

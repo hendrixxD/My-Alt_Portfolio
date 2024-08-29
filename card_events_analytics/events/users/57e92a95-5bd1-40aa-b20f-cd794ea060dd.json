@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "57e92a95-5bd1-40aa-b20f-cd794ea060dd"
+  },
+  "payload": {
+    "id": 550,
+    "name": "Tracey Stone",
+    "address": "961 Jamie Square Suite 924\nLake Jennifer, FL 69975",
+    "job": "Armed forces logistics/support/administrative officer",
+    "score": 0.8691565481901847
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4511,
+    "user_id": 746,
+    "created_by_name": "Tracy Anderson",
+    "updated_at": "2023-10-23 23:25:00",
+    "created_at": "2023-10-23 23:25:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:00",
+    "event_id": "d5a2ab64-deed-4aa6-9956-15de48ec5fa5"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5972,
+    "user_id": 68,
+    "created_by_name": "Matthew Garcia",
+    "updated_at": "2023-10-23 23:30:27",
+    "created_at": "2023-10-23 23:30:27",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:27",
+    "event_id": "c6df72ab-db37-4772-9cd5-985e9e59faae"
+  }
+}

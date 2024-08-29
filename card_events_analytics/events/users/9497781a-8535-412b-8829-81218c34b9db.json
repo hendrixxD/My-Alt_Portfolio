@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9497781a-8535-412b-8829-81218c34b9db"
+  },
+  "payload": {
+    "id": 921,
+    "name": "Gabriel Chavez",
+    "address": "3827 Charles Courts Suite 046\nEricbury, NE 31674",
+    "job": "Sub",
+    "score": 0.8673159066348652
+  }
+}

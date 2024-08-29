@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4982,
+    "user_id": 78,
+    "created_by_name": "Timothy Sanders",
+    "updated_at": "2023-10-23 23:26:34",
+    "created_at": "2023-10-23 23:26:34",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:34",
+    "event_id": "8cff3439-56e4-4ec0-85f5-5af3d32b1f0b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1381,
+    "user_id": 599,
+    "created_by_name": "Susan Boyer",
+    "updated_at": "2023-10-23 23:20:24",
+    "created_at": "2023-10-23 23:13:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:24",
+    "event_id": "3b18b835-14d5-4607-80fa-e432267a84b9"
+  }
+}

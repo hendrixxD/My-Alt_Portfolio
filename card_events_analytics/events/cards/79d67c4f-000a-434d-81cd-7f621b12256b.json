@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5201,
+    "user_id": 219,
+    "created_by_name": "Julie Ortiz",
+    "updated_at": "2023-10-23 23:27:26",
+    "created_at": "2023-10-23 23:27:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:26",
+    "event_id": "79d67c4f-000a-434d-81cd-7f621b12256b"
+  }
+}

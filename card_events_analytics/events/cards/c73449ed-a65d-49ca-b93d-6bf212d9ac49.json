@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1174,
+    "created_by_name": "Jay Smith",
+    "updated_at": "2023-10-23 23:13:19",
+    "created_at": "2023-10-23 23:13:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:19",
+    "event_id": "c73449ed-a65d-49ca-b93d-6bf212d9ac49"
+  }
+}

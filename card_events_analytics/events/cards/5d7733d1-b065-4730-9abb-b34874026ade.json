@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1131,
+    "user_id": 178,
+    "created_by_name": "Seth Sanford",
+    "updated_at": "2023-10-23 23:15:20",
+    "created_at": "2023-10-23 23:12:56",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:20",
+    "event_id": "5d7733d1-b065-4730-9abb-b34874026ade"
+  }
+}

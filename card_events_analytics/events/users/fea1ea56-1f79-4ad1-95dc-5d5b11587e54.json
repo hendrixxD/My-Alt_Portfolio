@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fea1ea56-1f79-4ad1-95dc-5d5b11587e54"
+  },
+  "payload": {
+    "id": 910,
+    "name": "Eric Hubbard",
+    "address": "1757 Richard Pine\nCervantesport, MP 78227",
+    "job": "Clinical scientist, histocompatibility and immunogenetics",
+    "score": 0.26885761645121287
+  }
+}

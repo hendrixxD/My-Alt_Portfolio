@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ad7c3e8c-60a6-48dc-b3d2-d22573eb98d6"
+  },
+  "payload": {
+    "id": 39,
+    "name": "Timothy Walker",
+    "address": "04817 Kathryn Common Apt. 445\nEast Cory, SD 30817",
+    "job": "Theme park manager",
+    "score": 0.6151929225584953
+  }
+}

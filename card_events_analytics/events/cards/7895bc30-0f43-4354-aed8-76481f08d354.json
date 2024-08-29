@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2646,
+    "user_id": 87,
+    "created_by_name": "Jason Hoffman",
+    "updated_at": "2023-10-23 23:21:10",
+    "created_at": "2023-10-23 23:18:23",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:10",
+    "event_id": "7895bc30-0f43-4354-aed8-76481f08d354"
+  }
+}

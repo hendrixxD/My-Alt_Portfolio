@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2161,
+    "created_by_name": "Lynn Collins",
+    "updated_at": "2023-10-23 23:23:48",
+    "created_at": "2023-10-23 23:16:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:48",
+    "event_id": "c27c422c-e533-4d29-ac32-9a651ba254ed"
+  }
+}

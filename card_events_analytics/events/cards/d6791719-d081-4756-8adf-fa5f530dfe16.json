@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1915,
+    "user_id": 897,
+    "created_by_name": "Vincent Brown",
+    "updated_at": "2023-10-23 23:27:21",
+    "created_at": "2023-10-23 23:15:41",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:21",
+    "event_id": "d6791719-d081-4756-8adf-fa5f530dfe16"
+  }
+}

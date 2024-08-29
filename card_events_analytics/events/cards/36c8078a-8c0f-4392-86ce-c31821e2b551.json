@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1203,
+    "user_id": 234,
+    "created_by_name": "Corey Morris",
+    "updated_at": "2023-10-23 23:13:11",
+    "created_at": "2023-10-23 23:13:11",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:11",
+    "event_id": "36c8078a-8c0f-4392-86ce-c31821e2b551"
+  }
+}

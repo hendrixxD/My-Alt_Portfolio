@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6371f3b9-4763-440a-8c3c-45d210d29784"
+  },
+  "payload": {
+    "id": 255,
+    "name": "Bobby Peterson",
+    "address": "11594 Steele Square Apt. 352\nNew Sandra, TN 58644",
+    "job": "Probation officer",
+    "score": 0.2139889978153936
+  }
+}

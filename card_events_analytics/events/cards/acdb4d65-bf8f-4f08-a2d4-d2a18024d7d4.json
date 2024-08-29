@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1440,
+    "created_by_name": "Alice Cooke",
+    "updated_at": "2023-10-23 23:16:59",
+    "created_at": "2023-10-23 23:14:01",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:59",
+    "event_id": "acdb4d65-bf8f-4f08-a2d4-d2a18024d7d4"
+  }
+}

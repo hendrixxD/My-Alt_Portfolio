@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8f35c61a-5776-4423-bd1e-09d41b12d735"
+  },
+  "payload": {
+    "id": 437,
+    "name": "Stephen Nichols",
+    "address": "0278 Jimenez Burgs Suite 494\nLake Joshua, GU 61925",
+    "job": "Chiropractor",
+    "score": 0.9327715301883437
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4344,
+    "user_id": 685,
+    "created_by_name": "Diane Logan",
+    "updated_at": "2023-10-23 23:24:25",
+    "created_at": "2023-10-23 23:24:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:25",
+    "event_id": "87fbccf7-ebfe-4bf2-9e09-cdd95f7bd700"
+  }
+}

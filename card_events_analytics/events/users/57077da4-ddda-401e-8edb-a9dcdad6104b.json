@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "57077da4-ddda-401e-8edb-a9dcdad6104b"
+  },
+  "payload": {
+    "id": 252,
+    "name": "Joseph Crawford",
+    "address": "Unit 4213 Box 1492\nDPO AA 47508",
+    "job": "Theatre director",
+    "score": 0.7667319419864472
+  }
+}

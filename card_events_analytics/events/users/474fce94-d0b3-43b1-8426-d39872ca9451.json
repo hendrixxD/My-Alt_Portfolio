@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "474fce94-d0b3-43b1-8426-d39872ca9451"
+  },
+  "payload": {
+    "id": 202,
+    "name": "David Yates",
+    "address": "USS Scott\nFPO AE 71551",
+    "job": "Exhibitions officer, museum/gallery",
+    "score": 0.645434081470975
+  }
+}

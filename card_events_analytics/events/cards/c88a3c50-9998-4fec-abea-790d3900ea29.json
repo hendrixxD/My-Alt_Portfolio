@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 860,
+    "user_id": 403,
+    "created_by_name": "Tiffany Smith",
+    "updated_at": "2023-10-23 23:14:46",
+    "created_at": "2023-10-23 23:12:04",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:46",
+    "event_id": "c88a3c50-9998-4fec-abea-790d3900ea29"
+  }
+}

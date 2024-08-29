@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "78440ca1-b1db-42f9-aff2-31bce18e97c7"
+  },
+  "payload": {
+    "id": 831,
+    "name": "Patricia Hoffman",
+    "address": "1944 Matthew Pines\nEast Christopher, MI 81287",
+    "job": "Print production planner",
+    "score": 0.32781036979577904
+  }
+}

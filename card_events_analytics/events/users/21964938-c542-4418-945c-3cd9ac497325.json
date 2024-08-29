@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "21964938-c542-4418-945c-3cd9ac497325"
+  },
+  "payload": {
+    "id": 725,
+    "name": "Jennifer Boyle",
+    "address": "78220 Donaldson Stravenue Apt. 016\nEvansview, GU 60449",
+    "job": "Engineer, mining",
+    "score": 0.6996489970132299
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1644,
+    "user_id": 611,
+    "created_by_name": "Christy Kennedy",
+    "updated_at": "2023-10-23 23:26:37",
+    "created_at": "2023-10-23 23:14:46",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:37",
+    "event_id": "896cfac3-5a84-4ca4-8ef9-87bcd2adda32"
+  }
+}

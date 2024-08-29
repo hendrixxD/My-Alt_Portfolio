@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 607,
+    "user_id": 34,
+    "created_by_name": "Douglas Cohen",
+    "updated_at": "2023-10-23 23:14:05",
+    "created_at": "2023-10-23 23:11:03",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:05",
+    "event_id": "c1a26f1c-ee6c-43e1-a717-168954be43bd"
+  }
+}

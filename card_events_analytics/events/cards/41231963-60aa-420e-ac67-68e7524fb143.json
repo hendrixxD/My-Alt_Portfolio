@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3487,
+    "user_id": 328,
+    "created_by_name": "Jeffrey Johnston",
+    "updated_at": "2023-10-23 23:25:13",
+    "created_at": "2023-10-23 23:21:27",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:13",
+    "event_id": "41231963-60aa-420e-ac67-68e7524fb143"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6d0ff94e-37f3-4ef3-97c0-4650a6779273"
+  },
+  "payload": {
+    "id": 21,
+    "name": "Megan Smith",
+    "address": "027 Brewer Pass\nButlerhaven, NE 14493",
+    "job": "Advertising art director",
+    "score": 0.6067533405362495
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 955,
+    "user_id": 73,
+    "created_by_name": "Michael Clark",
+    "updated_at": "2023-10-23 23:20:37",
+    "created_at": "2023-10-23 23:12:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:37",
+    "event_id": "bfcdbe27-6493-4840-94f8-b543f6c390cb"
+  }
+}

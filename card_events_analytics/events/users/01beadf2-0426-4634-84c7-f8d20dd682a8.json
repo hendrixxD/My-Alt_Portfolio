@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "01beadf2-0426-4634-84c7-f8d20dd682a8"
+  },
+  "payload": {
+    "id": 261,
+    "name": "Thomas Yates",
+    "address": "63727 Angela Trail Suite 189\nMedinaberg, KY 39557",
+    "job": "Scientist, audiological",
+    "score": 0.30436038365766016
+  }
+}

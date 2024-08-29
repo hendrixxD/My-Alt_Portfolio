@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5743,
+    "user_id": 276,
+    "created_by_name": "Stephen Cervantes",
+    "updated_at": "2023-10-23 23:29:30",
+    "created_at": "2023-10-23 23:29:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:30",
+    "event_id": "d7ada4be-2355-42ee-8d8c-70a463215242"
+  }
+}

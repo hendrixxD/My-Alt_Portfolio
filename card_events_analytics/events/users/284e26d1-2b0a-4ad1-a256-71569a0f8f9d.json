@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "284e26d1-2b0a-4ad1-a256-71569a0f8f9d"
+  },
+  "payload": {
+    "id": 972,
+    "name": "Luis Baird",
+    "address": "3065 Johnson Drive Apt. 775\nAnaton, MS 97515",
+    "job": "Hotel manager",
+    "score": 0.18305533378055372
+  }
+}

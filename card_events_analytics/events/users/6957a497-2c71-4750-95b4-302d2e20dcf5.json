@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6957a497-2c71-4750-95b4-302d2e20dcf5"
+  },
+  "payload": {
+    "id": 457,
+    "name": "Peter Castro",
+    "address": "42885 Chase Lodge Suite 725\nSouth Davidbury, WY 34307",
+    "job": "Chief Technology Officer",
+    "score": 0.7281427142832111
+  }
+}

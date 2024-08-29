@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6d5d577b-acf0-414a-9e39-58552fadbeff"
+  },
+  "payload": {
+    "id": 821,
+    "name": "James Bailey",
+    "address": "75169 Barker Forest\nWest Danielburgh, AR 10493",
+    "job": "Therapist, occupational",
+    "score": 0.4136715115598881
+  }
+}

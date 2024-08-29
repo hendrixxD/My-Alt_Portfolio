@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "daf9085a-5755-4631-b9b4-d4dbd160606d"
+  },
+  "payload": {
+    "id": 186,
+    "name": "Madison Smith",
+    "address": "Unit 2436 Box 1968\nDPO AP 15013",
+    "job": "Teacher, English as a foreign language",
+    "score": 0.39848176011576353
+  }
+}

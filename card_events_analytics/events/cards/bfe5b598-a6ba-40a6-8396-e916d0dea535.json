@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1684,
+    "user_id": 404,
+    "created_by_name": "Karen Dillon",
+    "updated_at": "2023-10-23 23:21:10",
+    "created_at": "2023-10-23 23:14:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:10",
+    "event_id": "bfe5b598-a6ba-40a6-8396-e916d0dea535"
+  }
+}

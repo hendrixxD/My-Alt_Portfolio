@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 0,
+    "user_id": 361,
+    "created_by_name": "Amy Wolf",
+    "updated_at": "2023-10-23 23:19:28",
+    "created_at": "2023-10-23 23:08:50",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:28",
+    "event_id": "8dc97d8a-1772-43f0-a958-b4b4ca30a6ab"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2459,
+    "user_id": 19,
+    "created_by_name": "Shannon Bradley",
+    "updated_at": "2023-10-23 23:19:13",
+    "created_at": "2023-10-23 23:17:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:13",
+    "event_id": "6111b552-e515-40c1-99b3-faf30becf5eb"
+  }
+}

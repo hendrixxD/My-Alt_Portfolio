@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2135,
+    "user_id": 526,
+    "created_by_name": "John Bell",
+    "updated_at": "2023-10-23 23:23:07",
+    "created_at": "2023-10-23 23:16:29",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:07",
+    "event_id": "93b6e8fb-2a1a-41bd-8580-35921ff412d9"
+  }
+}

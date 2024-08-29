@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2622,
+    "user_id": 155,
+    "created_by_name": "Brooke Brown",
+    "updated_at": "2023-10-23 23:18:17",
+    "created_at": "2023-10-23 23:18:17",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:17",
+    "event_id": "93827b2b-ef7d-47e5-a752-8ed648f08541"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f467b782-b2c6-44c5-95a2-afe965c41577"
+  },
+  "payload": {
+    "id": 251,
+    "name": "Jennifer Banks",
+    "address": "USS Patel\nFPO AA 13087",
+    "job": "Set designer",
+    "score": 0.2014762726514805
+  }
+}

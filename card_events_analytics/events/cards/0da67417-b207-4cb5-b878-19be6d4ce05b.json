@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2369,
+    "created_by_name": "Lindsay Maddox",
+    "updated_at": "2023-10-23 23:23:59",
+    "created_at": "2023-10-23 23:17:21",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:59",
+    "event_id": "0da67417-b207-4cb5-b878-19be6d4ce05b"
+  }
+}

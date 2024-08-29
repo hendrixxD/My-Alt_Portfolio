@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 375,
+    "user_id": 780,
+    "created_by_name": "Tiffany Crawford",
+    "updated_at": "2023-10-23 23:13:18",
+    "created_at": "2023-10-23 23:10:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:18",
+    "event_id": "a6e606ac-1f56-43cd-baf3-9587f668b2f1"
+  }
+}

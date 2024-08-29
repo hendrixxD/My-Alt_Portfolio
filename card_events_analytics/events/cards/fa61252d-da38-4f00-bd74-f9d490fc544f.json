@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 458,
+    "user_id": 961,
+    "created_by_name": "Jessica Taylor",
+    "updated_at": "2023-10-23 23:10:30",
+    "created_at": "2023-10-23 23:10:30",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:30",
+    "event_id": "fa61252d-da38-4f00-bd74-f9d490fc544f"
+  }
+}

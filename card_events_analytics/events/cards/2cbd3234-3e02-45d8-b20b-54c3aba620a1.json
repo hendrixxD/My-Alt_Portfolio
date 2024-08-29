@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2680,
+    "user_id": 723,
+    "created_by_name": "Dr. Mark Cannon",
+    "updated_at": "2023-10-23 23:23:18",
+    "created_at": "2023-10-23 23:18:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:18",
+    "event_id": "2cbd3234-3e02-45d8-b20b-54c3aba620a1"
+  }
+}

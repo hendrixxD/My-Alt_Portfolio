@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a4af32b6-e5d7-486a-8652-3565fde03b74"
+  },
+  "payload": {
+    "id": 569,
+    "name": "Carolyn Brown",
+    "address": "10790 Michael Valley Suite 949\nEast Robin, GA 35095",
+    "job": "Systems analyst",
+    "score": 0.17704865549351823
+  }
+}

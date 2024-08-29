@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2248,
+    "user_id": 644,
+    "created_by_name": "Brian Davis",
+    "updated_at": "2023-10-23 23:17:25",
+    "created_at": "2023-10-23 23:16:53",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:25",
+    "event_id": "5529fd3a-98b6-40a2-8069-28e7d77508eb"
+  }
+}

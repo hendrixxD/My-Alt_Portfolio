@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 644,
+    "user_id": 650,
+    "created_by_name": "David Adams",
+    "updated_at": "2023-10-23 23:22:31",
+    "created_at": "2023-10-23 23:11:10",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:31",
+    "event_id": "48e4548c-d1c5-4c45-b5f9-b6e6183ff9e5"
+  }
+}

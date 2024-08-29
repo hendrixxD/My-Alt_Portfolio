@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a010fe49-7496-40ae-9c21-e35fd8224e12"
+  },
+  "payload": {
+    "id": 281,
+    "name": "Joshua Jackson",
+    "address": "6296 Barbara Parkways\nElizabethport, WY 26558",
+    "job": "Oceanographer",
+    "score": 0.9379996052095372
+  }
+}

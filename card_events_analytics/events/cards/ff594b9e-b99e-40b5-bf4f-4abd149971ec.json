@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3324,
+    "user_id": 768,
+    "created_by_name": "Nicholas Floyd",
+    "updated_at": "2023-10-23 23:28:47",
+    "created_at": "2023-10-23 23:20:50",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:47",
+    "event_id": "ff594b9e-b99e-40b5-bf4f-4abd149971ec"
+  }
+}

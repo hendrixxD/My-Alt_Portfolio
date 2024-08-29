@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2907,
+    "user_id": 623,
+    "created_by_name": "Amy Webster",
+    "updated_at": "2023-10-23 23:26:22",
+    "created_at": "2023-10-23 23:19:18",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:22",
+    "event_id": "48835263-4765-4970-b545-2c19834a87ee"
+  }
+}

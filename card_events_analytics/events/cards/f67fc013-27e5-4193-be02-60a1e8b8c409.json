@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 666,
+    "user_id": 668,
+    "created_by_name": "Crystal Moore",
+    "updated_at": "2023-10-23 23:16:23",
+    "created_at": "2023-10-23 23:11:16",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:23",
+    "event_id": "f67fc013-27e5-4193-be02-60a1e8b8c409"
+  }
+}

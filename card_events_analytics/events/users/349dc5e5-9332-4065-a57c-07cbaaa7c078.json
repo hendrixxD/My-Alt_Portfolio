@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "349dc5e5-9332-4065-a57c-07cbaaa7c078"
+  },
+  "payload": {
+    "id": 57,
+    "name": "Brent Johnson",
+    "address": "31596 Christopher Mount Apt. 367\nCrystalchester, MA 31688",
+    "job": "Arboriculturist",
+    "score": 0.14705475669879498
+  }
+}

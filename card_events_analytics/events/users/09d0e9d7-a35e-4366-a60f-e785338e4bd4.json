@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "09d0e9d7-a35e-4366-a60f-e785338e4bd4"
+  },
+  "payload": {
+    "id": 894,
+    "name": "Andres Carr",
+    "address": "3088 Adam Meadow\nRichardshire, NY 74930",
+    "job": "Learning disability nurse",
+    "score": 0.6890543674183967
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 331,
+    "user_id": 686,
+    "created_by_name": "Leah Choi",
+    "updated_at": "2023-10-23 23:10:02",
+    "created_at": "2023-10-23 23:10:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:02",
+    "event_id": "a0185d48-6b44-4622-89a1-d1af01ef7193"
+  }
+}

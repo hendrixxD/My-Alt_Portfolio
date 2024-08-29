@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9183fcf3-61c6-4984-bd9c-d728df0066ac"
+  },
+  "payload": {
+    "id": 484,
+    "name": "Mark Johnson",
+    "address": "2626 Baker Court\nGilmorefort, MH 62847",
+    "job": "Engineer, building services",
+    "score": 0.19859658897120558
+  }
+}

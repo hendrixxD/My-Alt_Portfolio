@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5080,
+    "user_id": 774,
+    "created_by_name": "Amy Logan",
+    "updated_at": "2023-10-23 23:26:55",
+    "created_at": "2023-10-23 23:26:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:55",
+    "event_id": "39d59dd5-afee-4eda-afa0-d8ddab74ef23"
+  }
+}

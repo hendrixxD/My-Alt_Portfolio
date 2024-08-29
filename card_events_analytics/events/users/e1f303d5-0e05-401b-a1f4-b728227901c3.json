@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e1f303d5-0e05-401b-a1f4-b728227901c3"
+  },
+  "payload": {
+    "id": 961,
+    "name": "Alexander Atkinson",
+    "address": "68240 Dustin Throughway Apt. 150\nNew Karafurt, VA 69301",
+    "job": "Bonds trader",
+    "score": 0.1148850184037038
+  }
+}

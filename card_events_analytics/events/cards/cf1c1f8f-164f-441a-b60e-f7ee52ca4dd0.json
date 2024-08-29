@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3346,
+    "user_id": 873,
+    "created_by_name": "Tammy Long",
+    "updated_at": "2023-10-23 23:28:03",
+    "created_at": "2023-10-23 23:20:55",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:03",
+    "event_id": "cf1c1f8f-164f-441a-b60e-f7ee52ca4dd0"
+  }
+}

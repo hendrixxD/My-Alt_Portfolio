@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8e96d3e0-e172-403c-bd5f-91596f0c6c69"
+  },
+  "payload": {
+    "id": 380,
+    "name": "Alan Glover",
+    "address": "99801 Jones Garden Apt. 244\nBellfort, VT 43828",
+    "job": "Engineer, energy",
+    "score": 0.6317810922737619
+  }
+}

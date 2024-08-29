@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2976,
+    "user_id": 973,
+    "created_by_name": "Jessica Frost",
+    "updated_at": "2023-10-23 23:25:17",
+    "created_at": "2023-10-23 23:19:32",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:17",
+    "event_id": "e4bda352-115a-4e68-84a6-f692fc302ff6"
+  }
+}

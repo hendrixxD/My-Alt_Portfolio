@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "758c2ef9-3cae-4d40-b0b9-864641e89a1e"
+  },
+  "payload": {
+    "id": 789,
+    "name": "Kevin Cardenas",
+    "address": "603 Jimmy Knoll Apt. 244\nPort Jerryland, IN 03884",
+    "job": "Engineer, aeronautical",
+    "score": 0.8476809677726466
+  }
+}

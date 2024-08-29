@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b4779591-935d-4f60-81d8-2a2031c9dd57"
+  },
+  "payload": {
+    "id": 625,
+    "name": "Bernard Andrews",
+    "address": "4611 Hernandez Grove Suite 761\nPort Gerald, PA 02873",
+    "job": "Associate Professor",
+    "score": 0.22238554786827103
+  }
+}

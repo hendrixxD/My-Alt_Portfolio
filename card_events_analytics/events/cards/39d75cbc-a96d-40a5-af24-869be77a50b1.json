@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 554,
+    "user_id": 822,
+    "created_by_name": "Krista Leach",
+    "updated_at": "2023-10-23 23:18:38",
+    "created_at": "2023-10-23 23:10:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:38",
+    "event_id": "39d75cbc-a96d-40a5-af24-869be77a50b1"
+  }
+}

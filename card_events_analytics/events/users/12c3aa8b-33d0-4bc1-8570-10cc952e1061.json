@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "12c3aa8b-33d0-4bc1-8570-10cc952e1061"
+  },
+  "payload": {
+    "id": 169,
+    "name": "Claire Porter",
+    "address": "66458 Samantha Fall\nWaltersside, MI 44564",
+    "job": "Catering manager",
+    "score": 0.28209258820993965
+  }
+}

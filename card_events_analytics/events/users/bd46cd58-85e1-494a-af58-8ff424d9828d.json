@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bd46cd58-85e1-494a-af58-8ff424d9828d"
+  },
+  "payload": {
+    "id": 668,
+    "name": "Dale Henry",
+    "address": "716 Brandy Trace Suite 172\nElliottland, PA 95506",
+    "job": "Insurance claims handler",
+    "score": 0.10398807820207046
+  }
+}

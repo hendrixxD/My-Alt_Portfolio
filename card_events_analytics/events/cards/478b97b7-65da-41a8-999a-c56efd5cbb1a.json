@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5573,
+    "user_id": 427,
+    "created_by_name": "Kathryn Neal",
+    "updated_at": "2023-10-23 23:28:54",
+    "created_at": "2023-10-23 23:28:54",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:54",
+    "event_id": "478b97b7-65da-41a8-999a-c56efd5cbb1a"
+  }
+}

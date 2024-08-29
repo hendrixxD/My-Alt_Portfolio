@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3026,
+    "user_id": 762,
+    "created_by_name": "Elizabeth Warren",
+    "updated_at": "2023-10-23 23:19:45",
+    "created_at": "2023-10-23 23:19:45",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:45",
+    "event_id": "5b664738-e87a-4e44-8f9f-a994efc4f534"
+  }
+}

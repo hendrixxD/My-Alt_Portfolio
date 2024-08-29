@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4128,
+    "user_id": 603,
+    "created_by_name": "Kelly Hayes",
+    "updated_at": "2023-10-23 23:23:40",
+    "created_at": "2023-10-23 23:23:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:40",
+    "event_id": "ad7a0eed-f2c0-40e1-a9ae-ab790e48e3c6"
+  }
+}

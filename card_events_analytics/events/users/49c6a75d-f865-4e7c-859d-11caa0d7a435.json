@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "49c6a75d-f865-4e7c-859d-11caa0d7a435"
+  },
+  "payload": {
+    "id": 466,
+    "name": "Brandon Lewis",
+    "address": "4161 Bennett Trail\nJonesshire, VT 62948",
+    "job": "Lecturer, further education",
+    "score": 0.8122686228594812
+  }
+}

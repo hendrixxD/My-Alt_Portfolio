@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5482,
+    "user_id": 952,
+    "created_by_name": "Kevin Williams",
+    "updated_at": "2023-10-23 23:28:38",
+    "created_at": "2023-10-23 23:28:34",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:38",
+    "event_id": "8f391745-4eea-45ba-89b0-5bd5a6d11c7e"
+  }
+}

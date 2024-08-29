@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3583cb4a-5e64-4326-8436-8e76cd74bf06"
+  },
+  "payload": {
+    "id": 80,
+    "name": "Jodi White",
+    "address": "8144 William Greens Apt. 055\nWilliamport, WY 25630",
+    "job": "Trade mark attorney",
+    "score": 0.5486846314044047
+  }
+}

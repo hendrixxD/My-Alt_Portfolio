@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4615,
+    "user_id": 772,
+    "created_by_name": "Geoffrey Boone",
+    "updated_at": "2023-10-23 23:25:20",
+    "created_at": "2023-10-23 23:25:20",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:20",
+    "event_id": "a37cd435-c97c-4356-9654-c291c74c2fb8"
+  }
+}

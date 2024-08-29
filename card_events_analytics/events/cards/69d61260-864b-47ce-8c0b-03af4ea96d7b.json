@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3251,
+    "user_id": 44,
+    "created_by_name": "James Barrera",
+    "updated_at": "2023-10-23 23:23:24",
+    "created_at": "2023-10-23 23:20:35",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:24",
+    "event_id": "69d61260-864b-47ce-8c0b-03af4ea96d7b"
+  }
+}

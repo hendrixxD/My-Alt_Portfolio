@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 20,
+    "user_id": 676,
+    "created_by_name": "Jenna Parker",
+    "updated_at": "2023-10-23 23:08:55",
+    "created_at": "2023-10-23 23:08:55",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:08:55",
+    "event_id": "5ac479d6-3fd7-4dc7-8284-8b74e69f3570"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d9d22965-2b46-4e98-bb1a-61c14e1bca23"
+  },
+  "payload": {
+    "id": 713,
+    "name": "Edward Brown",
+    "address": "6316 David Ridge Apt. 203\nBrownberg, AK 60976",
+    "job": "IT trainer",
+    "score": 0.21326859056279757
+  }
+}

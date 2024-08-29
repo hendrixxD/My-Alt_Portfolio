@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2507,
+    "user_id": 441,
+    "created_by_name": "Meredith Moore",
+    "updated_at": "2023-10-23 23:17:51",
+    "created_at": "2023-10-23 23:17:51",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:51",
+    "event_id": "314afeb1-ba1d-492f-9e84-91e29a8810da"
+  }
+}

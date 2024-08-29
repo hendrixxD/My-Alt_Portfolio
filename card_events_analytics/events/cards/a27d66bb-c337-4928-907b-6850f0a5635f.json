@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4458,
+    "user_id": 888,
+    "created_by_name": "Dennis Russell",
+    "updated_at": "2023-10-23 23:27:43",
+    "created_at": "2023-10-23 23:24:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:43",
+    "event_id": "a27d66bb-c337-4928-907b-6850f0a5635f"
+  }
+}

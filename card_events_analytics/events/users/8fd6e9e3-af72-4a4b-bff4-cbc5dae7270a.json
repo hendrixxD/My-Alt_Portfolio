@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8fd6e9e3-af72-4a4b-bff4-cbc5dae7270a"
+  },
+  "payload": {
+    "id": 498,
+    "name": "Ashlee Thompson",
+    "address": "804 Owens Road\nKentfurt, MA 94959",
+    "job": "Geoscientist",
+    "score": 0.24298994657072603
+  }
+}

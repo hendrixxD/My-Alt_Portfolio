@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3392,
+    "user_id": 465,
+    "created_by_name": "Michael Lopez",
+    "updated_at": "2023-10-23 23:21:05",
+    "created_at": "2023-10-23 23:21:05",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:05",
+    "event_id": "953448c1-7199-4e70-8af9-279c4067c72a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1470,
+    "user_id": 369,
+    "created_by_name": "Lynn Chavez",
+    "updated_at": "2023-10-23 23:14:07",
+    "created_at": "2023-10-23 23:14:07",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:07",
+    "event_id": "b6551f6d-4a71-4c49-8245-b4723f79d1e7"
+  }
+}

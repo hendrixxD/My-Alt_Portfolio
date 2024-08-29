@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a3807ffb-6964-4469-8c02-2be9934a2337"
+  },
+  "payload": {
+    "id": 817,
+    "name": "Allison Willis",
+    "address": "25510 Patricia Freeway\nPort Tanya, ND 54582",
+    "job": "Commercial/residential surveyor",
+    "score": 0.15888723540710337
+  }
+}

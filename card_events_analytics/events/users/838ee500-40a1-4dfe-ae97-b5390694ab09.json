@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "838ee500-40a1-4dfe-ae97-b5390694ab09"
+  },
+  "payload": {
+    "id": 494,
+    "name": "Gabrielle Lopez",
+    "address": "32679 Richard Stravenue Apt. 062\nLauraton, MO 38763",
+    "job": "Surveyor, quantity",
+    "score": 0.13451529098782689
+  }
+}

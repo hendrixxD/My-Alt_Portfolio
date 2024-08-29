@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a3bcf385-a2da-4932-b586-3979972ab9f9"
+  },
+  "payload": {
+    "id": 422,
+    "name": "Jason Cruz",
+    "address": "USNS Foster\nFPO AP 31949",
+    "job": "Psychologist, sport and exercise",
+    "score": 0.3401790400543274
+  }
+}

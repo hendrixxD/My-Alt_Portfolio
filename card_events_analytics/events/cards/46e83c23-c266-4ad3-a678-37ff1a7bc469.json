@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 298,
+    "user_id": 617,
+    "created_by_name": "Larry Murphy",
+    "updated_at": "2023-10-23 23:09:56",
+    "created_at": "2023-10-23 23:09:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:56",
+    "event_id": "46e83c23-c266-4ad3-a678-37ff1a7bc469"
+  }
+}

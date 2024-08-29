@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3212,
+    "user_id": 679,
+    "created_by_name": "Crystal Perez",
+    "updated_at": "2023-10-23 23:20:27",
+    "created_at": "2023-10-23 23:20:27",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:27",
+    "event_id": "81ee8755-af93-489c-8ab9-af7dc6e630fb"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "586a63ab-d4f6-44f9-9bdc-1d8bb779d679"
+  },
+  "payload": {
+    "id": 430,
+    "name": "Scott Esparza",
+    "address": "09042 Duncan Mills Apt. 032\nPort Anthony, MS 99575",
+    "job": "Chemist, analytical",
+    "score": 0.09109251365642168
+  }
+}

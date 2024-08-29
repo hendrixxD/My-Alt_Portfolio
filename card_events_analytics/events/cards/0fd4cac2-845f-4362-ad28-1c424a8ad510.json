@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2412,
+    "user_id": 911,
+    "created_by_name": "Amanda Gonzalez",
+    "updated_at": "2023-10-23 23:29:07",
+    "created_at": "2023-10-23 23:17:30",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:07",
+    "event_id": "0fd4cac2-845f-4362-ad28-1c424a8ad510"
+  }
+}

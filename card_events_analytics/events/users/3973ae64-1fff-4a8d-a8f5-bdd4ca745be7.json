@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3973ae64-1fff-4a8d-a8f5-bdd4ca745be7"
+  },
+  "payload": {
+    "id": 538,
+    "name": "Geoffrey Bennett",
+    "address": "22923 Matthew Villages\nPort Kimberly, MS 74130",
+    "job": "Control and instrumentation engineer",
+    "score": 0.7094136955174619
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 70,
+    "user_id": 766,
+    "created_by_name": "Danielle Zamora",
+    "updated_at": "2023-10-23 23:09:17",
+    "created_at": "2023-10-23 23:09:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:17",
+    "event_id": "1a450b32-ea4e-4aea-b5cb-4ac66011723d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4101,
+    "user_id": 240,
+    "created_by_name": "Angela Webster",
+    "updated_at": "2023-10-23 23:23:35",
+    "created_at": "2023-10-23 23:23:35",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:35",
+    "event_id": "86c31116-f5f1-45ed-afc7-c8ee18e4f618"
+  }
+}

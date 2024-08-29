@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9880e9d8-aca2-4ee4-9c9a-1b2f413b07c7"
+  },
+  "payload": {
+    "id": 197,
+    "name": "Adam Huff",
+    "address": "3061 Cummings Forks\nPort Cory, OH 55755",
+    "job": "Minerals surveyor",
+    "score": 0.0008079030825974831
+  }
+}

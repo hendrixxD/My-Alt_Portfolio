@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 422,
+    "user_id": 795,
+    "created_by_name": "Samuel Barr",
+    "updated_at": "2023-10-23 23:10:22",
+    "created_at": "2023-10-23 23:10:22",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:22",
+    "event_id": "54d2e9bf-a6bc-4a6b-9e5a-0cf8bc077c16"
+  }
+}

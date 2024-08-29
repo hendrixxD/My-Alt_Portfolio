@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4714,
+    "user_id": 356,
+    "created_by_name": "Derek Wilson",
+    "updated_at": "2023-10-23 23:25:38",
+    "created_at": "2023-10-23 23:25:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:38",
+    "event_id": "2bf9e8a1-1b4d-4098-aa22-8c4a48d707d3"
+  }
+}

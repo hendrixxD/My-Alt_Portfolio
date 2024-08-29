@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "75d99868-1de5-40ba-af35-52b2ac4a8be9"
+  },
+  "payload": {
+    "id": 453,
+    "name": "Crystal Park",
+    "address": "454 Ferguson Shores\nWheelertown, AS 02818",
+    "job": "Aeronautical engineer",
+    "score": 0.9436932094411861
+  }
+}

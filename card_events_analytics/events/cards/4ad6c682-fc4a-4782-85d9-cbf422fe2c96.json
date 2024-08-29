@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 558,
+    "user_id": 603,
+    "created_by_name": "Timothy Hoffman",
+    "updated_at": "2023-10-23 23:25:50",
+    "created_at": "2023-10-23 23:10:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:50",
+    "event_id": "4ad6c682-fc4a-4782-85d9-cbf422fe2c96"
+  }
+}

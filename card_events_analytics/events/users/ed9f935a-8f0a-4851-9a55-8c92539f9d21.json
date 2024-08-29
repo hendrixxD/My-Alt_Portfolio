@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ed9f935a-8f0a-4851-9a55-8c92539f9d21"
+  },
+  "payload": {
+    "id": 105,
+    "name": "Lisa Davis",
+    "address": "76187 Daniel Estates Suite 108\nPort Michaelberg, PW 95430",
+    "job": "Haematologist",
+    "score": 0.28531333519759106
+  }
+}

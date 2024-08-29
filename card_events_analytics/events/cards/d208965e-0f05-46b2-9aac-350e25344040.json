@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1543,
+    "user_id": 885,
+    "created_by_name": "Catherine Walker",
+    "updated_at": "2023-10-23 23:15:55",
+    "created_at": "2023-10-23 23:14:23",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:55",
+    "event_id": "d208965e-0f05-46b2-9aac-350e25344040"
+  }
+}

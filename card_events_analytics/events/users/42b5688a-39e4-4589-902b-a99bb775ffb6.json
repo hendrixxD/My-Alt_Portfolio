@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "42b5688a-39e4-4589-902b-a99bb775ffb6"
+  },
+  "payload": {
+    "id": 382,
+    "name": "Joseph Perez",
+    "address": "4710 Michelle Center\nLisastad, FL 60242",
+    "job": "TEFL teacher",
+    "score": 0.9003766379133349
+  }
+}

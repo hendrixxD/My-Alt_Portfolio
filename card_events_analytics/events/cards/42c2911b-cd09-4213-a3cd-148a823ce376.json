@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5215,
+    "user_id": 238,
+    "created_by_name": "Morgan Johnson",
+    "updated_at": "2023-10-23 23:27:29",
+    "created_at": "2023-10-23 23:27:29",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:29",
+    "event_id": "42c2911b-cd09-4213-a3cd-148a823ce376"
+  }
+}

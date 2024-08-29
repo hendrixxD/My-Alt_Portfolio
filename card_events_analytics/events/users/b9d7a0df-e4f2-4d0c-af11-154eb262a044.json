@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b9d7a0df-e4f2-4d0c-af11-154eb262a044"
+  },
+  "payload": {
+    "id": 660,
+    "name": "Victoria Campbell",
+    "address": "USCGC Johnson\nFPO AP 82598",
+    "job": "Primary school teacher",
+    "score": 0.6973431888173798
+  }
+}

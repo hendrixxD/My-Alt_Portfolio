@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "775edc60-66c7-4cbe-9e35-ec2fa112b394"
+  },
+  "payload": {
+    "id": 782,
+    "name": "Annette Cisneros",
+    "address": "55319 Anderson Road Apt. 834\nJonestown, AL 54011",
+    "job": "Geophysical data processor",
+    "score": 0.09967541206721742
+  }
+}

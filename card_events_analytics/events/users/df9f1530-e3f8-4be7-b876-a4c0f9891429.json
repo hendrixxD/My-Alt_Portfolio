@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "df9f1530-e3f8-4be7-b876-a4c0f9891429"
+  },
+  "payload": {
+    "id": 337,
+    "name": "Shawn Lewis",
+    "address": "185 Mark Via Apt. 971\nEast Jennifertown, MH 83562",
+    "job": "Call centre manager",
+    "score": 0.9697812141680209
+  }
+}

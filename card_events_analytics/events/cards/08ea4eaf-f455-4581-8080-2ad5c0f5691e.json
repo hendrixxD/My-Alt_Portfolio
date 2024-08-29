@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1266,
+    "user_id": 168,
+    "created_by_name": "Lisa Osborne",
+    "updated_at": "2023-10-23 23:13:25",
+    "created_at": "2023-10-23 23:13:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:25",
+    "event_id": "08ea4eaf-f455-4581-8080-2ad5c0f5691e"
+  }
+}

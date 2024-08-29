@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 5194,
+    "created_by_name": "Kevin Johnson",
+    "updated_at": "2023-10-23 23:27:25",
+    "created_at": "2023-10-23 23:27:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:25",
+    "event_id": "79fe7510-1252-4e52-aaed-4438c6412d7f"
+  }
+}

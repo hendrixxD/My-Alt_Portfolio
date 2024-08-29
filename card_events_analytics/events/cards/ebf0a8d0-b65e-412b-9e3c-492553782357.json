@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4143,
+    "user_id": 849,
+    "created_by_name": "James Holmes",
+    "updated_at": "2023-10-23 23:23:44",
+    "created_at": "2023-10-23 23:23:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:44",
+    "event_id": "ebf0a8d0-b65e-412b-9e3c-492553782357"
+  }
+}

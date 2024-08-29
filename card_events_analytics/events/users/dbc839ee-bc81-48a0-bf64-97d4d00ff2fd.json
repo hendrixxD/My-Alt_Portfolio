@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "dbc839ee-bc81-48a0-bf64-97d4d00ff2fd"
+  },
+  "payload": {
+    "id": 116,
+    "name": "Benjamin Crawford",
+    "address": "20953 Gomez Summit Suite 498\nSouth Devon, ME 82286",
+    "job": "Industrial buyer",
+    "score": 0.3584815414982161
+  }
+}

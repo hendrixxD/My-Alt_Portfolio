@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1d810304-fa9e-4ef5-918a-a65c512a18de"
+  },
+  "payload": {
+    "id": 761,
+    "name": "Daniel Parker",
+    "address": "49013 Murphy Plain\nNorth Natasha, NE 93075",
+    "job": "Designer, exhibition/display",
+    "score": 0.14076269968132882
+  }
+}

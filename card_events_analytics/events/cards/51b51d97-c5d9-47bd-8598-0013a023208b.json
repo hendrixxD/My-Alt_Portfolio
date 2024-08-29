@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 573,
+    "user_id": 223,
+    "created_by_name": "Andrea Boone",
+    "updated_at": "2023-10-23 23:28:47",
+    "created_at": "2023-10-23 23:10:56",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:47",
+    "event_id": "51b51d97-c5d9-47bd-8598-0013a023208b"
+  }
+}

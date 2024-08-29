@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1c39df99-17b9-406c-831a-6c17cda6b42f"
+  },
+  "payload": {
+    "id": 728,
+    "name": "Monica Snyder",
+    "address": "79187 Hudson Extension\nNorth Robert, MT 30940",
+    "job": "Meteorologist",
+    "score": 0.17064646925955396
+  }
+}

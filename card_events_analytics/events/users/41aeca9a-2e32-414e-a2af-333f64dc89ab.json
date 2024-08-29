@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "41aeca9a-2e32-414e-a2af-333f64dc89ab"
+  },
+  "payload": {
+    "id": 634,
+    "name": "Mrs. Cynthia Carson",
+    "address": "417 Justin Walk\nJohnsonville, GU 43836",
+    "job": "Engineer, materials",
+    "score": 0.7833543046907216
+  }
+}

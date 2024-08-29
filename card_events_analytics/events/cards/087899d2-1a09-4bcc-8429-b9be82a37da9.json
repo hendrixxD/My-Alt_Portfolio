@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4072,
+    "user_id": 588,
+    "created_by_name": "Maria Dalton",
+    "updated_at": "2023-10-23 23:23:27",
+    "created_at": "2023-10-23 23:23:27",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:27",
+    "event_id": "087899d2-1a09-4bcc-8429-b9be82a37da9"
+  }
+}

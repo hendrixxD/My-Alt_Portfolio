@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1ab308cb-e1fb-410b-9651-dc04c0b5f441"
+  },
+  "payload": {
+    "id": 132,
+    "name": "Steven Villanueva",
+    "address": "4715 Elizabeth Alley\nHubbardtown, IA 75919",
+    "job": "Accountant, chartered public finance",
+    "score": 0.43657914547941257
+  }
+}

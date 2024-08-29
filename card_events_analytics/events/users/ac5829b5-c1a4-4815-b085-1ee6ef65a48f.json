@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ac5829b5-c1a4-4815-b085-1ee6ef65a48f"
+  },
+  "payload": {
+    "id": 100,
+    "name": "Hector Green",
+    "address": "37908 Hubbard Freeway Suite 241\nNew Teresaport, SD 25184",
+    "job": "Engineer, civil (contracting)",
+    "score": 0.8447968925595106
+  }
+}

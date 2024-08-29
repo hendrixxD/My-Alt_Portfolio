@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fc63b7f7-2cbf-45aa-a175-933756bc4d01"
+  },
+  "payload": {
+    "id": 648,
+    "name": "April Rivera",
+    "address": "51286 Evans Loop\nCherrymouth, MS 16674",
+    "job": "Public librarian",
+    "score": 0.2512132552447627
+  }
+}

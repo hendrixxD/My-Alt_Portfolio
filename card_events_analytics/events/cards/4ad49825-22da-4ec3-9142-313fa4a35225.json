@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4160,
+    "user_id": 50,
+    "created_by_name": "Nicholas Richard",
+    "updated_at": "2023-10-23 23:24:42",
+    "created_at": "2023-10-23 23:23:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:42",
+    "event_id": "4ad49825-22da-4ec3-9142-313fa4a35225"
+  }
+}

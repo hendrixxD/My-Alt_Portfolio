@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3272acab-2a55-4165-88af-8e11edf27b50"
+  },
+  "payload": {
+    "id": 827,
+    "name": "Robert Castro",
+    "address": "282 Manning Cliffs Apt. 762\nNew Thomas, TX 90338",
+    "job": "Journalist, broadcasting",
+    "score": 0.6145421748355884
+  }
+}

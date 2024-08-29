@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2050dcdf-ed5e-4cb6-aa86-6fe33a1aa6ff"
+  },
+  "payload": {
+    "id": 590,
+    "name": "George Montes",
+    "address": "5101 Anderson Mount Apt. 944\nEast Jessicamouth, NY 93912",
+    "job": "Ranger/warden",
+    "score": 0.20819677255938196
+  }
+}

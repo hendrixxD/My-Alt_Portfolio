@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "346a4a85-021a-4f91-837c-8c5c57b77c64"
+  },
+  "payload": {
+    "id": 185,
+    "name": "Christopher Anderson",
+    "address": "099 Webb Curve\nEast Angela, IL 32983",
+    "job": "Plant breeder/geneticist",
+    "score": 0.5992468919385368
+  }
+}

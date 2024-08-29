@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5690,
+    "user_id": 588,
+    "created_by_name": "Barry Mays",
+    "updated_at": "2023-10-23 23:29:21",
+    "created_at": "2023-10-23 23:29:21",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:21",
+    "event_id": "fe86724e-88f7-4030-b761-f6e0be9a9968"
+  }
+}

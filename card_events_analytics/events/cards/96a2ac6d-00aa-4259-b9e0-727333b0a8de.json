@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1744,
+    "user_id": 26,
+    "created_by_name": "David Martin",
+    "updated_at": "2023-10-23 23:16:10",
+    "created_at": "2023-10-23 23:15:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:10",
+    "event_id": "96a2ac6d-00aa-4259-b9e0-727333b0a8de"
+  }
+}

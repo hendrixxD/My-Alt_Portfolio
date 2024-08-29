@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b7d80f19-62ee-44ea-bd0b-49df3897168e"
+  },
+  "payload": {
+    "id": 122,
+    "name": "Ryan Singh",
+    "address": "826 Jonathan Well Suite 720\nNorth Ellen, MD 57978",
+    "job": "Film/video editor",
+    "score": 0.6031562540975018
+  }
+}

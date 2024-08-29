@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1442,
+    "user_id": 993,
+    "created_by_name": "Laura Arias",
+    "updated_at": "2023-10-23 23:21:56",
+    "created_at": "2023-10-23 23:14:01",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:56",
+    "event_id": "8e192b70-9dae-402d-a24d-e0a75af36627"
+  }
+}

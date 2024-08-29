@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5a196253-3cb7-4f65-979b-ace3176c78e2"
+  },
+  "payload": {
+    "id": 527,
+    "name": "Michael Adams",
+    "address": "Unit 3554 Box 2173\nDPO AE 66247",
+    "job": "Chartered management accountant",
+    "score": 0.5150114709683367
+  }
+}

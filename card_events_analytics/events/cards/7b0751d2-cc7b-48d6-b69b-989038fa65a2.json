@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4783,
+    "user_id": 139,
+    "created_by_name": "Leslie Henderson",
+    "updated_at": "2023-10-23 23:25:53",
+    "created_at": "2023-10-23 23:25:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:53",
+    "event_id": "7b0751d2-cc7b-48d6-b69b-989038fa65a2"
+  }
+}

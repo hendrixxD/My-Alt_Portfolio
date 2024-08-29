@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 412,
+    "user_id": 983,
+    "created_by_name": "Justin Padilla",
+    "updated_at": "2023-10-23 23:10:38",
+    "created_at": "2023-10-23 23:10:20",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:38",
+    "event_id": "8dd680b5-fcf3-4b17-bad8-244b31b140b8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3229,
+    "user_id": 65,
+    "created_by_name": "Mr. Matthew Farley IV",
+    "updated_at": "2023-10-23 23:23:22",
+    "created_at": "2023-10-23 23:20:29",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:22",
+    "event_id": "2e8f94c9-337f-48ad-b6cf-2536d727b55c"
+  }
+}

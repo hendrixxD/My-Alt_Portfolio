@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 590,
+    "user_id": 352,
+    "created_by_name": "Mary Ross",
+    "updated_at": "2023-10-23 23:10:59",
+    "created_at": "2023-10-23 23:10:59",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:59",
+    "event_id": "c842d990-f97a-495a-8d42-9a5696d10031"
+  }
+}

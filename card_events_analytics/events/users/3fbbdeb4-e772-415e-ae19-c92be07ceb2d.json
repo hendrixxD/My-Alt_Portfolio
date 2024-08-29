@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3fbbdeb4-e772-415e-ae19-c92be07ceb2d"
+  },
+  "payload": {
+    "id": 442,
+    "name": "Peter Norman",
+    "address": "316 Erika Point Suite 481\nHunterside, SC 81132",
+    "job": "Quality manager",
+    "score": 0.5999977910901544
+  }
+}

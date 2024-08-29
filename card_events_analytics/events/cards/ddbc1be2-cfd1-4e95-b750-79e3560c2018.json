@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3708,
+    "user_id": 611,
+    "created_by_name": "Sophia Chavez",
+    "updated_at": "2023-10-23 23:22:12",
+    "created_at": "2023-10-23 23:22:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:12",
+    "event_id": "ddbc1be2-cfd1-4e95-b750-79e3560c2018"
+  }
+}

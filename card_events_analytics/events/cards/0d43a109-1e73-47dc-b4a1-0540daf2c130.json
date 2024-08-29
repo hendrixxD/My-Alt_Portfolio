@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2035,
+    "user_id": 459,
+    "created_by_name": "Kyle Smith",
+    "updated_at": "2023-10-23 23:17:01",
+    "created_at": "2023-10-23 23:16:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:01",
+    "event_id": "0d43a109-1e73-47dc-b4a1-0540daf2c130"
+  }
+}

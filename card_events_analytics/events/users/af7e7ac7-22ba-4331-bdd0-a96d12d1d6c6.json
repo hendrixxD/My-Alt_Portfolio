@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "af7e7ac7-22ba-4331-bdd0-a96d12d1d6c6"
+  },
+  "payload": {
+    "id": 136,
+    "name": "Jessica Franklin",
+    "address": "293 Taylor Junction\nRachelberg, CA 29657",
+    "job": "Financial planner",
+    "score": 0.8198248132766056
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 147,
+    "user_id": 329,
+    "created_by_name": "Barbara Gamble",
+    "updated_at": "2023-10-23 23:10:38",
+    "created_at": "2023-10-23 23:09:23",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:38",
+    "event_id": "e8e7ff67-1b87-4644-a175-0173f7fe2dac"
+  }
+}

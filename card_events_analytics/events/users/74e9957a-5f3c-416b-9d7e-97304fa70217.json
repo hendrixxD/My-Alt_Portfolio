@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "74e9957a-5f3c-416b-9d7e-97304fa70217"
+  },
+  "payload": {
+    "id": 333,
+    "name": "Patricia Strong",
+    "address": "USNS Chaney\nFPO AP 52747",
+    "job": "Patent attorney",
+    "score": 0.019059270195272204
+  }
+}

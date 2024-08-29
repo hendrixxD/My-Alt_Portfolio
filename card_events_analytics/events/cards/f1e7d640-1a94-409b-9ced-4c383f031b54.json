@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4739,
+    "user_id": 275,
+    "created_by_name": "Michael Newman",
+    "updated_at": "2023-10-23 23:25:42",
+    "created_at": "2023-10-23 23:25:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:42",
+    "event_id": "f1e7d640-1a94-409b-9ced-4c383f031b54"
+  }
+}

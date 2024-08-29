@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 436,
+    "user_id": 467,
+    "created_by_name": "Jonathan Maynard",
+    "updated_at": "2023-10-23 23:10:25",
+    "created_at": "2023-10-23 23:10:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:25",
+    "event_id": "bac61762-807e-482f-9287-6b56a225f7ef"
+  }
+}

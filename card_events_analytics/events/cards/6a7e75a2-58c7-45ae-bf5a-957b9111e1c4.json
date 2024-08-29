@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 822,
+    "created_by_name": "Terry Le",
+    "updated_at": "2023-10-23 23:18:35",
+    "created_at": "2023-10-23 23:11:56",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:35",
+    "event_id": "6a7e75a2-58c7-45ae-bf5a-957b9111e1c4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4644,
+    "user_id": 898,
+    "created_by_name": "Christopher Walsh",
+    "updated_at": "2023-10-23 23:25:25",
+    "created_at": "2023-10-23 23:25:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:25",
+    "event_id": "bcaa5cae-2983-4f3d-b9d2-9cda290e1cec"
+  }
+}

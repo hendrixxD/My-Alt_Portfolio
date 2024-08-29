@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "96a6180a-7c70-4fda-9a42-6ce4a53f211d"
+  },
+  "payload": {
+    "id": 256,
+    "name": "Andrea Wise",
+    "address": "49726 Patterson Hill\nBryanville, CA 73303",
+    "job": "Museum education officer",
+    "score": 0.7355524142914708
+  }
+}

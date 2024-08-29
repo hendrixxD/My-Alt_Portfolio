@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3497,
+    "user_id": 600,
+    "created_by_name": "Jordan Mcmillan",
+    "updated_at": "2023-10-23 23:29:51",
+    "created_at": "2023-10-23 23:21:28",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:51",
+    "event_id": "ff1a8143-b8e3-43b7-84fa-4549f447bae0"
+  }
+}

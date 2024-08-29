@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1084,
+    "user_id": 159,
+    "created_by_name": "Emily Hicks",
+    "updated_at": "2023-10-23 23:13:15",
+    "created_at": "2023-10-23 23:12:47",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:15",
+    "event_id": "fd5478fa-3cb1-4fd3-a628-622e87ecdaf3"
+  }
+}

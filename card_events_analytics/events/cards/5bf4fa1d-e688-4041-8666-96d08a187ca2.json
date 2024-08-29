@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 507,
+    "user_id": 369,
+    "created_by_name": "Sharon Lucas",
+    "updated_at": "2023-10-23 23:10:40",
+    "created_at": "2023-10-23 23:10:40",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:40",
+    "event_id": "5bf4fa1d-e688-4041-8666-96d08a187ca2"
+  }
+}

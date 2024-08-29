@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1989,
+    "user_id": 795,
+    "created_by_name": "Emma Williams",
+    "updated_at": "2023-10-23 23:15:55",
+    "created_at": "2023-10-23 23:15:55",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:55",
+    "event_id": "87064052-cc60-4cda-93f0-7dbef0c19f80"
+  }
+}

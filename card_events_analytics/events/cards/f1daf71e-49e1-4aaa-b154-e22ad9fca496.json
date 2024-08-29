@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2328,
+    "created_by_name": "Cathy Day",
+    "updated_at": "2023-10-23 23:17:11",
+    "created_at": "2023-10-23 23:17:11",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:11",
+    "event_id": "f1daf71e-49e1-4aaa-b154-e22ad9fca496"
+  }
+}

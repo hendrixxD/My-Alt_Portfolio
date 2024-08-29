@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "11fb5ef0-332a-4ce1-95a6-7b1047bf91fa"
+  },
+  "payload": {
+    "id": 968,
+    "name": "Briana Nguyen",
+    "address": "3607 Jenkins Extension Suite 916\nSimpsonville, ID 03751",
+    "job": "Recycling officer",
+    "score": 0.5031710404112736
+  }
+}

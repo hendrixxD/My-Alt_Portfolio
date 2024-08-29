@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "23a33d1c-f4ea-48aa-b2e9-033dd2a2a037"
+  },
+  "payload": {
+    "id": 250,
+    "name": "Ashley Colon",
+    "address": "9344 Wayne Alley\nLake Nicolefort, OH 51836",
+    "job": "Dance movement psychotherapist",
+    "score": 0.4682335349165402
+  }
+}

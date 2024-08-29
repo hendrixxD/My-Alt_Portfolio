@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "487a7dda-328c-47ab-9a75-b5d954667740"
+  },
+  "payload": {
+    "id": 757,
+    "name": "Dr. Rachel Rice",
+    "address": "64314 Jennifer Centers Apt. 944\nBrownfort, MD 73188",
+    "job": "Programmer, multimedia",
+    "score": 0.6807289132918432
+  }
+}

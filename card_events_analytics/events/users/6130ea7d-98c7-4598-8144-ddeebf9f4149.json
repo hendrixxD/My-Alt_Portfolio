@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6130ea7d-98c7-4598-8144-ddeebf9f4149"
+  },
+  "payload": {
+    "id": 849,
+    "name": "Jessica Pruitt",
+    "address": "36422 Richard Wells\nBatesburgh, KS 26664",
+    "job": "Restaurant manager",
+    "score": 0.8733539979921194
+  }
+}

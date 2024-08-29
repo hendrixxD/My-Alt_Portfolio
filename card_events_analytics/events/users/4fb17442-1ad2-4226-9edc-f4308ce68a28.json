@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4fb17442-1ad2-4226-9edc-f4308ce68a28"
+  },
+  "payload": {
+    "id": 804,
+    "name": "Angela Rodriguez DVM",
+    "address": "9897 Vance Knolls\nEstradaland, DE 03103",
+    "job": "Psychologist, prison and probation services",
+    "score": 0.5423195865194362
+  }
+}

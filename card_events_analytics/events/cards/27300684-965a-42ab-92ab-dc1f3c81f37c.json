@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1204,
+    "user_id": 832,
+    "created_by_name": "Hunter Patterson",
+    "updated_at": "2023-10-23 23:18:46",
+    "created_at": "2023-10-23 23:13:11",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:46",
+    "event_id": "27300684-965a-42ab-92ab-dc1f3c81f37c"
+  }
+}

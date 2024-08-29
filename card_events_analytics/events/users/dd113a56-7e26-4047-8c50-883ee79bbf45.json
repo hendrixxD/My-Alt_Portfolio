@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "dd113a56-7e26-4047-8c50-883ee79bbf45"
+  },
+  "payload": {
+    "id": 474,
+    "name": "Derrick Rice MD",
+    "address": "1862 Stone Orchard\nNew Stephanie, LA 12444",
+    "job": "Data processing manager",
+    "score": 0.4488523016702589
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4117,
+    "user_id": 452,
+    "created_by_name": "John Ross",
+    "updated_at": "2023-10-23 23:23:39",
+    "created_at": "2023-10-23 23:23:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:39",
+    "event_id": "96b0f918-1181-4230-8382-5aa34b5f96e2"
+  }
+}

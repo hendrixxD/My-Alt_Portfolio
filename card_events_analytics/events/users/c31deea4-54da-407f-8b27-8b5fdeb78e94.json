@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c31deea4-54da-407f-8b27-8b5fdeb78e94"
+  },
+  "payload": {
+    "id": 866,
+    "name": "Christopher Mcintosh",
+    "address": "6830 Gallegos Road Apt. 217\nBeverlyfurt, TX 07349",
+    "job": "Leisure centre manager",
+    "score": 0.6461533741873272
+  }
+}

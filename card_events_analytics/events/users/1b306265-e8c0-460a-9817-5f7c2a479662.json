@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1b306265-e8c0-460a-9817-5f7c2a479662"
+  },
+  "payload": {
+    "id": 401,
+    "name": "Madeline Hood",
+    "address": "92991 Chang Trail Apt. 755\nSouth Lorimouth, OH 18800",
+    "job": "Geophysicist/field seismologist",
+    "score": 0.016239905551859835
+  }
+}

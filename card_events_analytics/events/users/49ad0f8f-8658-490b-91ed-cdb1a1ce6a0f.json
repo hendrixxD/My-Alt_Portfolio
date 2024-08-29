@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "49ad0f8f-8658-490b-91ed-cdb1a1ce6a0f"
+  },
+  "payload": {
+    "id": 526,
+    "name": "Jose Jones",
+    "address": "735 Schwartz Knoll\nEmilyport, WY 88865",
+    "job": "Engineer, electronics",
+    "score": 0.8372856543244729
+  }
+}

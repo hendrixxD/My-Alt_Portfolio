@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2483,
+    "created_by_name": "Carl Lowe",
+    "updated_at": "2023-10-23 23:17:47",
+    "created_at": "2023-10-23 23:17:47",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:47",
+    "event_id": "771ec84f-e881-45dd-9723-b1bf5f8c8839"
+  }
+}

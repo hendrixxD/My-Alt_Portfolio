@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3370,
+    "user_id": 1000,
+    "created_by_name": "Allen Steele",
+    "updated_at": "2023-10-23 23:28:26",
+    "created_at": "2023-10-23 23:21:00",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:26",
+    "event_id": "3b18ca6e-e1e3-4d9d-92f8-b9d0d2bfd858"
+  }
+}

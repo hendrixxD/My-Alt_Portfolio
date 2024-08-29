@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1693,
+    "user_id": 501,
+    "created_by_name": "Tyler Atkinson DDS",
+    "updated_at": "2023-10-23 23:14:56",
+    "created_at": "2023-10-23 23:14:56",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:56",
+    "event_id": "9101afd9-7991-4c8f-a396-7d9219f2761d"
+  }
+}

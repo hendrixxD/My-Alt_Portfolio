@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1562,
+    "user_id": 505,
+    "created_by_name": "Donald Cabrera",
+    "updated_at": "2023-10-23 23:26:59",
+    "created_at": "2023-10-23 23:14:27",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:59",
+    "event_id": "d7a9bf99-d1cf-4ded-9b49-6d4a1276d5af"
+  }
+}

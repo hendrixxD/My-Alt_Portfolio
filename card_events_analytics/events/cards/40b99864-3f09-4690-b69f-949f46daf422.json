@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5964,
+    "user_id": 913,
+    "created_by_name": "Joseph Shelton",
+    "updated_at": "2023-10-23 23:30:26",
+    "created_at": "2023-10-23 23:30:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:26",
+    "event_id": "40b99864-3f09-4690-b69f-949f46daf422"
+  }
+}

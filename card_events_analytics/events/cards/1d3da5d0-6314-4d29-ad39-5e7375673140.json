@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 266,
+    "user_id": 311,
+    "created_by_name": "Alicia Hernandez",
+    "updated_at": "2023-10-23 23:24:43",
+    "created_at": "2023-10-23 23:09:50",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:43",
+    "event_id": "1d3da5d0-6314-4d29-ad39-5e7375673140"
+  }
+}

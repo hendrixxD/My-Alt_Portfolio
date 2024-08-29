@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d7483133-daaa-41c3-b10e-eb1c0b126292"
+  },
+  "payload": {
+    "id": 724,
+    "name": "Jerry Hunt",
+    "address": "1708 Mayo Flats\nWest Joseland, VA 91691",
+    "job": "Audiological scientist",
+    "score": 0.8216796530059364
+  }
+}

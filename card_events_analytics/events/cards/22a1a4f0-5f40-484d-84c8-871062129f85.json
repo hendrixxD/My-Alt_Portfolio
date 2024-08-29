@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2331,
+    "user_id": 940,
+    "created_by_name": "Ronald Herman",
+    "updated_at": "2023-10-23 23:22:18",
+    "created_at": "2023-10-23 23:17:11",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:18",
+    "event_id": "22a1a4f0-5f40-484d-84c8-871062129f85"
+  }
+}

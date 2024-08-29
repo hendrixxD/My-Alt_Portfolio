@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 4201,
+    "created_by_name": "Benjamin Boyer",
+    "updated_at": "2023-10-23 23:23:55",
+    "created_at": "2023-10-23 23:23:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:55",
+    "event_id": "d6998785-f976-44e6-a11c-441daa15cdc0"
+  }
+}

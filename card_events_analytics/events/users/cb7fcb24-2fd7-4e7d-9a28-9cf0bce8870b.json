@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cb7fcb24-2fd7-4e7d-9a28-9cf0bce8870b"
+  },
+  "payload": {
+    "id": 746,
+    "name": "Dennis Hahn",
+    "address": "PSC 7236, Box 1434\nAPO AA 44457",
+    "job": "Nurse, children's",
+    "score": 0.508976033412317
+  }
+}

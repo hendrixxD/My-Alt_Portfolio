@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "81f6ef2f-bb9e-4c7f-964a-052e7ee6f1e2"
+  },
+  "payload": {
+    "id": 389,
+    "name": "Patrick Bryant",
+    "address": "39085 Craig Plaza\nAdamsland, ME 56108",
+    "job": "Therapist, occupational",
+    "score": 0.5905358765071085
+  }
+}

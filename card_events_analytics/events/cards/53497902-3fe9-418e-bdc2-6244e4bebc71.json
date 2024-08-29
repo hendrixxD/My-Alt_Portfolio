@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1681,
+    "user_id": 77,
+    "created_by_name": "Adam Lynch",
+    "updated_at": "2023-10-23 23:21:30",
+    "created_at": "2023-10-23 23:14:55",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:30",
+    "event_id": "53497902-3fe9-418e-bdc2-6244e4bebc71"
+  }
+}

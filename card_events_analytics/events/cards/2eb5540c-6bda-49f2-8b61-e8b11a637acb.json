@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3296,
+    "user_id": 441,
+    "created_by_name": "Anthony Cole",
+    "updated_at": "2023-10-23 23:20:44",
+    "created_at": "2023-10-23 23:20:44",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:44",
+    "event_id": "2eb5540c-6bda-49f2-8b61-e8b11a637acb"
+  }
+}

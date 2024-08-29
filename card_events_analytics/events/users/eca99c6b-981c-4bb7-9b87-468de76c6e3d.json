@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "eca99c6b-981c-4bb7-9b87-468de76c6e3d"
+  },
+  "payload": {
+    "id": 699,
+    "name": "Sara Roberts",
+    "address": "179 Ramirez Junction\nNorth Emilyborough, AR 78246",
+    "job": "Engineer, agricultural",
+    "score": 0.8751701114000419
+  }
+}

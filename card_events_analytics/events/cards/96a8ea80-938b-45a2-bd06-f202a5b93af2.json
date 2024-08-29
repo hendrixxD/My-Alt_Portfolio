@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1148,
+    "user_id": 564,
+    "created_by_name": "Natalie Gamble",
+    "updated_at": "2023-10-23 23:18:56",
+    "created_at": "2023-10-23 23:13:01",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:56",
+    "event_id": "96a8ea80-938b-45a2-bd06-f202a5b93af2"
+  }
+}

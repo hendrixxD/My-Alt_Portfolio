@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3609,
+    "user_id": 459,
+    "created_by_name": "Erin Avila",
+    "updated_at": "2023-10-23 23:21:54",
+    "created_at": "2023-10-23 23:21:54",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:54",
+    "event_id": "c7d50c2e-6dc6-4d2a-b8d5-d837381bb5fd"
+  }
+}

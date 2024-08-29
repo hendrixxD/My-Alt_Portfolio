@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b28fe34e-80d1-4cb8-86c4-7fe71e9a2d72"
+  },
+  "payload": {
+    "id": 956,
+    "name": "Derek Lindsey",
+    "address": "60102 Michael Burg\nSaundersview, OH 01108",
+    "job": "Theatre stage manager",
+    "score": 0.8167083726639717
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 101,
+    "user_id": 617,
+    "created_by_name": "James Wheeler",
+    "updated_at": "2023-10-23 23:12:51",
+    "created_at": "2023-10-23 23:09:15",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:51",
+    "event_id": "7e95b385-a4af-42b1-a90f-e7b08dade84f"
+  }
+}

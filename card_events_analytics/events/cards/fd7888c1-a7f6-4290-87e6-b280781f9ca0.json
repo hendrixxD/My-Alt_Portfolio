@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1909,
+    "user_id": 963,
+    "created_by_name": "Kimberly Barry",
+    "updated_at": "2023-10-23 23:15:39",
+    "created_at": "2023-10-23 23:15:39",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:39",
+    "event_id": "fd7888c1-a7f6-4290-87e6-b280781f9ca0"
+  }
+}

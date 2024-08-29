@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2045,
+    "user_id": 497,
+    "created_by_name": "Jennifer Mckenzie",
+    "updated_at": "2023-10-23 23:16:40",
+    "created_at": "2023-10-23 23:16:10",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:40",
+    "event_id": "79920c8a-7b46-4b69-a24d-b1a07ea5f262"
+  }
+}

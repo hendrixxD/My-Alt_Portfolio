@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 798,
+    "user_id": 410,
+    "created_by_name": "Brandon Pierce",
+    "updated_at": "2023-10-23 23:11:50",
+    "created_at": "2023-10-23 23:11:50",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:50",
+    "event_id": "b18f0664-b5fd-4e20-a597-b71724f00e6d"
+  }
+}

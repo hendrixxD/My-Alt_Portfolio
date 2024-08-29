@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5414,
+    "user_id": 379,
+    "created_by_name": "Sergio Orr",
+    "updated_at": "2023-10-23 23:28:17",
+    "created_at": "2023-10-23 23:28:17",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:17",
+    "event_id": "f5eafdb8-d090-4d43-917d-671dff974b22"
+  }
+}

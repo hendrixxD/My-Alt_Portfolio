@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 99,
+    "user_id": 949,
+    "created_by_name": "Kathy Page",
+    "updated_at": "2023-10-23 23:16:12",
+    "created_at": "2023-10-23 23:09:15",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:12",
+    "event_id": "e5dfdf6e-2748-49fb-9701-0aab8dbaf62d"
+  }
+}

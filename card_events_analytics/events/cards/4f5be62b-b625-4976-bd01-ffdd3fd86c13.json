@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1611,
+    "user_id": 43,
+    "created_by_name": "Christopher Dyer",
+    "updated_at": "2023-10-23 23:25:39",
+    "created_at": "2023-10-23 23:14:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:39",
+    "event_id": "4f5be62b-b625-4976-bd01-ffdd3fd86c13"
+  }
+}

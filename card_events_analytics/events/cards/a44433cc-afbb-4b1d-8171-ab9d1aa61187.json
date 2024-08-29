@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 393,
+    "user_id": 616,
+    "created_by_name": "Andrew Fletcher",
+    "updated_at": "2023-10-23 23:12:53",
+    "created_at": "2023-10-23 23:10:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:53",
+    "event_id": "a44433cc-afbb-4b1d-8171-ab9d1aa61187"
+  }
+}

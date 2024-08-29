@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5f752450-efff-4110-9a9d-1942ffcf3afc"
+  },
+  "payload": {
+    "id": 316,
+    "name": "Nicole King",
+    "address": "98617 Elizabeth Camp\nLake Jacobhaven, AZ 18972",
+    "job": "Clinical cytogeneticist",
+    "score": 0.29660591297170624
+  }
+}

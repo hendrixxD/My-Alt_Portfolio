@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f4e6d797-79ac-4fba-a5b1-23f1592c3a88"
+  },
+  "payload": {
+    "id": 962,
+    "name": "Chad Williams",
+    "address": "432 Christine Streets\nArroyoville, KS 88294",
+    "job": "Chiropodist",
+    "score": 0.5282767810070947
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1390,
+    "user_id": 373,
+    "created_by_name": "Steven Arroyo",
+    "updated_at": "2023-10-23 23:24:52",
+    "created_at": "2023-10-23 23:13:50",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:52",
+    "event_id": "904a7899-3def-4287-b769-d9f72819b020"
+  }
+}

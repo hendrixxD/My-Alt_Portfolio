@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3592,
+    "created_by_name": "Andrew Gill",
+    "updated_at": "2023-10-23 23:21:49",
+    "created_at": "2023-10-23 23:21:49",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:49",
+    "event_id": "594015b6-f089-45f6-9fb7-9c2bb8e8223f"
+  }
+}

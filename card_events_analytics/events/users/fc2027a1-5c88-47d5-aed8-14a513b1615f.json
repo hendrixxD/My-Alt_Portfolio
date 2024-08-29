@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fc2027a1-5c88-47d5-aed8-14a513b1615f"
+  },
+  "payload": {
+    "id": 331,
+    "name": "Lisa Pratt",
+    "address": "25911 Wiggins Flats\nWest Carl, OR 60656",
+    "job": "Engineer, control and instrumentation",
+    "score": 0.8845933583257469
+  }
+}

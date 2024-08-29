@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 4094,
+    "created_by_name": "Holly Davis",
+    "updated_at": "2023-10-23 23:23:33",
+    "created_at": "2023-10-23 23:23:33",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:33",
+    "event_id": "93c9ddc4-5b11-4a1d-b7aa-04e124a38630"
+  }
+}

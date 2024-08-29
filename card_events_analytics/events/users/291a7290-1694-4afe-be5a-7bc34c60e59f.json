@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "291a7290-1694-4afe-be5a-7bc34c60e59f"
+  },
+  "payload": {
+    "id": 836,
+    "name": "Jessica Hahn",
+    "address": "263 Davenport Ford Apt. 445\nPort Rebeccamouth, NH 33352",
+    "job": "Social researcher",
+    "score": 0.37821994859355923
+  }
+}

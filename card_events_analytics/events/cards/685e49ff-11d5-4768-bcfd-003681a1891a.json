@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2210,
+    "user_id": 21,
+    "created_by_name": "Andrew Bailey",
+    "updated_at": "2023-10-23 23:29:51",
+    "created_at": "2023-10-23 23:16:47",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:51",
+    "event_id": "685e49ff-11d5-4768-bcfd-003681a1891a"
+  }
+}

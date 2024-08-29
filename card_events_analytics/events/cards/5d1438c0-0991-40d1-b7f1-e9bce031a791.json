@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 724,
+    "created_by_name": "Kristina Gonzalez",
+    "updated_at": "2023-10-23 23:11:29",
+    "created_at": "2023-10-23 23:11:29",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:29",
+    "event_id": "5d1438c0-0991-40d1-b7f1-e9bce031a791"
+  }
+}

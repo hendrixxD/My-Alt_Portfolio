@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 79,
+    "user_id": 829,
+    "created_by_name": "Charles Brown",
+    "updated_at": "2023-10-23 23:09:10",
+    "created_at": "2023-10-23 23:09:10",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:10",
+    "event_id": "4cc2f8ca-212d-4a99-bc8c-65db5dac80e2"
+  }
+}

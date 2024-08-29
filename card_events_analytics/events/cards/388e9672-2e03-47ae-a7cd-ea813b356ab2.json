@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3655,
+    "user_id": 153,
+    "created_by_name": "Melanie Carney",
+    "updated_at": "2023-10-23 23:22:01",
+    "created_at": "2023-10-23 23:22:01",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:01",
+    "event_id": "388e9672-2e03-47ae-a7cd-ea813b356ab2"
+  }
+}

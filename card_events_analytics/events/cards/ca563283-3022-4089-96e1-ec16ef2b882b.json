@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2720,
+    "user_id": 675,
+    "created_by_name": "Matthew Stevens",
+    "updated_at": "2023-10-23 23:19:32",
+    "created_at": "2023-10-23 23:18:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:32",
+    "event_id": "ca563283-3022-4089-96e1-ec16ef2b882b"
+  }
+}

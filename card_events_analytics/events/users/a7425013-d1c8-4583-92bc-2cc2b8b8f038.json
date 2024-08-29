@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a7425013-d1c8-4583-92bc-2cc2b8b8f038"
+  },
+  "payload": {
+    "id": 55,
+    "name": "David Smith",
+    "address": "71152 David Locks Apt. 260\nNew Katie, OR 13207",
+    "job": "Production designer, theatre/television/film",
+    "score": 0.5193003084762022
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d345e51e-256d-4bf5-a624-4df2064a3090"
+  },
+  "payload": {
+    "id": 596,
+    "name": "Molly Lopez",
+    "address": "642 Scott Gardens Suite 598\nEast Paul, FM 50858",
+    "job": "Financial controller",
+    "score": 0.7241860167980111
+  }
+}

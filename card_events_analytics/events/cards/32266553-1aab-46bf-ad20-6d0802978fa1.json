@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1120,
+    "user_id": 453,
+    "created_by_name": "Heather Buchanan",
+    "updated_at": "2023-10-23 23:28:45",
+    "created_at": "2023-10-23 23:12:55",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:45",
+    "event_id": "32266553-1aab-46bf-ad20-6d0802978fa1"
+  }
+}

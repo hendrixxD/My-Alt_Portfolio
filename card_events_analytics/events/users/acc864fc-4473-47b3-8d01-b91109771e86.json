@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "acc864fc-4473-47b3-8d01-b91109771e86"
+  },
+  "payload": {
+    "id": 491,
+    "name": "Julia Fletcher",
+    "address": "71721 Juarez Flat\nBennettchester, RI 69904",
+    "job": "Nature conservation officer",
+    "score": 0.04896489729506803
+  }
+}

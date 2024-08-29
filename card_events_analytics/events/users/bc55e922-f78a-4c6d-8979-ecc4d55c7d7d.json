@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bc55e922-f78a-4c6d-8979-ecc4d55c7d7d"
+  },
+  "payload": {
+    "id": 604,
+    "name": "Cameron Woods",
+    "address": "258 Robert Ford Suite 177\nWest Kathleen, OH 26809",
+    "job": "Merchant navy officer",
+    "score": 0.42203735264089615
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5246,
+    "user_id": 82,
+    "created_by_name": "Miguel Gillespie",
+    "updated_at": "2023-10-23 23:27:37",
+    "created_at": "2023-10-23 23:27:37",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:37",
+    "event_id": "7cbe4e93-931e-47ce-8f5f-c8bde3fcdcd6"
+  }
+}

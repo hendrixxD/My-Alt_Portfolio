@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2141,
+    "user_id": 630,
+    "created_by_name": "James Figueroa",
+    "updated_at": "2023-10-23 23:16:31",
+    "created_at": "2023-10-23 23:16:31",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:31",
+    "event_id": "aff96cf7-e9d3-4336-b1b1-6d08fff75be3"
+  }
+}

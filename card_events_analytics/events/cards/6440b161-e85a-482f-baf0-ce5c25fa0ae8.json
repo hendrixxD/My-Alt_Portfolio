@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1567,
+    "user_id": 814,
+    "created_by_name": "Maureen Porter",
+    "updated_at": "2023-10-23 23:25:27",
+    "created_at": "2023-10-23 23:14:28",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:27",
+    "event_id": "6440b161-e85a-482f-baf0-ce5c25fa0ae8"
+  }
+}

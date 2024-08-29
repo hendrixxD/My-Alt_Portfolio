@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 816,
+    "created_by_name": "Joshua Washington",
+    "updated_at": "2023-10-23 23:21:18",
+    "created_at": "2023-10-23 23:11:52",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:18",
+    "event_id": "642217ce-700a-4515-80bc-b69eda90266d"
+  }
+}

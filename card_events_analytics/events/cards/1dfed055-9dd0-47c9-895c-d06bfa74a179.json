@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5051,
+    "user_id": 879,
+    "created_by_name": "Valerie Daniel",
+    "updated_at": "2023-10-23 23:26:48",
+    "created_at": "2023-10-23 23:26:48",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:48",
+    "event_id": "1dfed055-9dd0-47c9-895c-d06bfa74a179"
+  }
+}

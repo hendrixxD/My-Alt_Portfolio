@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1258,
+    "user_id": 710,
+    "created_by_name": "Heather Nelson",
+    "updated_at": "2023-10-23 23:18:27",
+    "created_at": "2023-10-23 23:13:22",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:27",
+    "event_id": "8c027e3a-95a6-45c0-b470-ed0632750e2c"
+  }
+}

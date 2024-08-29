@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 287,
+    "user_id": 411,
+    "created_by_name": "Andrea Robinson",
+    "updated_at": "2023-10-23 23:09:53",
+    "created_at": "2023-10-23 23:09:53",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:53",
+    "event_id": "9a50712a-e24c-445c-ad65-e5ebd64263d9"
+  }
+}

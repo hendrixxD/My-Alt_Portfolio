@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3335,
+    "user_id": 628,
+    "created_by_name": "Stephanie Mendez",
+    "updated_at": "2023-10-23 23:20:52",
+    "created_at": "2023-10-23 23:20:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:52",
+    "event_id": "00873073-1571-4f67-b8e6-0ed796fa4d9b"
+  }
+}

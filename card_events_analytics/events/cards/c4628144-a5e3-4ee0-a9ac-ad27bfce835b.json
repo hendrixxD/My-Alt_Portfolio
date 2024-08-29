@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 283,
+    "user_id": 672,
+    "created_by_name": "Michelle Ware",
+    "updated_at": "2023-10-23 23:12:51",
+    "created_at": "2023-10-23 23:09:52",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:51",
+    "event_id": "c4628144-a5e3-4ee0-a9ac-ad27bfce835b"
+  }
+}

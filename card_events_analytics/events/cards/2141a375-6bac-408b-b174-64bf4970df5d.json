@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4704,
+    "user_id": 258,
+    "created_by_name": "James Weber",
+    "updated_at": "2023-10-23 23:25:37",
+    "created_at": "2023-10-23 23:25:37",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:37",
+    "event_id": "2141a375-6bac-408b-b174-64bf4970df5d"
+  }
+}

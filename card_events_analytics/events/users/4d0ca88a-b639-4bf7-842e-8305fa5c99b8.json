@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4d0ca88a-b639-4bf7-842e-8305fa5c99b8"
+  },
+  "payload": {
+    "id": 123,
+    "name": "Jessica Rodriguez",
+    "address": "315 Galvan Harbors Suite 813\nWest Maryton, WA 29207",
+    "job": "Sales professional, IT",
+    "score": 0.27222200034094757
+  }
+}

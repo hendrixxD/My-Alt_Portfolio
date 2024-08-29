@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2829,
+    "user_id": 417,
+    "created_by_name": "Angela Jones",
+    "updated_at": "2023-10-23 23:18:59",
+    "created_at": "2023-10-23 23:18:59",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:59",
+    "event_id": "376ea132-2fa0-437b-b59e-8b104927e0b6"
+  }
+}

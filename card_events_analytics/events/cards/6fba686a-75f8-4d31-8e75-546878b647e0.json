@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5380,
+    "user_id": 426,
+    "created_by_name": "Theresa Lee",
+    "updated_at": "2023-10-23 23:28:09",
+    "created_at": "2023-10-23 23:28:09",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:09",
+    "event_id": "6fba686a-75f8-4d31-8e75-546878b647e0"
+  }
+}

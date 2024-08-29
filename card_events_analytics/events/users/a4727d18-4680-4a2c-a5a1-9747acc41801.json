@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a4727d18-4680-4a2c-a5a1-9747acc41801"
+  },
+  "payload": {
+    "id": 371,
+    "name": "Glenn Marsh DVM",
+    "address": "46929 Jane Valley\nEast Andrewmouth, CO 04462",
+    "job": "Facilities manager",
+    "score": 0.6880447262928943
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2531,
+    "user_id": 265,
+    "created_by_name": "Kathleen Warren",
+    "updated_at": "2023-10-23 23:21:07",
+    "created_at": "2023-10-23 23:17:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:07",
+    "event_id": "0e8c425c-7afe-4281-9233-3f2261e9848a"
+  }
+}

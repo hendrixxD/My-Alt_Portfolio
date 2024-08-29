@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2767,
+    "user_id": 54,
+    "created_by_name": "Jennifer Hughes",
+    "updated_at": "2023-10-23 23:28:29",
+    "created_at": "2023-10-23 23:18:49",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:29",
+    "event_id": "d864489b-3d2a-4473-b63b-989d06817f18"
+  }
+}

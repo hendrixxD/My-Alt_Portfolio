@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a49c254f-383d-4157-9289-f44763c8a104"
+  },
+  "payload": {
+    "id": 488,
+    "name": "Erica Warner",
+    "address": "Unit 6245 Box 7836\nDPO AP 78773",
+    "job": "Broadcast journalist",
+    "score": 0.9605809430485587
+  }
+}

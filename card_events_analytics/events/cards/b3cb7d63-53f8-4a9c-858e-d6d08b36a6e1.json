@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4036,
+    "user_id": 591,
+    "created_by_name": "Connor Ortiz",
+    "updated_at": "2023-10-23 23:23:19",
+    "created_at": "2023-10-23 23:23:19",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:19",
+    "event_id": "b3cb7d63-53f8-4a9c-858e-d6d08b36a6e1"
+  }
+}

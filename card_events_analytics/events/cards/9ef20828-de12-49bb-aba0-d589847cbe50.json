@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1982,
+    "user_id": 247,
+    "created_by_name": "Kenneth Golden",
+    "updated_at": "2023-10-23 23:29:29",
+    "created_at": "2023-10-23 23:15:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:29",
+    "event_id": "9ef20828-de12-49bb-aba0-d589847cbe50"
+  }
+}

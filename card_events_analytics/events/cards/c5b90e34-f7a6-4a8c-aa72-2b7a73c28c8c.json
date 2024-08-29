@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1082,
+    "user_id": 479,
+    "created_by_name": "Michelle Deleon",
+    "updated_at": "2023-10-23 23:19:56",
+    "created_at": "2023-10-23 23:12:47",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:56",
+    "event_id": "c5b90e34-f7a6-4a8c-aa72-2b7a73c28c8c"
+  }
+}

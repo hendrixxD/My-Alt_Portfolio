@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4f93130f-f636-48bb-87a7-4960ef10f75f"
+  },
+  "payload": {
+    "id": 733,
+    "name": "Nathan Frazier",
+    "address": "52582 Reyes Lodge Suite 311\nLake Williamport, AL 50501",
+    "job": "Museum education officer",
+    "score": 0.6220437212889438
+  }
+}

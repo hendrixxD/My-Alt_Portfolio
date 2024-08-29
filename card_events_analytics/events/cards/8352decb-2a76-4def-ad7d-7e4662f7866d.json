@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5625,
+    "user_id": 392,
+    "created_by_name": "Julian Romero",
+    "updated_at": "2023-10-23 23:29:07",
+    "created_at": "2023-10-23 23:29:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:07",
+    "event_id": "8352decb-2a76-4def-ad7d-7e4662f7866d"
+  }
+}

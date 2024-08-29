@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ed5e09df-16c5-4575-955f-e37e07c7841d"
+  },
+  "payload": {
+    "id": 400,
+    "name": "Jacob Foster",
+    "address": "Unit 8355 Box 4139\nDPO AP 51186",
+    "job": "Teacher, secondary school",
+    "score": 0.7963979810841815
+  }
+}

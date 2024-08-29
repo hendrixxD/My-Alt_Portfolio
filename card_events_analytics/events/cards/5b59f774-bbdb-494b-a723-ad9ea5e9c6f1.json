@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1708,
+    "user_id": 952,
+    "created_by_name": "Erin Holt",
+    "updated_at": "2023-10-23 23:20:35",
+    "created_at": "2023-10-23 23:15:00",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:35",
+    "event_id": "5b59f774-bbdb-494b-a723-ad9ea5e9c6f1"
+  }
+}

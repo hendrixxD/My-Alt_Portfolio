@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 9,
+    "created_by_name": "Tammy Espinoza",
+    "updated_at": "2023-10-23 23:12:19",
+    "created_at": "2023-10-23 23:08:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:19",
+    "event_id": "4ab42c71-b21b-476f-bde9-42337a77aa9b"
+  }
+}

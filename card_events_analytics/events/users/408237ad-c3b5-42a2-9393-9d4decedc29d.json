@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "408237ad-c3b5-42a2-9393-9d4decedc29d"
+  },
+  "payload": {
+    "id": 717,
+    "name": "Brianna Morris",
+    "address": "9996 Lisa Forest\nLevychester, PA 99322",
+    "job": "Physiological scientist",
+    "score": 0.5393265516011174
+  }
+}

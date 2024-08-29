@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5294,
+    "user_id": 335,
+    "created_by_name": "Mary Hernandez",
+    "updated_at": "2023-10-23 23:27:48",
+    "created_at": "2023-10-23 23:27:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:48",
+    "event_id": "60b5aee9-ac28-4557-97ed-33dd817868b4"
+  }
+}

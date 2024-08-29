@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 616,
+    "user_id": 646,
+    "created_by_name": "Chad Kelly",
+    "updated_at": "2023-10-23 23:11:05",
+    "created_at": "2023-10-23 23:11:05",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:05",
+    "event_id": "5be6fe5d-1a11-46f1-bd40-76de577698e7"
+  }
+}

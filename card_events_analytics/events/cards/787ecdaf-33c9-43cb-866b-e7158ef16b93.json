@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 497,
+    "user_id": 690,
+    "created_by_name": "Riley Chen",
+    "updated_at": "2023-10-23 23:29:40",
+    "created_at": "2023-10-23 23:10:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:40",
+    "event_id": "787ecdaf-33c9-43cb-866b-e7158ef16b93"
+  }
+}

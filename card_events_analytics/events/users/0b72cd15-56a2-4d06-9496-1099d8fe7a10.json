@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "0b72cd15-56a2-4d06-9496-1099d8fe7a10"
+  },
+  "payload": {
+    "id": 636,
+    "name": "Alexander Barker",
+    "address": "27855 Glenn Flats Suite 355\nNew Heather, OR 37255",
+    "job": "Environmental consultant",
+    "score": 0.27546051170647023
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "21f8e4c5-2219-4e7f-bf37-f4bfc2da8ac4"
+  },
+  "payload": {
+    "id": 766,
+    "name": "Tina Thompson",
+    "address": "31807 Robert Path Suite 209\nEricland, NM 03237",
+    "job": "Civil engineer, consulting",
+    "score": 0.498439685517296
+  }
+}

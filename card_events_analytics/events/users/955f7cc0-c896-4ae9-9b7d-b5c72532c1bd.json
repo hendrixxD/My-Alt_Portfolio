@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "955f7cc0-c896-4ae9-9b7d-b5c72532c1bd"
+  },
+  "payload": {
+    "id": 292,
+    "name": "Kathryn Williams DVM",
+    "address": "0662 Pearson Throughway\nNew Patriciastad, CT 38705",
+    "job": "Sales executive",
+    "score": 0.06594797745346703
+  }
+}

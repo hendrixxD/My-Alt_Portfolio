@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1072,
+    "user_id": 172,
+    "created_by_name": "Stephanie Bush",
+    "updated_at": "2023-10-23 23:12:56",
+    "created_at": "2023-10-23 23:12:45",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:56",
+    "event_id": "1cd8573a-0f30-44ef-8608-a2106878e21b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3500,
+    "user_id": 754,
+    "created_by_name": "Dave Villa",
+    "updated_at": "2023-10-23 23:21:30",
+    "created_at": "2023-10-23 23:21:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:30",
+    "event_id": "125bb4c1-fda6-4124-bddf-c92415940071"
+  }
+}

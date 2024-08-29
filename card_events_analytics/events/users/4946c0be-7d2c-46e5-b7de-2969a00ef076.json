@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4946c0be-7d2c-46e5-b7de-2969a00ef076"
+  },
+  "payload": {
+    "id": 517,
+    "name": "Donna Mcfarland",
+    "address": "4473 Anderson Tunnel Apt. 192\nChristopherside, DE 67818",
+    "job": "Psychologist, prison and probation services",
+    "score": 0.4771877847624021
+  }
+}

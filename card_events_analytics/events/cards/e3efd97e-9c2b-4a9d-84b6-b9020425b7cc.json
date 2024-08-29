@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1273,
+    "user_id": 616,
+    "created_by_name": "Sabrina Ross",
+    "updated_at": "2023-10-23 23:13:36",
+    "created_at": "2023-10-23 23:13:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:36",
+    "event_id": "e3efd97e-9c2b-4a9d-84b6-b9020425b7cc"
+  }
+}

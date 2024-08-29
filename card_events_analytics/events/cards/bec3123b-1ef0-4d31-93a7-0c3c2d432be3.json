@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1032,
+    "user_id": 543,
+    "created_by_name": "Audrey Livingston",
+    "updated_at": "2023-10-23 23:18:19",
+    "created_at": "2023-10-23 23:12:38",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:19",
+    "event_id": "bec3123b-1ef0-4d31-93a7-0c3c2d432be3"
+  }
+}

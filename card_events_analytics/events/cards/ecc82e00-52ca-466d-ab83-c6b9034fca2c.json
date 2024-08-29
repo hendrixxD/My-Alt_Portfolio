@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1009,
+    "user_id": 868,
+    "created_by_name": "Isabella Gilmore",
+    "updated_at": "2023-10-23 23:12:44",
+    "created_at": "2023-10-23 23:12:34",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:44",
+    "event_id": "ecc82e00-52ca-466d-ab83-c6b9034fca2c"
+  }
+}

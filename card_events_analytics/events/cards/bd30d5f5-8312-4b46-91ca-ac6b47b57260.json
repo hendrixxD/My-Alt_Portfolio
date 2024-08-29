@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1163,
+    "user_id": 566,
+    "created_by_name": "Shelby Davis",
+    "updated_at": "2023-10-23 23:30:06",
+    "created_at": "2023-10-23 23:13:04",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:06",
+    "event_id": "bd30d5f5-8312-4b46-91ca-ac6b47b57260"
+  }
+}

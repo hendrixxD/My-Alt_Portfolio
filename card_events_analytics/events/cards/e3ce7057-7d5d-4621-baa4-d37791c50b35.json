@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4003,
+    "user_id": 24,
+    "created_by_name": "Susan Freeman",
+    "updated_at": "2023-10-23 23:23:12",
+    "created_at": "2023-10-23 23:23:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:12",
+    "event_id": "e3ce7057-7d5d-4621-baa4-d37791c50b35"
+  }
+}

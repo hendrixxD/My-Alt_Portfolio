@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2510,
+    "user_id": 180,
+    "created_by_name": "Robert Kirk",
+    "updated_at": "2023-10-23 23:24:32",
+    "created_at": "2023-10-23 23:17:51",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:32",
+    "event_id": "864fde7a-4ab5-4c33-96e1-de64f63b2c4a"
+  }
+}

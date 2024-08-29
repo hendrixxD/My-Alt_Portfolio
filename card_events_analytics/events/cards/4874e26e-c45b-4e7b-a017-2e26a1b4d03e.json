@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 127,
+    "user_id": 372,
+    "created_by_name": "Steven Williamson",
+    "updated_at": "2023-10-23 23:11:14",
+    "created_at": "2023-10-23 23:09:19",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:14",
+    "event_id": "4874e26e-c45b-4e7b-a017-2e26a1b4d03e"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3851,
+    "user_id": 171,
+    "created_by_name": "Rhonda Rich",
+    "updated_at": "2023-10-23 23:23:48",
+    "created_at": "2023-10-23 23:22:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:48",
+    "event_id": "6f63f585-d32d-480e-a225-c813e8a178ae"
+  }
+}

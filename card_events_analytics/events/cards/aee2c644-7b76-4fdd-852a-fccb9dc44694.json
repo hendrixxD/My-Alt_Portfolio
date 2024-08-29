@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5933,
+    "user_id": 308,
+    "created_by_name": "Steven Perez DDS",
+    "updated_at": "2023-10-23 23:30:15",
+    "created_at": "2023-10-23 23:30:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:15",
+    "event_id": "aee2c644-7b76-4fdd-852a-fccb9dc44694"
+  }
+}

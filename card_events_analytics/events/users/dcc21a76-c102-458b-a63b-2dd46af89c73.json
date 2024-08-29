@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "dcc21a76-c102-458b-a63b-2dd46af89c73"
+  },
+  "payload": {
+    "id": 238,
+    "name": "William Hill",
+    "address": "330 Sawyer Pine\nDuncantown, MA 03333",
+    "job": "Clinical psychologist",
+    "score": 0.4014774065866361
+  }
+}

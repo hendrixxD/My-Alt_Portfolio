@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "03a724fa-faae-4e95-ab1d-c4a25dec0409"
+  },
+  "payload": {
+    "id": 928,
+    "name": "Amy Berry",
+    "address": "188 Terry Unions\nNew Brittanyport, NE 17217",
+    "job": "Youth worker",
+    "score": 0.9572964652237761
+  }
+}

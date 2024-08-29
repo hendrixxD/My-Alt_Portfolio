@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e78d5f49-b127-48f2-b48a-0a8b658d2523"
+  },
+  "payload": {
+    "id": 658,
+    "name": "Barbara White",
+    "address": "Unit 8238 Box 4456\nDPO AP 19431",
+    "job": "Oceanographer",
+    "score": 0.12701515069002067
+  }
+}

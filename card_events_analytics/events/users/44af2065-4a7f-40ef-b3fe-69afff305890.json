@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "44af2065-4a7f-40ef-b3fe-69afff305890"
+  },
+  "payload": {
+    "id": 345,
+    "name": "Clifford Hurley",
+    "address": "566 Hunt Knoll Apt. 583\nJanethaven, TN 48492",
+    "job": "Textile designer",
+    "score": 0.16522752050122935
+  }
+}

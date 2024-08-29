@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 285,
+    "user_id": 567,
+    "created_by_name": "Robin Mitchell",
+    "updated_at": "2023-10-23 23:09:53",
+    "created_at": "2023-10-23 23:09:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:53",
+    "event_id": "c2a8d34a-36eb-436d-b0d3-3e82c316f3e6"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 709,
+    "created_by_name": "Carlos Flores",
+    "updated_at": "2023-10-23 23:13:40",
+    "created_at": "2023-10-23 23:11:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:40",
+    "event_id": "b438230e-2735-4087-8b30-9182afe2c7c5"
+  }
+}

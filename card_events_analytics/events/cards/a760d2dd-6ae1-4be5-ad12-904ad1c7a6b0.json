@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 455,
+    "user_id": 26,
+    "created_by_name": "Lisa Wilson",
+    "updated_at": "2023-10-23 23:12:05",
+    "created_at": "2023-10-23 23:10:30",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:05",
+    "event_id": "a760d2dd-6ae1-4be5-ad12-904ad1c7a6b0"
+  }
+}

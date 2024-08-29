@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fd5e95ac-d25a-43fc-8c14-edd6871c15bc"
+  },
+  "payload": {
+    "id": 130,
+    "name": "Jeffrey Archer",
+    "address": "49171 Jonathan Neck\nAndersonside, AZ 49134",
+    "job": "Exhibition designer",
+    "score": 0.3991669872154615
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4967,
+    "user_id": 800,
+    "created_by_name": "Norma Roach",
+    "updated_at": "2023-10-23 23:26:31",
+    "created_at": "2023-10-23 23:26:31",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:31",
+    "event_id": "68bedc88-8a78-4682-9a61-e54fcf03a9fc"
+  }
+}

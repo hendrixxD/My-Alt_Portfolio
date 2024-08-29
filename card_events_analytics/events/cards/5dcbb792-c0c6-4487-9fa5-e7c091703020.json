@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4693,
+    "user_id": 35,
+    "created_by_name": "Jennifer Gonzalez",
+    "updated_at": "2023-10-23 23:26:30",
+    "created_at": "2023-10-23 23:25:35",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:30",
+    "event_id": "5dcbb792-c0c6-4487-9fa5-e7c091703020"
+  }
+}

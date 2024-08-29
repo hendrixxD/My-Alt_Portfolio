@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3307,
+    "created_by_name": "Scott Nguyen",
+    "updated_at": "2023-10-23 23:26:40",
+    "created_at": "2023-10-23 23:20:45",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:40",
+    "event_id": "de271955-d9ac-4c6e-b4cf-1f8afd91acbb"
+  }
+}

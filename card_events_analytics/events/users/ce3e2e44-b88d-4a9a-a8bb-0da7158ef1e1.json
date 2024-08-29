@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ce3e2e44-b88d-4a9a-a8bb-0da7158ef1e1"
+  },
+  "payload": {
+    "id": 44,
+    "name": "Adam Alvarado",
+    "address": "80974 Wanda Ferry\nCarriemouth, GU 41683",
+    "job": "Information officer",
+    "score": 0.4869040922490464
+  }
+}

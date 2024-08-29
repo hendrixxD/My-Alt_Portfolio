@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e046c1d1-a565-44ae-b27f-189c34a4253a"
+  },
+  "payload": {
+    "id": 501,
+    "name": "Richard Singleton",
+    "address": "Unit 7574 Box 9725\nDPO AP 64519",
+    "job": "Pensions consultant",
+    "score": 0.5489311884753447
+  }
+}

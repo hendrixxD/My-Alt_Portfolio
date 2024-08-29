@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "24dc34dd-6b47-465c-86ad-df9bf1e406f9"
+  },
+  "payload": {
+    "id": 429,
+    "name": "Gabriel Cortez",
+    "address": "Unit 4226 Box 0360\nDPO AA 23373",
+    "job": "Sports administrator",
+    "score": 0.25784181810565476
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 914,
+    "user_id": 936,
+    "created_by_name": "Tina Ross",
+    "updated_at": "2023-10-23 23:22:29",
+    "created_at": "2023-10-23 23:12:15",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:29",
+    "event_id": "80f09373-c2ae-4ebf-adee-16f510d2f96d"
+  }
+}

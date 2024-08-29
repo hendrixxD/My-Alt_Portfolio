@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "98fb0779-3b2d-41dd-9fc9-b2a3a11c6e9d"
+  },
+  "payload": {
+    "id": 605,
+    "name": "Susan Carpenter",
+    "address": "204 Matthew Lodge Suite 494\nPort Michael, TX 84235",
+    "job": "Microbiologist",
+    "score": 0.7299664775575971
+  }
+}

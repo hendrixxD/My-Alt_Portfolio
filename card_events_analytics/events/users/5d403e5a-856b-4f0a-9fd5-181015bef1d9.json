@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5d403e5a-856b-4f0a-9fd5-181015bef1d9"
+  },
+  "payload": {
+    "id": 762,
+    "name": "Francisco Kennedy",
+    "address": "39292 Spencer Street Suite 554\nMariobury, VI 76983",
+    "job": "Acupuncturist",
+    "score": 0.12909712327158296
+  }
+}

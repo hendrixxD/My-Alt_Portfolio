@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3289,
+    "user_id": 603,
+    "created_by_name": "Mr. Matthew Le",
+    "updated_at": "2023-10-23 23:20:43",
+    "created_at": "2023-10-23 23:20:43",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:43",
+    "event_id": "fe4ce162-9abe-47ef-ba3f-ffed6c1af185"
+  }
+}

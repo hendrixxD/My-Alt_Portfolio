@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 382,
+    "user_id": 999,
+    "created_by_name": "Yolanda Wheeler",
+    "updated_at": "2023-10-23 23:29:20",
+    "created_at": "2023-10-23 23:10:14",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:20",
+    "event_id": "f6baacf1-8038-4329-a4b5-c159ba1555af"
+  }
+}

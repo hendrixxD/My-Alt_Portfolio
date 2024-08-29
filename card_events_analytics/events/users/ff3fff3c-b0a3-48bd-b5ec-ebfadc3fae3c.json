@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ff3fff3c-b0a3-48bd-b5ec-ebfadc3fae3c"
+  },
+  "payload": {
+    "id": 427,
+    "name": "Vanessa Jackson",
+    "address": "098 Eaton Brooks\nChristinamouth, WV 32523",
+    "job": "Barista",
+    "score": 0.6626758542104978
+  }
+}

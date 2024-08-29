@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2118,
+    "user_id": 226,
+    "created_by_name": "Nathan Bass",
+    "updated_at": "2023-10-23 23:16:25",
+    "created_at": "2023-10-23 23:16:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:25",
+    "event_id": "f77d3fcc-2fda-4f36-8a16-0df82cff71f0"
+  }
+}

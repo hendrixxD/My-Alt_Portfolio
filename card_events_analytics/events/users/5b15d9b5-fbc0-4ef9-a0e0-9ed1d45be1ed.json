@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5b15d9b5-fbc0-4ef9-a0e0-9ed1d45be1ed"
+  },
+  "payload": {
+    "id": 447,
+    "name": "Jordan Santiago",
+    "address": "1737 Griffin Knoll Apt. 839\nLozanoborough, MS 68423",
+    "job": "Civil Service administrator",
+    "score": 0.31151739559215497
+  }
+}

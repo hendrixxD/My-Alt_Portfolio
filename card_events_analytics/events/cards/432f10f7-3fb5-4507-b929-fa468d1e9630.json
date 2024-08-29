@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 608,
+    "user_id": 340,
+    "created_by_name": "Jasmine Nguyen",
+    "updated_at": "2023-10-23 23:11:03",
+    "created_at": "2023-10-23 23:11:03",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:03",
+    "event_id": "432f10f7-3fb5-4507-b929-fa468d1e9630"
+  }
+}

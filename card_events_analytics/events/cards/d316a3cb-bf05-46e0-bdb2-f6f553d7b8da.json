@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 229,
+    "user_id": 292,
+    "created_by_name": "David Noble",
+    "updated_at": "2023-10-23 23:11:08",
+    "created_at": "2023-10-23 23:09:41",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:08",
+    "event_id": "d316a3cb-bf05-46e0-bdb2-f6f553d7b8da"
+  }
+}

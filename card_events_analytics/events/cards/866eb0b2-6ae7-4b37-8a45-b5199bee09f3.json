@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 848,
+    "user_id": 60,
+    "created_by_name": "Michael Rodriguez",
+    "updated_at": "2023-10-23 23:17:25",
+    "created_at": "2023-10-23 23:12:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:25",
+    "event_id": "866eb0b2-6ae7-4b37-8a45-b5199bee09f3"
+  }
+}

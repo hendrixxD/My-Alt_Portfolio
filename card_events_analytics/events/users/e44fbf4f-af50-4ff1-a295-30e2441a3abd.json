@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e44fbf4f-af50-4ff1-a295-30e2441a3abd"
+  },
+  "payload": {
+    "id": 612,
+    "name": "Catherine Jackson",
+    "address": "810 Corey Hollow\nScottville, ID 57259",
+    "job": "Probation officer",
+    "score": 0.32526322305349287
+  }
+}

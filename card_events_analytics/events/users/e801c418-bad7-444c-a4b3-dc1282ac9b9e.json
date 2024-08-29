@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e801c418-bad7-444c-a4b3-dc1282ac9b9e"
+  },
+  "payload": {
+    "id": 957,
+    "name": "Sarah Gonzales",
+    "address": "9373 Christopher Way Suite 210\nBethanybury, NE 09350",
+    "job": "Radiographer, therapeutic",
+    "score": 0.08633691535121335
+  }
+}

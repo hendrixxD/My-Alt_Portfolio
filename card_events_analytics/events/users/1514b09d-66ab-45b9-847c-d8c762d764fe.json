@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1514b09d-66ab-45b9-847c-d8c762d764fe"
+  },
+  "payload": {
+    "id": 799,
+    "name": "Elizabeth Chapman",
+    "address": "237 Shannon Meadow Apt. 633\nPort Austin, MP 69091",
+    "job": "Licensed conveyancer",
+    "score": 0.9370545923580773
+  }
+}

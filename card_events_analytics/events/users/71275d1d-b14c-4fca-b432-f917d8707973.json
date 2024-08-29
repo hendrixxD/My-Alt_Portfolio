@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "71275d1d-b14c-4fca-b432-f917d8707973"
+  },
+  "payload": {
+    "id": 778,
+    "name": "Lisa Mcbride",
+    "address": "34581 Wood Wall\nWest Rhondashire, DC 47993",
+    "job": "Community pharmacist",
+    "score": 0.7349437610271439
+  }
+}

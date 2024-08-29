@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "840028d4-fab7-4a93-abf7-ff384d98ce78"
+  },
+  "payload": {
+    "id": 62,
+    "name": "Mr. Andre Munoz Jr.",
+    "address": "743 Nancy Harbor Apt. 608\nWest Michael, MP 03107",
+    "job": "Call centre manager",
+    "score": 0.26102044984763484
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3492,
+    "created_by_name": "Caitlin Wiggins",
+    "updated_at": "2023-10-23 23:21:28",
+    "created_at": "2023-10-23 23:21:28",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:28",
+    "event_id": "b7a6b43d-a31e-492d-8dc3-ed656d18964c"
+  }
+}

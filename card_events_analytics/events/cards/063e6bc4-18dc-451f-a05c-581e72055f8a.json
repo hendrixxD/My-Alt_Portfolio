@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 779,
+    "user_id": 102,
+    "created_by_name": "Kimberly Schultz",
+    "updated_at": "2023-10-23 23:11:44",
+    "created_at": "2023-10-23 23:11:44",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:44",
+    "event_id": "063e6bc4-18dc-451f-a05c-581e72055f8a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5085,
+    "user_id": 956,
+    "created_by_name": "Brian Gutierrez",
+    "updated_at": "2023-10-23 23:28:59",
+    "created_at": "2023-10-23 23:26:56",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:59",
+    "event_id": "bb22de51-7e92-42f2-87da-0a2abcd8d87e"
+  }
+}

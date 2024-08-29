@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9fe31b3e-3326-4d87-8159-b6f7c66233a9"
+  },
+  "payload": {
+    "id": 674,
+    "name": "Michelle Larson",
+    "address": "0104 Marshall Knoll Apt. 362\nNew Lindastad, PR 51430",
+    "job": "Agricultural engineer",
+    "score": 0.7782582022414221
+  }
+}

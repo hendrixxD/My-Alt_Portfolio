@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5683,
+    "user_id": 626,
+    "created_by_name": "Megan Phillips",
+    "updated_at": "2023-10-23 23:29:20",
+    "created_at": "2023-10-23 23:29:20",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:20",
+    "event_id": "dbade713-74b8-44df-a1a4-55b5e9e09ef4"
+  }
+}

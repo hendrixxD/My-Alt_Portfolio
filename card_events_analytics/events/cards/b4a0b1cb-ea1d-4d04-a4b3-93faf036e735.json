@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1974,
+    "user_id": 694,
+    "created_by_name": "Frank Jones",
+    "updated_at": "2023-10-23 23:26:54",
+    "created_at": "2023-10-23 23:15:51",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:54",
+    "event_id": "b4a0b1cb-ea1d-4d04-a4b3-93faf036e735"
+  }
+}

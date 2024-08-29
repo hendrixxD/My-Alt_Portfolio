@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 164,
+    "user_id": 62,
+    "created_by_name": "Brian Ramirez",
+    "updated_at": "2023-10-23 23:09:26",
+    "created_at": "2023-10-23 23:09:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:26",
+    "event_id": "14b0a376-a333-4498-b814-b798e63f9fe9"
+  }
+}

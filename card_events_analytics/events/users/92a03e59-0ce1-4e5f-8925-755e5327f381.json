@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "92a03e59-0ce1-4e5f-8925-755e5327f381"
+  },
+  "payload": {
+    "id": 148,
+    "name": "Melissa Castro",
+    "address": "Unit 3798 Box 0243\nDPO AP 56768",
+    "job": "Market researcher",
+    "score": 0.5550895271928497
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "18dcdaa4-6b65-4afb-993a-60ad14323cbc"
+  },
+  "payload": {
+    "id": 876,
+    "name": "Robert Nelson",
+    "address": "108 Gregory Vista\nLake Sarah, DC 47946",
+    "job": "Teacher, music",
+    "score": 0.003997222377375542
+  }
+}

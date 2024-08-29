@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2843,
+    "user_id": 540,
+    "created_by_name": "Jeff Lamb",
+    "updated_at": "2023-10-23 23:25:00",
+    "created_at": "2023-10-23 23:19:04",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:00",
+    "event_id": "bb57adff-7dc2-4a3e-af39-03c8b83913cc"
+  }
+}

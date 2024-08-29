@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "9efcf64a-9d4c-43bc-877b-4faf68c4ca23"
+  },
+  "payload": {
+    "id": 723,
+    "name": "Jennifer Morton",
+    "address": "336 Connor Grove Suite 308\nWest Kaylamouth, CA 39623",
+    "job": "Data scientist",
+    "score": 0.7886003778003075
+  }
+}

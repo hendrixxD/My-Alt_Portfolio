@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1544,
+    "user_id": 696,
+    "created_by_name": "Natalie Brown",
+    "updated_at": "2023-10-23 23:14:24",
+    "created_at": "2023-10-23 23:14:24",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:24",
+    "event_id": "18eb781a-734b-4e70-8207-3811b411a5f5"
+  }
+}

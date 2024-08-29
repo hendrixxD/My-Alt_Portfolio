@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4e3ae5d9-580d-45f5-b8ef-f6b46b0ee52d"
+  },
+  "payload": {
+    "id": 428,
+    "name": "Ryan Skinner",
+    "address": "3568 Meyer Pines Apt. 619\nRileyshire, WA 11578",
+    "job": "Hydrologist",
+    "score": 0.0731023625198538
+  }
+}

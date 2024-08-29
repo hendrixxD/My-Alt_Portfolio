@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "297b56ae-a93a-4e38-8c17-0e6b33711bca"
+  },
+  "payload": {
+    "id": 304,
+    "name": "Jacob Matthews",
+    "address": "513 Gonzalez Stream\nEast Meredithborough, NH 36812",
+    "job": "Pension scheme manager",
+    "score": 0.5585043290062089
+  }
+}

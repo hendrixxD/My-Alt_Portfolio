@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e96b195e-73af-4f55-b993-d4db1ad23a2b"
+  },
+  "payload": {
+    "id": 11,
+    "name": "Luis Williams",
+    "address": "253 Angela Hills\nNorth Crystalburgh, GU 12767",
+    "job": "Radio producer",
+    "score": 0.20006999292516192
+  }
+}

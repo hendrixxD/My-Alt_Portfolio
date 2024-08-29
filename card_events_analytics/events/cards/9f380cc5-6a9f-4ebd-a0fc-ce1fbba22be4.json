@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5963,
+    "user_id": 33,
+    "created_by_name": "Christina Wu",
+    "updated_at": "2023-10-23 23:30:26",
+    "created_at": "2023-10-23 23:30:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:26",
+    "event_id": "9f380cc5-6a9f-4ebd-a0fc-ce1fbba22be4"
+  }
+}

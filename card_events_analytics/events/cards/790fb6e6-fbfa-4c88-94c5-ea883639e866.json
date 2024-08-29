@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5898,
+    "user_id": 401,
+    "created_by_name": "Suzanne Daniels",
+    "updated_at": "2023-10-23 23:30:08",
+    "created_at": "2023-10-23 23:30:08",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:08",
+    "event_id": "790fb6e6-fbfa-4c88-94c5-ea883639e866"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1511,
+    "user_id": 546,
+    "created_by_name": "Joshua Thompson",
+    "updated_at": "2023-10-23 23:19:39",
+    "created_at": "2023-10-23 23:14:16",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:39",
+    "event_id": "036da46a-bb1a-4a49-a47e-666bca4e3dfe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2424,
+    "user_id": 264,
+    "created_by_name": "Yolanda Coleman",
+    "updated_at": "2023-10-23 23:17:32",
+    "created_at": "2023-10-23 23:17:32",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:32",
+    "event_id": "1227e4eb-849f-4f67-ad17-d9a6da8e592c"
+  }
+}

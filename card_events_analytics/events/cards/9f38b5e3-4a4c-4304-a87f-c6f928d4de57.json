@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5956,
+    "user_id": 271,
+    "created_by_name": "Michael Burns",
+    "updated_at": "2023-10-23 23:30:24",
+    "created_at": "2023-10-23 23:30:24",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:24",
+    "event_id": "9f38b5e3-4a4c-4304-a87f-c6f928d4de57"
+  }
+}

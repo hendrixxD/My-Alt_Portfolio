@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "97b56687-ede9-4182-b44d-b4200a0be0dd"
+  },
+  "payload": {
+    "id": 878,
+    "name": "Danielle Frederick",
+    "address": "9868 Christopher Villages Suite 124\nMckinneytown, NE 21780",
+    "job": "Lexicographer",
+    "score": 0.09855049063618193
+  }
+}

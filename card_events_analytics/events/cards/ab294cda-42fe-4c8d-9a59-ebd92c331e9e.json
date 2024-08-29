@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3098,
+    "user_id": 305,
+    "created_by_name": "Derek Brock",
+    "updated_at": "2023-10-23 23:20:01",
+    "created_at": "2023-10-23 23:20:01",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:01",
+    "event_id": "ab294cda-42fe-4c8d-9a59-ebd92c331e9e"
+  }
+}

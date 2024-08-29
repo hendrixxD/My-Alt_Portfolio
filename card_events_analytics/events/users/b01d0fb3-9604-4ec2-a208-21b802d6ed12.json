@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b01d0fb3-9604-4ec2-a208-21b802d6ed12"
+  },
+  "payload": {
+    "id": 603,
+    "name": "Kelly Martinez",
+    "address": "PSC 5813, Box 7373\nAPO AA 49499",
+    "job": "Chartered public finance accountant",
+    "score": 0.08633645365784393
+  }
+}

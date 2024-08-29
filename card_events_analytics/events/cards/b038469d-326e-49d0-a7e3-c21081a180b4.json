@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2745,
+    "user_id": 899,
+    "created_by_name": "Gina Williams",
+    "updated_at": "2023-10-23 23:18:42",
+    "created_at": "2023-10-23 23:18:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:42",
+    "event_id": "b038469d-326e-49d0-a7e3-c21081a180b4"
+  }
+}

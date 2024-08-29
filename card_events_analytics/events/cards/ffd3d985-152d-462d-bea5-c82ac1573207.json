@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 510,
+    "user_id": 496,
+    "created_by_name": "Levi Gonzalez",
+    "updated_at": "2023-10-23 23:10:42",
+    "created_at": "2023-10-23 23:10:42",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:42",
+    "event_id": "ffd3d985-152d-462d-bea5-c82ac1573207"
+  }
+}

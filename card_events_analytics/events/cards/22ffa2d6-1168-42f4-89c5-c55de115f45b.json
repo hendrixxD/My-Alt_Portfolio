@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2549,
+    "user_id": 933,
+    "created_by_name": "Darlene Johnson",
+    "updated_at": "2023-10-23 23:17:59",
+    "created_at": "2023-10-23 23:17:59",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:59",
+    "event_id": "22ffa2d6-1168-42f4-89c5-c55de115f45b"
+  }
+}

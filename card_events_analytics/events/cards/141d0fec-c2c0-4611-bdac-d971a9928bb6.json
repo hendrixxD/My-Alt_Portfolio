@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3894,
+    "user_id": 515,
+    "created_by_name": "Joseph Buckley",
+    "updated_at": "2023-10-23 23:22:50",
+    "created_at": "2023-10-23 23:22:50",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:50",
+    "event_id": "141d0fec-c2c0-4611-bdac-d971a9928bb6"
+  }
+}

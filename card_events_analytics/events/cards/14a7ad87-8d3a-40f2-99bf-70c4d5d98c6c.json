@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2551,
+    "user_id": 269,
+    "created_by_name": "Doris Holmes",
+    "updated_at": "2023-10-23 23:17:59",
+    "created_at": "2023-10-23 23:17:59",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:59",
+    "event_id": "14a7ad87-8d3a-40f2-99bf-70c4d5d98c6c"
+  }
+}

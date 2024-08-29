@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a5828bd4-1433-46e9-9d28-63f2495a5bf6"
+  },
+  "payload": {
+    "id": 571,
+    "name": "David Martin",
+    "address": "107 Shannon Islands\nPort Glenda, MT 25923",
+    "job": "Careers adviser",
+    "score": 0.9812741754815518
+  }
+}

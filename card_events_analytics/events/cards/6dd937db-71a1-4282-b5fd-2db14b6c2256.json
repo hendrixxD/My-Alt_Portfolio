@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1676,
+    "user_id": 608,
+    "created_by_name": "Nicole Powell",
+    "updated_at": "2023-10-23 23:22:00",
+    "created_at": "2023-10-23 23:14:53",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:00",
+    "event_id": "6dd937db-71a1-4282-b5fd-2db14b6c2256"
+  }
+}

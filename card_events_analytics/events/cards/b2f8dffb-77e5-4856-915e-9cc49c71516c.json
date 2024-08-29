@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 833,
+    "created_by_name": "Holly Schmitt",
+    "updated_at": "2023-10-23 23:29:12",
+    "created_at": "2023-10-23 23:11:58",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:12",
+    "event_id": "b2f8dffb-77e5-4856-915e-9cc49c71516c"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e6245138-4a63-43f9-bef9-e68458ce4a47"
+  },
+  "payload": {
+    "id": 715,
+    "name": "Steven Vaughn",
+    "address": "9983 Michael Junction Suite 763\nNorth Ginaberg, NJ 95047",
+    "job": "Biomedical engineer",
+    "score": 0.7108361860371206
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "45b6aef3-4cd4-48a1-b8a1-93db24866b00"
+  },
+  "payload": {
+    "id": 932,
+    "name": "Mrs. Crystal Burke",
+    "address": "0320 Michael Flat\nJaneshire, FL 27480",
+    "job": "Ranger/warden",
+    "score": 0.4236444272433013
+  }
+}

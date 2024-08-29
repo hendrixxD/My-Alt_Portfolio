@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f92ee823-1ecb-4266-ab97-3efdfdc36733"
+  },
+  "payload": {
+    "id": 842,
+    "name": "William Carter",
+    "address": "PSC 8492, Box 8176\nAPO AE 50234",
+    "job": "Animal nutritionist",
+    "score": 0.622513083618518
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "969af3ac-d559-4c4d-a956-bd439ec90d8a"
+  },
+  "payload": {
+    "id": 38,
+    "name": "Rhonda Neal",
+    "address": "38297 Alyssa Isle\nVictorborough, FL 12411",
+    "job": "Exercise physiologist",
+    "score": 0.5452948519513012
+  }
+}

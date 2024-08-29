@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2826,
+    "user_id": 439,
+    "created_by_name": "Tracy Whitaker",
+    "updated_at": "2023-10-23 23:22:27",
+    "created_at": "2023-10-23 23:18:59",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:27",
+    "event_id": "3d669cdf-2dc8-41b3-92e7-fcb0a6832a76"
+  }
+}

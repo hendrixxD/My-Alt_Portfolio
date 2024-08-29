@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1671,
+    "user_id": 75,
+    "created_by_name": "Stacey Parker",
+    "updated_at": "2023-10-23 23:26:42",
+    "created_at": "2023-10-23 23:14:51",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:42",
+    "event_id": "919e22bb-bb14-4d18-af50-4f6e01596f57"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2ea6a6e7-83ae-427e-8e85-1113f2c8f2ff"
+  },
+  "payload": {
+    "id": 982,
+    "name": "Justin Sanders",
+    "address": "USS Wade\nFPO AA 46106",
+    "job": "Journalist, newspaper",
+    "score": 0.5405234352870433
+  }
+}

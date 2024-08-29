@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1778,
+    "user_id": 321,
+    "created_by_name": "Denise Graham",
+    "updated_at": "2023-10-23 23:26:15",
+    "created_at": "2023-10-23 23:15:14",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:15",
+    "event_id": "65ee7b98-19ea-4651-9d6b-0fae4183a65b"
+  }
+}

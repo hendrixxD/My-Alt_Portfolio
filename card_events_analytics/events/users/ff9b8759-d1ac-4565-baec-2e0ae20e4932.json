@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ff9b8759-d1ac-4565-baec-2e0ae20e4932"
+  },
+  "payload": {
+    "id": 700,
+    "name": "Pamela Montoya",
+    "address": "83435 Drew Prairie\nJasonton, CT 82809",
+    "job": "Physicist, medical",
+    "score": 0.4343297185253514
+  }
+}
