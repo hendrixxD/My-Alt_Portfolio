@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4fcafe2c-2ec1-4c3c-96d8-ccf523202a08"
+  },
+  "payload": {
+    "id": 95,
+    "name": "Christopher Pineda",
+    "address": "PSC 1079, Box 0710\nAPO AP 74462",
+    "job": "Museum education officer",
+    "score": 0.5385197026064055
+  }
+}

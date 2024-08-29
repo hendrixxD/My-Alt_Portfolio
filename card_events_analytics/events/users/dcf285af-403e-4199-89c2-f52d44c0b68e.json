@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "dcf285af-403e-4199-89c2-f52d44c0b68e"
+  },
+  "payload": {
+    "id": 851,
+    "name": "Kenneth Pruitt",
+    "address": "35517 Jennifer Flats\nEast Lukemouth, FM 35002",
+    "job": "Therapeutic radiographer",
+    "score": 0.7793776220294595
+  }
+}

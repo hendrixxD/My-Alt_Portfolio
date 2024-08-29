@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5211,
+    "user_id": 100,
+    "created_by_name": "Angela Warren",
+    "updated_at": "2023-10-23 23:27:40",
+    "created_at": "2023-10-23 23:27:28",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:40",
+    "event_id": "07661a20-8340-42b8-b665-594bf00f45ad"
+  }
+}

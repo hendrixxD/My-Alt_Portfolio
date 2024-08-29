@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7d8337cd-0db9-439a-a901-5fca94cd7899"
+  },
+  "payload": {
+    "id": 398,
+    "name": "Jennifer Johnston",
+    "address": "41518 Sara Ranch Suite 976\nRandallside, CO 85535",
+    "job": "Print production planner",
+    "score": 0.24809280714568172
+  }
+}

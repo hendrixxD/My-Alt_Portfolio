@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3180,
+    "user_id": 957,
+    "created_by_name": "Christopher Wallace",
+    "updated_at": "2023-10-23 23:20:17",
+    "created_at": "2023-10-23 23:20:17",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:17",
+    "event_id": "4cb6151a-d0d3-45f0-8771-c631f9946cdc"
+  }
+}

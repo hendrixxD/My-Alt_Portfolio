@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2810,
+    "user_id": 107,
+    "created_by_name": "Nathan Patel",
+    "updated_at": "2023-10-23 23:21:40",
+    "created_at": "2023-10-23 23:18:56",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:40",
+    "event_id": "cf7e86c1-691f-434a-bcae-c2e14d354dd4"
+  }
+}

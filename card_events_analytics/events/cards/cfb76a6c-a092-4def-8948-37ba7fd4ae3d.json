@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1417,
+    "created_by_name": "Thomas Hayes",
+    "updated_at": "2023-10-23 23:15:38",
+    "created_at": "2023-10-23 23:13:56",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:38",
+    "event_id": "cfb76a6c-a092-4def-8948-37ba7fd4ae3d"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 87,
+    "user_id": 676,
+    "created_by_name": "Maria Greene",
+    "updated_at": "2023-10-23 23:11:42",
+    "created_at": "2023-10-23 23:09:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:42",
+    "event_id": "7c981681-b182-4973-8417-c7b27eae2201"
+  }
+}

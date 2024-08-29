@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 245,
+    "user_id": 337,
+    "created_by_name": "Sara Smith",
+    "updated_at": "2023-10-23 23:10:28",
+    "created_at": "2023-10-23 23:09:44",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:28",
+    "event_id": "e0d2e434-cb2e-4e32-b7e4-67f03dc3c046"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "536ebe01-905a-4298-a1fb-b593c83c8883"
+  },
+  "payload": {
+    "id": 381,
+    "name": "Kristen Ramirez",
+    "address": "4112 Benjamin Turnpike\nJaniceport, AL 04798",
+    "job": "TEFL teacher",
+    "score": 0.2510500685135133
+  }
+}

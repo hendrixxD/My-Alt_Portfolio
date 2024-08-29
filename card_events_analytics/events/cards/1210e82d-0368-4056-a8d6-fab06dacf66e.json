@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4688,
+    "user_id": 341,
+    "created_by_name": "Brittany Hooper",
+    "updated_at": "2023-10-23 23:29:44",
+    "created_at": "2023-10-23 23:25:34",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:44",
+    "event_id": "1210e82d-0368-4056-a8d6-fab06dacf66e"
+  }
+}

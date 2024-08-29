@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2950,
+    "created_by_name": "Morgan Bray",
+    "updated_at": "2023-10-23 23:25:04",
+    "created_at": "2023-10-23 23:19:28",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:04",
+    "event_id": "79440f10-4ecf-4988-bf1e-344e71b6d01f"
+  }
+}

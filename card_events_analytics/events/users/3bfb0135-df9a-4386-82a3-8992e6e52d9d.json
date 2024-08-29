@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3bfb0135-df9a-4386-82a3-8992e6e52d9d"
+  },
+  "payload": {
+    "id": 66,
+    "name": "Paige Krueger",
+    "address": "342 Susan Corner\nNicholasstad, NY 47011",
+    "job": "Building surveyor",
+    "score": 0.25255058766929916
+  }
+}

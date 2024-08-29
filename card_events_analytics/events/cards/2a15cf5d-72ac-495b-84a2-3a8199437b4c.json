@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1631,
+    "user_id": 458,
+    "created_by_name": "Jeremy Nelson",
+    "updated_at": "2023-10-23 23:27:25",
+    "created_at": "2023-10-23 23:14:43",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:25",
+    "event_id": "2a15cf5d-72ac-495b-84a2-3a8199437b4c"
+  }
+}

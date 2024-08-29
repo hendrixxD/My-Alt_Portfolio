@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 399,
+    "user_id": 754,
+    "created_by_name": "Joyce Pace",
+    "updated_at": "2023-10-23 23:25:31",
+    "created_at": "2023-10-23 23:10:17",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:31",
+    "event_id": "4dc3833b-bab0-4adc-a6b2-2990692d94fb"
+  }
+}

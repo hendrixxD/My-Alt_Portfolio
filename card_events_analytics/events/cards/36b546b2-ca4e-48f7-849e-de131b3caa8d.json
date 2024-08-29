@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3067,
+    "user_id": 225,
+    "created_by_name": "Melissa Gordon",
+    "updated_at": "2023-10-23 23:19:54",
+    "created_at": "2023-10-23 23:19:54",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:54",
+    "event_id": "36b546b2-ca4e-48f7-849e-de131b3caa8d"
+  }
+}

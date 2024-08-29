@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3752,
+    "user_id": 113,
+    "created_by_name": "Kara Oliver",
+    "updated_at": "2023-10-23 23:22:22",
+    "created_at": "2023-10-23 23:22:22",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:22",
+    "event_id": "a999d0f2-26a8-408a-8de0-796b6235e795"
+  }
+}

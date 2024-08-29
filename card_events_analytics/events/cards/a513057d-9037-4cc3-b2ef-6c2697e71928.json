@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4990,
+    "user_id": 317,
+    "created_by_name": "Ronnie Small",
+    "updated_at": "2023-10-23 23:26:56",
+    "created_at": "2023-10-23 23:26:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:56",
+    "event_id": "a513057d-9037-4cc3-b2ef-6c2697e71928"
+  }
+}

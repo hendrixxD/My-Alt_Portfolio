@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "10d0ee39-d848-4f5d-a2c6-c8e64b45f11e"
+  },
+  "payload": {
+    "id": 165,
+    "name": "Denise Porter",
+    "address": "266 Joseph Estate\nSouth Timothyport, FL 37116",
+    "job": "Fashion designer",
+    "score": 0.01589242344810471
+  }
+}

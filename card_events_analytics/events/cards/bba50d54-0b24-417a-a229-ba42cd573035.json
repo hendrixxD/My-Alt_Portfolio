@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4914,
+    "user_id": 624,
+    "created_by_name": "Frank Liu",
+    "updated_at": "2023-10-23 23:30:08",
+    "created_at": "2023-10-23 23:26:21",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:08",
+    "event_id": "bba50d54-0b24-417a-a229-ba42cd573035"
+  }
+}

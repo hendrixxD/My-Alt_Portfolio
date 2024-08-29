@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f9fb0d50-f3b0-4733-a3f8-8cdf1f089c6e"
+  },
+  "payload": {
+    "id": 336,
+    "name": "Natalie Turner",
+    "address": "366 Willis Crescent\nSouth Johnview, KS 08538",
+    "job": "TEFL teacher",
+    "score": 0.9715781270153233
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "52c55a82-b05f-44d1-8b02-3b6a07e4809e"
+  },
+  "payload": {
+    "id": 374,
+    "name": "Cathy Russell",
+    "address": "453 Christina Route Suite 344\nNorth Samanthahaven, SD 70937",
+    "job": "Clinical biochemist",
+    "score": 0.8060742795234106
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1336,
+    "user_id": 237,
+    "created_by_name": "Shawn Park",
+    "updated_at": "2023-10-23 23:13:38",
+    "created_at": "2023-10-23 23:13:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:38",
+    "event_id": "622032e7-ca62-473a-b3ce-94009b6d8871"
+  }
+}

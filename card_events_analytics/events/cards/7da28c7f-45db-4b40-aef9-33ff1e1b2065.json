@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1142,
+    "user_id": 464,
+    "created_by_name": "Brenda Wong",
+    "updated_at": "2023-10-23 23:12:59",
+    "created_at": "2023-10-23 23:12:59",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:59",
+    "event_id": "7da28c7f-45db-4b40-aef9-33ff1e1b2065"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "177dbc21-cf42-434f-97c9-05d7a0c18d06"
+  },
+  "payload": {
+    "id": 75,
+    "name": "Daniel Santiago",
+    "address": "PSC 1100, Box 2936\nAPO AP 19157",
+    "job": "Media buyer",
+    "score": 0.42761063476404426
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6db719b5-81f6-4fbf-8736-12bdfc1a8549"
+  },
+  "payload": {
+    "id": 994,
+    "name": "Teresa Cervantes",
+    "address": "84080 Watson Circle\nBrownside, MI 03499",
+    "job": "Armed forces technical officer",
+    "score": 0.0521308667966639
+  }
+}

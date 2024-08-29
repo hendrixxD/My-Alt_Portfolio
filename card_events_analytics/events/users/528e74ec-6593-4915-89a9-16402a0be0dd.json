@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "528e74ec-6593-4915-89a9-16402a0be0dd"
+  },
+  "payload": {
+    "id": 624,
+    "name": "Brian Costa",
+    "address": "68209 Hall Mountains Apt. 835\nPort Angela, NH 50929",
+    "job": "Historic buildings inspector/conservation officer",
+    "score": 0.2041340617944859
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1825,
+    "user_id": 680,
+    "created_by_name": "William Ramos",
+    "updated_at": "2023-10-23 23:24:07",
+    "created_at": "2023-10-23 23:15:22",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:07",
+    "event_id": "ef04f9fe-38b3-423b-ad00-bff7f29d734c"
+  }
+}

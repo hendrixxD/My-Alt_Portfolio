@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4278,
+    "user_id": 508,
+    "created_by_name": "Melanie Jordan",
+    "updated_at": "2023-10-23 23:26:07",
+    "created_at": "2023-10-23 23:24:12",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:07",
+    "event_id": "dcdd8107-4f35-4636-8a6d-00c955c9de09"
+  }
+}

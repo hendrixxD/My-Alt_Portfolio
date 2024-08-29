@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5050,
+    "user_id": 106,
+    "created_by_name": "Tracy Bartlett",
+    "updated_at": "2023-10-23 23:27:37",
+    "created_at": "2023-10-23 23:26:48",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:37",
+    "event_id": "95536021-8270-4771-8b4b-072b7eae34da"
+  }
+}

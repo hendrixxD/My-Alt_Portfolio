@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4749,
+    "user_id": 517,
+    "created_by_name": "Bruce Davidson",
+    "updated_at": "2023-10-23 23:26:40",
+    "created_at": "2023-10-23 23:25:44",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:40",
+    "event_id": "28df64d3-0082-4c4a-829a-2dab814d2765"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8dc0cffb-ccb6-4091-a4ec-33c5e7a5c6ce"
+  },
+  "payload": {
+    "id": 32,
+    "name": "Claire Johnson",
+    "address": "11743 Emma Road\nNew Daniel, HI 47889",
+    "job": "Teacher, special educational needs",
+    "score": 0.49285673531335106
+  }
+}

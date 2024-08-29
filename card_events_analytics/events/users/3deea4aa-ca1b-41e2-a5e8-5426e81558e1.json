@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3deea4aa-ca1b-41e2-a5e8-5426e81558e1"
+  },
+  "payload": {
+    "id": 841,
+    "name": "Aaron Williams",
+    "address": "5179 Chelsey Creek Apt. 705\nSouth Lisa, MN 30494",
+    "job": "Surveyor, land/geomatics",
+    "score": 0.9706849622338035
+  }
+}

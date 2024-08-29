@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 463,
+    "user_id": 552,
+    "created_by_name": "Wesley Thomas",
+    "updated_at": "2023-10-23 23:16:14",
+    "created_at": "2023-10-23 23:10:32",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:14",
+    "event_id": "62e6566a-742c-42fa-b7b0-577c11d0c749"
+  }
+}

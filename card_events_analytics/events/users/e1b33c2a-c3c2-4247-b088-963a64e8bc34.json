@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e1b33c2a-c3c2-4247-b088-963a64e8bc34"
+  },
+  "payload": {
+    "id": 219,
+    "name": "Erica Barajas",
+    "address": "097 Luna Ferry Apt. 282\nDanielleport, GA 49648",
+    "job": "Commissioning editor",
+    "score": 0.20398697674634791
+  }
+}

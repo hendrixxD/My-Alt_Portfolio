@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b12b8f36-2bef-4bab-bac5-d02b14bcc391"
+  },
+  "payload": {
+    "id": 433,
+    "name": "Seth Mcdonald",
+    "address": "926 Amanda Pines Apt. 076\nEast Valerieshire, DC 82211",
+    "job": "Careers information officer",
+    "score": 0.20521814907716573
+  }
+}

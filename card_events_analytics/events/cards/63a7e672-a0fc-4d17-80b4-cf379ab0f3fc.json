@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 80,
+    "user_id": 808,
+    "created_by_name": "Luis West",
+    "updated_at": "2023-10-23 23:10:45",
+    "created_at": "2023-10-23 23:09:10",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:45",
+    "event_id": "63a7e672-a0fc-4d17-80b4-cf379ab0f3fc"
+  }
+}

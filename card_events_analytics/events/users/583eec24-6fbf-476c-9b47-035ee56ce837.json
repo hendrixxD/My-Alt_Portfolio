@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "583eec24-6fbf-476c-9b47-035ee56ce837"
+  },
+  "payload": {
+    "id": 822,
+    "name": "Rachel Monroe",
+    "address": "062 Smith Valley Apt. 374\nSouth Allen, PR 85781",
+    "job": "Retail buyer",
+    "score": 0.3801638145512648
+  }
+}

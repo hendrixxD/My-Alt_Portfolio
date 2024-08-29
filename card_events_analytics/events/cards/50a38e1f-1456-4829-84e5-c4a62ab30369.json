@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 292,
+    "user_id": 806,
+    "created_by_name": "Warren Torres",
+    "updated_at": "2023-10-23 23:22:29",
+    "created_at": "2023-10-23 23:09:54",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:29",
+    "event_id": "50a38e1f-1456-4829-84e5-c4a62ab30369"
+  }
+}

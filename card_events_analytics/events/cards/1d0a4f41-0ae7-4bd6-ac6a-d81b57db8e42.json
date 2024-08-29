@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1650,
+    "user_id": 195,
+    "created_by_name": "Kaitlyn Martinez",
+    "updated_at": "2023-10-23 23:15:07",
+    "created_at": "2023-10-23 23:14:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:07",
+    "event_id": "1d0a4f41-0ae7-4bd6-ac6a-d81b57db8e42"
+  }
+}

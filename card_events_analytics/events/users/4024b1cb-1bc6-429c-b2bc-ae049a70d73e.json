@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4024b1cb-1bc6-429c-b2bc-ae049a70d73e"
+  },
+  "payload": {
+    "id": 318,
+    "name": "Angelica Banks",
+    "address": "923 Garza Knolls Suite 936\nCodybury, OK 00976",
+    "job": "Orthoptist",
+    "score": 0.39651767556152306
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f7721205-c3e2-4405-b25c-9990ca04a022"
+  },
+  "payload": {
+    "id": 460,
+    "name": "Christine Carter",
+    "address": "7446 Davila Alley Apt. 577\nSouth Troymouth, NY 56369",
+    "job": "Operational researcher",
+    "score": 0.0935465432052599
+  }
+}

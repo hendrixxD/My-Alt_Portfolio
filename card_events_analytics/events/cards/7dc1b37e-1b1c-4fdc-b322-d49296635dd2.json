@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 286,
+    "user_id": 817,
+    "created_by_name": "Crystal Evans",
+    "updated_at": "2023-10-23 23:26:10",
+    "created_at": "2023-10-23 23:09:53",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:10",
+    "event_id": "7dc1b37e-1b1c-4fdc-b322-d49296635dd2"
+  }
+}

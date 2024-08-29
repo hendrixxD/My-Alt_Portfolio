@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1546,
+    "user_id": 150,
+    "created_by_name": "David Ho",
+    "updated_at": "2023-10-23 23:19:57",
+    "created_at": "2023-10-23 23:14:24",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:57",
+    "event_id": "cf67e19f-3155-4303-90c3-61f0aa814597"
+  }
+}

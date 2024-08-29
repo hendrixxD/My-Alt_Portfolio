@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3d92d26e-c570-4507-93a5-a2ccde7709df"
+  },
+  "payload": {
+    "id": 641,
+    "name": "Stanley Smith",
+    "address": "36399 Sarah Burgs\nJaniceport, WI 07732",
+    "job": "Retail manager",
+    "score": 0.5466993704133889
+  }
+}

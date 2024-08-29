@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1780,
+    "created_by_name": "Alexandria Evans",
+    "updated_at": "2023-10-23 23:15:14",
+    "created_at": "2023-10-23 23:15:14",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:14",
+    "event_id": "998f2e01-d6b1-4186-a8f8-d97cecddaa5c"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "15ee9aff-cbd9-4b31-96db-ba6623a4da62"
+  },
+  "payload": {
+    "id": 834,
+    "name": "Alicia Johns",
+    "address": "8484 Kramer Crossing\nSouth Michael, NV 89270",
+    "job": "Research officer, trade union",
+    "score": 0.038978546973177375
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3448,
+    "user_id": 610,
+    "created_by_name": "Cory Taylor",
+    "updated_at": "2023-10-23 23:21:18",
+    "created_at": "2023-10-23 23:21:18",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:18",
+    "event_id": "2d6682ba-fe80-47c8-adfc-74ea9ee1c3da"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3715,
+    "user_id": 19,
+    "created_by_name": "Christina James",
+    "updated_at": "2023-10-23 23:22:13",
+    "created_at": "2023-10-23 23:22:13",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:13",
+    "event_id": "f6f40b15-42e9-4d32-936f-6dc4d9c84cca"
+  }
+}

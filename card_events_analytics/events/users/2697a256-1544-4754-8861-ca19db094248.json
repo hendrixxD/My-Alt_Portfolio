@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2697a256-1544-4754-8861-ca19db094248"
+  },
+  "payload": {
+    "id": 597,
+    "name": "Jason Lane",
+    "address": "3613 Petty Point Suite 738\nLake Priscillaland, VI 30846",
+    "job": "Editor, film/video",
+    "score": 0.37781782619530346
+  }
+}

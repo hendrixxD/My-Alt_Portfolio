@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "50e4b107-a911-46dc-9f3f-ea11e2cd29bd"
+  },
+  "payload": {
+    "id": 46,
+    "name": "Ashley Knox",
+    "address": "752 Johnson Stream Apt. 141\nNew Tylerbury, AS 02981",
+    "job": "Higher education careers adviser",
+    "score": 0.7337497259374076
+  }
+}

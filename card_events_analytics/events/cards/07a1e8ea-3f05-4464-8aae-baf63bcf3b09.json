@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2608,
+    "user_id": 245,
+    "created_by_name": "Kelly Sanchez MD",
+    "updated_at": "2023-10-23 23:20:05",
+    "created_at": "2023-10-23 23:18:14",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:05",
+    "event_id": "07a1e8ea-3f05-4464-8aae-baf63bcf3b09"
+  }
+}

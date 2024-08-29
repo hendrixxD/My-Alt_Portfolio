@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 855,
+    "user_id": 433,
+    "created_by_name": "Seth Ross",
+    "updated_at": "2023-10-23 23:12:02",
+    "created_at": "2023-10-23 23:12:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:02",
+    "event_id": "8c510edc-37d6-4d49-8358-9adea419f129"
+  }
+}

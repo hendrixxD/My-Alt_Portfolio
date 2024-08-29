@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1624,
+    "user_id": 887,
+    "created_by_name": "Mr. Michael Williams",
+    "updated_at": "2023-10-23 23:18:17",
+    "created_at": "2023-10-23 23:14:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:17",
+    "event_id": "8d7e448b-307e-46cc-9cc3-6bbaec59b071"
+  }
+}

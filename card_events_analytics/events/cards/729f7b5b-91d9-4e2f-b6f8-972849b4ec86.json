@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2107,
+    "user_id": 472,
+    "created_by_name": "Barbara Herrera",
+    "updated_at": "2023-10-23 23:16:23",
+    "created_at": "2023-10-23 23:16:23",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:23",
+    "event_id": "729f7b5b-91d9-4e2f-b6f8-972849b4ec86"
+  }
+}

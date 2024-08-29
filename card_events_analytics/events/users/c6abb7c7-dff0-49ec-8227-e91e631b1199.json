@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c6abb7c7-dff0-49ec-8227-e91e631b1199"
+  },
+  "payload": {
+    "id": 855,
+    "name": "Shannon Anthony",
+    "address": "99917 Teresa Shores\nMichaelchester, AS 05592",
+    "job": "Gaffer",
+    "score": 0.291548325375553
+  }
+}

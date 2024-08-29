@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2667,
+    "user_id": 647,
+    "created_by_name": "Richard Hahn",
+    "updated_at": "2023-10-23 23:18:27",
+    "created_at": "2023-10-23 23:18:27",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:27",
+    "event_id": "d3033413-5d98-4cfc-8a82-838b4a1f3c7f"
+  }
+}

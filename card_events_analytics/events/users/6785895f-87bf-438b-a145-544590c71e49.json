@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6785895f-87bf-438b-a145-544590c71e49"
+  },
+  "payload": {
+    "id": 99,
+    "name": "Joseph Dunn",
+    "address": "8900 Robert Lock\nNorth Kevinport, OH 53713",
+    "job": "Copy",
+    "score": 0.4369068274930198
+  }
+}

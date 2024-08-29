@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 619,
+    "created_by_name": "Samantha Price",
+    "updated_at": "2023-10-23 23:11:24",
+    "created_at": "2023-10-23 23:11:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:24",
+    "event_id": "78872a4e-37ca-4c2a-bdac-6243ad1aa1d6"
+  }
+}

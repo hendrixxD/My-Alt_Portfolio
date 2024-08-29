@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2802,
+    "user_id": 448,
+    "created_by_name": "Matthew Mckinney",
+    "updated_at": "2023-10-23 23:20:44",
+    "created_at": "2023-10-23 23:18:55",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:44",
+    "event_id": "3fc6f10f-a2da-4c4a-a22f-b531feb52c5a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 540,
+    "user_id": 206,
+    "created_by_name": "Betty Brooks",
+    "updated_at": "2023-10-23 23:24:19",
+    "created_at": "2023-10-23 23:10:49",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:19",
+    "event_id": "c27808a9-7f9d-4fd5-8100-944158e0a6b2"
+  }
+}

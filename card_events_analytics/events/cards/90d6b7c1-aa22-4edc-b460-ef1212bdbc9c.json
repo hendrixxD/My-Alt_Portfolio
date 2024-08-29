@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 222,
+    "user_id": 84,
+    "created_by_name": "Kevin Rose",
+    "updated_at": "2023-10-23 23:12:46",
+    "created_at": "2023-10-23 23:09:40",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:46",
+    "event_id": "90d6b7c1-aa22-4edc-b460-ef1212bdbc9c"
+  }
+}

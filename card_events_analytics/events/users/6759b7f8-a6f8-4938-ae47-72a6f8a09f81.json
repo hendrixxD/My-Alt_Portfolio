@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6759b7f8-a6f8-4938-ae47-72a6f8a09f81"
+  },
+  "payload": {
+    "id": 769,
+    "name": "Tammy Bender",
+    "address": "36641 Mackenzie Grove Apt. 092\nEast Jonathan, WV 41265",
+    "job": "Chartered legal executive (England and Wales)",
+    "score": 0.09722147483661014
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4769,
+    "user_id": 927,
+    "created_by_name": "Cindy Dixon",
+    "updated_at": "2023-10-23 23:26:57",
+    "created_at": "2023-10-23 23:25:50",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:57",
+    "event_id": "a8c1aacc-c043-4dcd-8f0e-9e57a93902ff"
+  }
+}

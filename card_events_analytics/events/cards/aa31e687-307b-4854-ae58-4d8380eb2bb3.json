@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1177,
+    "user_id": 650,
+    "created_by_name": "Amber English",
+    "updated_at": "2023-10-23 23:16:32",
+    "created_at": "2023-10-23 23:13:06",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:32",
+    "event_id": "aa31e687-307b-4854-ae58-4d8380eb2bb3"
+  }
+}

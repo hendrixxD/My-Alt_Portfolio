@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "aff7669c-6f9a-4982-a289-8f08c5e6df73"
+  },
+  "payload": {
+    "id": 955,
+    "name": "Kelly Schmidt",
+    "address": "0288 Hinton Pine\nLake Kevin, MN 38982",
+    "job": "Textile designer",
+    "score": 0.9110918023000201
+  }
+}

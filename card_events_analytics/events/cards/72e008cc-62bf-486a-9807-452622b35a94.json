@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4598,
+    "user_id": 522,
+    "created_by_name": "Michele Aguirre",
+    "updated_at": "2023-10-23 23:28:36",
+    "created_at": "2023-10-23 23:25:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:36",
+    "event_id": "72e008cc-62bf-486a-9807-452622b35a94"
+  }
+}

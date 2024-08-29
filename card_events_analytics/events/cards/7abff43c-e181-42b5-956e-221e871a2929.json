@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2016,
+    "user_id": 432,
+    "created_by_name": "Angel Zimmerman",
+    "updated_at": "2023-10-23 23:26:22",
+    "created_at": "2023-10-23 23:16:02",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:22",
+    "event_id": "7abff43c-e181-42b5-956e-221e871a2929"
+  }
+}

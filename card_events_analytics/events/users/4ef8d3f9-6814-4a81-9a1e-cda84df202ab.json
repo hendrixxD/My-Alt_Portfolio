@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4ef8d3f9-6814-4a81-9a1e-cda84df202ab"
+  },
+  "payload": {
+    "id": 800,
+    "name": "Christopher Hampton",
+    "address": "85659 Nicole Radial\nSouth John, CA 03010",
+    "job": "Leisure centre manager",
+    "score": 0.9854073068919245
+  }
+}

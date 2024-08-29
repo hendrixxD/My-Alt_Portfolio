@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c47123c4-6366-4d7a-a80e-e9de74396cab"
+  },
+  "payload": {
+    "id": 320,
+    "name": "Kelsey Rodriguez",
+    "address": "5003 Jenna Plain Suite 169\nHessfurt, HI 20135",
+    "job": "Wellsite geologist",
+    "score": 0.460223570977386
+  }
+}

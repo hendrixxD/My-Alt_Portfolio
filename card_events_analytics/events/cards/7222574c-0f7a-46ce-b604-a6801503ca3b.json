@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 32,
+    "user_id": 429,
+    "created_by_name": "Michael Skinner",
+    "updated_at": "2023-10-23 23:08:56",
+    "created_at": "2023-10-23 23:08:56",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:08:56",
+    "event_id": "7222574c-0f7a-46ce-b604-a6801503ca3b"
+  }
+}

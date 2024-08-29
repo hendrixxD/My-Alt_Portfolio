@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3945,
+    "user_id": 544,
+    "created_by_name": "Tiffany Snyder",
+    "updated_at": "2023-10-23 23:23:00",
+    "created_at": "2023-10-23 23:23:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:00",
+    "event_id": "cfe2cb24-2a95-46a8-bf9d-0a6dda11ea58"
+  }
+}

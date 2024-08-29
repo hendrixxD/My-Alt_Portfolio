@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1a133bf5-b15e-4296-9d3f-7d3bc28ff172"
+  },
+  "payload": {
+    "id": 112,
+    "name": "Robert Lloyd",
+    "address": "931 Roberts Wall\nMistyfurt, MS 40191",
+    "job": "Educational psychologist",
+    "score": 0.7849344704544516
+  }
+}

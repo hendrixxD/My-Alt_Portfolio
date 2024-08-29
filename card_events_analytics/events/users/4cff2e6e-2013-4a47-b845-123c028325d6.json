@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4cff2e6e-2013-4a47-b845-123c028325d6"
+  },
+  "payload": {
+    "id": 581,
+    "name": "Victor Velazquez",
+    "address": "0471 White Meadow Suite 694\nPort Erin, HI 77030",
+    "job": "Psychologist, prison and probation services",
+    "score": 0.32787122311963535
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7d35ab46-a2ff-47b1-8a0a-fdb55969129b"
+  },
+  "payload": {
+    "id": 224,
+    "name": "Edward Rodriguez",
+    "address": "645 Butler Inlet Suite 563\nSouth Charles, VT 54298",
+    "job": "Retail buyer",
+    "score": 0.5506430400797281
+  }
+}

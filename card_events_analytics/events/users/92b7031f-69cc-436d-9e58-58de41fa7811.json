@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "92b7031f-69cc-436d-9e58-58de41fa7811"
+  },
+  "payload": {
+    "id": 363,
+    "name": "Benjamin Martinez",
+    "address": "542 Perez Island Suite 935\nFernandochester, PW 16540",
+    "job": "IT trainer",
+    "score": 0.9699435514440281
+  }
+}

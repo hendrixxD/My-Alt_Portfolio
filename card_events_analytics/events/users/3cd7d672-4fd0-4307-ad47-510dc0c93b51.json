@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3cd7d672-4fd0-4307-ad47-510dc0c93b51"
+  },
+  "payload": {
+    "id": 462,
+    "name": "Destiny Smith",
+    "address": "85810 Watkins Mills\nLeahhaven, NJ 62033",
+    "job": "Sound technician, broadcasting/film/video",
+    "score": 0.281532404132786
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1771,
+    "user_id": 242,
+    "created_by_name": "Ronald Salazar",
+    "updated_at": "2023-10-23 23:17:57",
+    "created_at": "2023-10-23 23:15:12",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:57",
+    "event_id": "608f19f3-8f82-42d1-bf00-e4fca9d15307"
+  }
+}

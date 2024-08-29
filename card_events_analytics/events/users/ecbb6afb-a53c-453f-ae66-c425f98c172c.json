@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ecbb6afb-a53c-453f-ae66-c425f98c172c"
+  },
+  "payload": {
+    "id": 911,
+    "name": "Christopher Pearson",
+    "address": "69424 Christopher Harbor\nThomasside, FM 83096",
+    "job": "Applications developer",
+    "score": 0.8048598538666141
+  }
+}

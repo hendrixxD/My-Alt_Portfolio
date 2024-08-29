@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b38d463d-5ceb-44bf-8bff-59eaf7f91215"
+  },
+  "payload": {
+    "id": 117,
+    "name": "Jacob Herrera",
+    "address": "46637 Rachel Avenue Suite 151\nNorth Danaside, AZ 82567",
+    "job": "Technical brewer",
+    "score": 0.49641339350349856
+  }
+}

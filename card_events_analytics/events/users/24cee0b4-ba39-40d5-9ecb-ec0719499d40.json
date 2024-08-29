@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "24cee0b4-ba39-40d5-9ecb-ec0719499d40"
+  },
+  "payload": {
+    "id": 966,
+    "name": "Chad Keller",
+    "address": "4325 Ellis Fork\nLake Joseph, NM 04818",
+    "job": "Trading standards officer",
+    "score": 0.07303997733826784
+  }
+}

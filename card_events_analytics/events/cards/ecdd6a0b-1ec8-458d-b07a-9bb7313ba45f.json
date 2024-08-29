@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2816,
+    "user_id": 478,
+    "created_by_name": "Jean Bishop",
+    "updated_at": "2023-10-23 23:30:04",
+    "created_at": "2023-10-23 23:18:57",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:30:04",
+    "event_id": "ecdd6a0b-1ec8-458d-b07a-9bb7313ba45f"
+  }
+}

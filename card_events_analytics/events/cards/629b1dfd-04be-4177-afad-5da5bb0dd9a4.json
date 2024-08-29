@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 55,
+    "user_id": 617,
+    "created_by_name": "Beth White",
+    "updated_at": "2023-10-23 23:09:19",
+    "created_at": "2023-10-23 23:09:03",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:19",
+    "event_id": "629b1dfd-04be-4177-afad-5da5bb0dd9a4"
+  }
+}

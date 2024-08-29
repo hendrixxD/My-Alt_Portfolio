@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a4b64e9d-d21b-43a5-80e5-e82a5b290f21"
+  },
+  "payload": {
+    "id": 981,
+    "name": "Bonnie Carr",
+    "address": "103 Rebecca Burgs\nPort Joe, NM 87498",
+    "job": "Animator",
+    "score": 0.16855719304485606
+  }
+}

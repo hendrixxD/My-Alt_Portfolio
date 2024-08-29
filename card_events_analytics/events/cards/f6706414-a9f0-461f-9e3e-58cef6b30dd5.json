@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4377,
+    "user_id": 241,
+    "created_by_name": "Christina Davenport",
+    "updated_at": "2023-10-23 23:24:39",
+    "created_at": "2023-10-23 23:24:31",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:39",
+    "event_id": "f6706414-a9f0-461f-9e3e-58cef6b30dd5"
+  }
+}

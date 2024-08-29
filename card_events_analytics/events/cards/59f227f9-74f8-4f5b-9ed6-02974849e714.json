@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 922,
+    "user_id": 138,
+    "created_by_name": "Rebecca Chen DDS",
+    "updated_at": "2023-10-23 23:15:58",
+    "created_at": "2023-10-23 23:12:17",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:58",
+    "event_id": "59f227f9-74f8-4f5b-9ed6-02974849e714"
+  }
+}

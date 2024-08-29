@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 219,
+    "user_id": 384,
+    "created_by_name": "Christopher Frazier",
+    "updated_at": "2023-10-23 23:22:29",
+    "created_at": "2023-10-23 23:09:39",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:29",
+    "event_id": "8d6dcf82-5082-4d74-a475-e042dded74ab"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "732008ca-3297-41dd-a0ab-2b6b2d93305b"
+  },
+  "payload": {
+    "id": 243,
+    "name": "Dr. Mason Jackson",
+    "address": "4794 Lisa Isle Apt. 701\nRonaldtown, NC 95231",
+    "job": "Television production assistant",
+    "score": 0.4589340616696914
+  }
+}

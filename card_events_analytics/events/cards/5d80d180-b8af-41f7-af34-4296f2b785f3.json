@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5768,
+    "user_id": 963,
+    "created_by_name": "Wendy Tucker",
+    "updated_at": "2023-10-23 23:29:38",
+    "created_at": "2023-10-23 23:29:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:38",
+    "event_id": "5d80d180-b8af-41f7-af34-4296f2b785f3"
+  }
+}

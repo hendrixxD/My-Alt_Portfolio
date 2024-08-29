@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2394882a-cb48-417d-8ffc-4e7ed4af07f7"
+  },
+  "payload": {
+    "id": 887,
+    "name": "Anthony Morales",
+    "address": "70680 Dudley Vista Suite 367\nWest John, AK 15452",
+    "job": "Computer games developer",
+    "score": 0.9184876551907115
+  }
+}

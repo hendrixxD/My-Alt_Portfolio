@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 504,
+    "user_id": 902,
+    "created_by_name": "Megan Mcclure",
+    "updated_at": "2023-10-23 23:10:40",
+    "created_at": "2023-10-23 23:10:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:40",
+    "event_id": "2894ea09-0aa0-47d8-8793-3e536a788101"
+  }
+}

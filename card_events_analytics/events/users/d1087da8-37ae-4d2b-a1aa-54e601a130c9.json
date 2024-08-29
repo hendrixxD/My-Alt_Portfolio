@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d1087da8-37ae-4d2b-a1aa-54e601a130c9"
+  },
+  "payload": {
+    "id": 684,
+    "name": "Deborah Hendricks",
+    "address": "3056 Berg Course\nNorth Nathanielville, MP 10874",
+    "job": "Psychiatrist",
+    "score": 0.27734621705408136
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3c83e874-0252-4d1a-b002-a3b06359b172"
+  },
+  "payload": {
+    "id": 873,
+    "name": "Amy Salazar",
+    "address": "82215 Sheri Isle Apt. 206\nWest Samantha, FM 74182",
+    "job": "Database administrator",
+    "score": 0.15723686737915066
+  }
+}

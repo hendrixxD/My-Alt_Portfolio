@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ea9ae71c-549e-4658-8bc8-a8292aa93845"
+  },
+  "payload": {
+    "id": 469,
+    "name": "Bryan Hutchinson",
+    "address": "Unit 9495 Box 6365\nDPO AP 00944",
+    "job": "Manufacturing engineer",
+    "score": 0.659276852358241
+  }
+}

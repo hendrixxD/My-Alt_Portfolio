@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1580,
+    "created_by_name": "Charles Mckenzie",
+    "updated_at": "2023-10-23 23:23:26",
+    "created_at": "2023-10-23 23:14:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:26",
+    "event_id": "c05ec277-ba17-4297-a704-25743ab167c4"
+  }
+}

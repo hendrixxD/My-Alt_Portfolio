@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6469dcce-7bd4-4f81-9289-4bbfd11a6812"
+  },
+  "payload": {
+    "id": 194,
+    "name": "David Roberts",
+    "address": "36020 Singh Parkways\nWest Donaldton, PA 58735",
+    "job": "Tax inspector",
+    "score": 0.20896292479156664
+  }
+}

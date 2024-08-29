@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1655,
+    "created_by_name": "Daniel Chambers",
+    "updated_at": "2023-10-23 23:19:04",
+    "created_at": "2023-10-23 23:14:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:04",
+    "event_id": "1afffe6d-f7ed-4cf2-8b2a-ed880c984d88"
+  }
+}

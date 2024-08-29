@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1262,
+    "user_id": 506,
+    "created_by_name": "Karen Valdez",
+    "updated_at": "2023-10-23 23:13:23",
+    "created_at": "2023-10-23 23:13:23",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:23",
+    "event_id": "43ee0c16-febb-4b8c-bd81-bfab249756d1"
+  }
+}

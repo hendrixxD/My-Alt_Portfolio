@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "09b2378c-eb41-48c6-9789-3cabebc06dfe"
+  },
+  "payload": {
+    "id": 393,
+    "name": "Mr. Cole Wells",
+    "address": "23983 Amy Course Apt. 844\nNew Robert, WA 66420",
+    "job": "Site engineer",
+    "score": 0.6681940580861531
+  }
+}

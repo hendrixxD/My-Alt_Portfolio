@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "1af825ad-6e2b-467d-a19e-458601f0cf22"
+  },
+  "payload": {
+    "id": 217,
+    "name": "Henry Washington",
+    "address": "5550 Sharon Way Suite 467\nWilsonfurt, WY 72099",
+    "job": "Applications developer",
+    "score": 0.3865222360771916
+  }
+}

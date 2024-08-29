@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 279,
+    "user_id": 979,
+    "created_by_name": "Sandra Campos",
+    "updated_at": "2023-10-23 23:09:52",
+    "created_at": "2023-10-23 23:09:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:52",
+    "event_id": "ba6304d3-c0ed-4370-9d23-68d964c7bf2f"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5492,
+    "user_id": 583,
+    "created_by_name": "Benjamin Harmon",
+    "updated_at": "2023-10-23 23:28:36",
+    "created_at": "2023-10-23 23:28:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:36",
+    "event_id": "cfe616be-ad45-497c-ac1f-d1a7f5e76f15"
+  }
+}

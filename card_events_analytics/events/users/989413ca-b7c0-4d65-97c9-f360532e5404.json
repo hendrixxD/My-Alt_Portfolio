@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "989413ca-b7c0-4d65-97c9-f360532e5404"
+  },
+  "payload": {
+    "id": 431,
+    "name": "Kevin Alvarez",
+    "address": "116 Connor Falls\nWest Maryland, NJ 67396",
+    "job": "Further education lecturer",
+    "score": 0.6694556178728522
+  }
+}

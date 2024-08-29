@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 363,
+    "user_id": 659,
+    "created_by_name": "Margaret Mcneil",
+    "updated_at": "2023-10-23 23:10:10",
+    "created_at": "2023-10-23 23:10:10",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:10",
+    "event_id": "7338cb23-a09e-4b97-a3b8-b38bd968b8e2"
+  }
+}

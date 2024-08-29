@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8c2bdac0-ff99-4b49-9894-37ff3126abcb"
+  },
+  "payload": {
+    "id": 940,
+    "name": "Jennifer Sheppard",
+    "address": "1235 Valerie Forge\nNew Richard, WV 14518",
+    "job": "Psychologist, occupational",
+    "score": 0.21405243187006884
+  }
+}

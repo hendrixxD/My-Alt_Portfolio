@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ffeba865-5a59-4320-8f27-c40f204d1bc2"
+  },
+  "payload": {
+    "id": 403,
+    "name": "Cassidy Hubbard",
+    "address": "8518 Melissa Parks Suite 843\nWest Suzanne, OH 98208",
+    "job": "Accountant, chartered certified",
+    "score": 0.3899413405342961
+  }
+}

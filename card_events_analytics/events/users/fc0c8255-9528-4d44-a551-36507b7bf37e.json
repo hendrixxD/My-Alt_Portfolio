@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fc0c8255-9528-4d44-a551-36507b7bf37e"
+  },
+  "payload": {
+    "id": 947,
+    "name": "Claudia Norris",
+    "address": "PSC 2739, Box 0037\nAPO AE 73006",
+    "job": "Engineer, technical sales",
+    "score": 0.7794903669519563
+  }
+}

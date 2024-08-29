@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4961,
+    "user_id": 434,
+    "created_by_name": "Rachel White",
+    "updated_at": "2023-10-23 23:26:30",
+    "created_at": "2023-10-23 23:26:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:30",
+    "event_id": "bf209f01-593c-4275-8575-fc919b940fed"
+  }
+}

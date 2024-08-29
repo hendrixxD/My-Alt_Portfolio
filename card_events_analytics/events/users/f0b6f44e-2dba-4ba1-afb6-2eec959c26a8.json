@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f0b6f44e-2dba-4ba1-afb6-2eec959c26a8"
+  },
+  "payload": {
+    "id": 666,
+    "name": "Maria Hayes",
+    "address": "3082 Andrade Lock\nWest Patrickbury, VT 16880",
+    "job": "Chief of Staff",
+    "score": 0.49603006875557676
+  }
+}

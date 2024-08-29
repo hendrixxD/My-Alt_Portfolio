@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d3aa87bd-aa8c-4d7c-bfe8-4bd007ac56b7"
+  },
+  "payload": {
+    "id": 722,
+    "name": "Robert Bailey",
+    "address": "29118 Parker Heights Apt. 921\nWest James, WA 78465",
+    "job": "Patent attorney",
+    "score": 0.08801426189071992
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 368,
+    "user_id": 691,
+    "created_by_name": "Steven Walker",
+    "updated_at": "2023-10-23 23:18:07",
+    "created_at": "2023-10-23 23:10:10",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:07",
+    "event_id": "d9d3903c-2beb-4a02-8e63-2c042459e7af"
+  }
+}

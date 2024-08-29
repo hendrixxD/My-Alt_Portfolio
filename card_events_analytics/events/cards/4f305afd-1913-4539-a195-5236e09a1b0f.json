@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2440,
+    "user_id": 743,
+    "created_by_name": "Jill Reynolds",
+    "updated_at": "2023-10-23 23:17:37",
+    "created_at": "2023-10-23 23:17:37",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:37",
+    "event_id": "4f305afd-1913-4539-a195-5236e09a1b0f"
+  }
+}

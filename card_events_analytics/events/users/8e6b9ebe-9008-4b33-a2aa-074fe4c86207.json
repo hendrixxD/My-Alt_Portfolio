@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8e6b9ebe-9008-4b33-a2aa-074fe4c86207"
+  },
+  "payload": {
+    "id": 56,
+    "name": "Brooke Gomez",
+    "address": "093 Erik Light\nMorenoshire, OK 55270",
+    "job": "Operational investment banker",
+    "score": 0.24317655705239638
+  }
+}

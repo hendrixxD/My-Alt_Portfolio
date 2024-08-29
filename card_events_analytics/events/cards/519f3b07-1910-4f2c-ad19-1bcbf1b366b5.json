@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 160,
+    "user_id": 619,
+    "created_by_name": "Samuel Gutierrez",
+    "updated_at": "2023-10-23 23:14:13",
+    "created_at": "2023-10-23 23:09:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:13",
+    "event_id": "519f3b07-1910-4f2c-ad19-1bcbf1b366b5"
+  }
+}

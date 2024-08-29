@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3339,
+    "user_id": 704,
+    "created_by_name": "Felicia Scott",
+    "updated_at": "2023-10-23 23:24:37",
+    "created_at": "2023-10-23 23:20:53",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:37",
+    "event_id": "5d8c03cb-8380-46fd-96a0-bfdecc9af983"
+  }
+}

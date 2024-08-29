@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3277,
+    "user_id": 219,
+    "created_by_name": "Sarah Sawyer",
+    "updated_at": "2023-10-23 23:20:40",
+    "created_at": "2023-10-23 23:20:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:40",
+    "event_id": "59dedff1-d63f-48ad-9c55-8033b876fb54"
+  }
+}

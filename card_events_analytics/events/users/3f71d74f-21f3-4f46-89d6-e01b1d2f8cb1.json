@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3f71d74f-21f3-4f46-89d6-e01b1d2f8cb1"
+  },
+  "payload": {
+    "id": 618,
+    "name": "Jennifer Christensen",
+    "address": "37194 Derek Lights\nAlexanderport, MT 17239",
+    "job": "Animal nutritionist",
+    "score": 0.767045949900582
+  }
+}

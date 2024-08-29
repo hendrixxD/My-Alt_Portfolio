@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 309,
+    "user_id": 66,
+    "created_by_name": "Jacob Simon",
+    "updated_at": "2023-10-23 23:09:57",
+    "created_at": "2023-10-23 23:09:57",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:57",
+    "event_id": "bf5d0933-06df-4300-9fb1-9ab0f07c5669"
+  }
+}

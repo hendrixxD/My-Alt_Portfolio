@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "35aecb40-3801-4b27-8f33-ce55bfc72ace"
+  },
+  "payload": {
+    "id": 313,
+    "name": "Frank Mckee",
+    "address": "28600 Chelsea Union\nSouth Jeffreyside, LA 69477",
+    "job": "Soil scientist",
+    "score": 0.5242256738971461
+  }
+}

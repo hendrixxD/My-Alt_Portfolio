@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6ffbc7fa-ae37-4e83-ac45-8e684b5806c6"
+  },
+  "payload": {
+    "id": 995,
+    "name": "Amy Webster",
+    "address": "712 Bruce Stravenue Suite 154\nHarrellville, SD 28941",
+    "job": "Engineer, maintenance",
+    "score": 0.6734785984885893
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 966,
+    "user_id": 817,
+    "created_by_name": "Debra Gonzalez",
+    "updated_at": "2023-10-23 23:16:00",
+    "created_at": "2023-10-23 23:12:26",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:00",
+    "event_id": "64c2aaee-0004-44ad-b302-a90b9c838cc6"
+  }
+}

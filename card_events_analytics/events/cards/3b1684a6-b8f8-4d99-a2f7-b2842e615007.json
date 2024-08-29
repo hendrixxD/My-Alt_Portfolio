@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 10,
+    "created_by_name": "Nancy Lopez",
+    "updated_at": "2023-10-23 23:09:06",
+    "created_at": "2023-10-23 23:08:52",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:06",
+    "event_id": "3b1684a6-b8f8-4d99-a2f7-b2842e615007"
+  }
+}

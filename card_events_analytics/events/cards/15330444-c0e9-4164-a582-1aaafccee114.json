@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1,
+    "user_id": 275,
+    "created_by_name": "Anna Orr",
+    "updated_at": "2023-10-23 23:08:50",
+    "created_at": "2023-10-23 23:08:50",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:08:50",
+    "event_id": "15330444-c0e9-4164-a582-1aaafccee114"
+  }
+}

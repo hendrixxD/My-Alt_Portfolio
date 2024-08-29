@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "32463ba4-4706-4d97-b7dd-af149d770313"
+  },
+  "payload": {
+    "id": 756,
+    "name": "Joyce Choi",
+    "address": "0590 Davis Walks\nSouth Ashleytown, WV 25144",
+    "job": "Veterinary surgeon",
+    "score": 0.6849722808720554
+  }
+}

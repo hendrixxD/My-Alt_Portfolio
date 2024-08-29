@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5273,
+    "user_id": 522,
+    "created_by_name": "Andrea Mcguire",
+    "updated_at": "2023-10-23 23:27:43",
+    "created_at": "2023-10-23 23:27:43",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:43",
+    "event_id": "59498528-e308-4f05-8b78-fcaa63df2f1e"
+  }
+}

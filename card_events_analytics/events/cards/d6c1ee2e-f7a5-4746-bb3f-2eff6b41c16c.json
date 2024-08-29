@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 466,
+    "user_id": 900,
+    "created_by_name": "David Monroe",
+    "updated_at": "2023-10-23 23:10:59",
+    "created_at": "2023-10-23 23:10:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:59",
+    "event_id": "d6c1ee2e-f7a5-4746-bb3f-2eff6b41c16c"
+  }
+}

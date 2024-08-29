@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "adf5c7c1-7e21-4927-bf23-8fbda2896f7d"
+  },
+  "payload": {
+    "id": 329,
+    "name": "Wendy Clark",
+    "address": "76191 Douglas Stream Suite 545\nNew Tammyton, NC 95338",
+    "job": "Best boy",
+    "score": 0.6814902546770618
+  }
+}

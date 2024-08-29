@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1868,
+    "user_id": 702,
+    "created_by_name": "Michael Huang",
+    "updated_at": "2023-10-23 23:16:29",
+    "created_at": "2023-10-23 23:15:30",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:29",
+    "event_id": "15bc4121-634f-48af-a509-424e73950d9d"
+  }
+}

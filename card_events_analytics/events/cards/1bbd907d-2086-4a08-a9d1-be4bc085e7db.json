@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 618,
+    "user_id": 593,
+    "created_by_name": "Leah Tran",
+    "updated_at": "2023-10-23 23:28:26",
+    "created_at": "2023-10-23 23:11:05",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:26",
+    "event_id": "1bbd907d-2086-4a08-a9d1-be4bc085e7db"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3875,
+    "user_id": 17,
+    "created_by_name": "Laura Saunders",
+    "updated_at": "2023-10-23 23:27:53",
+    "created_at": "2023-10-23 23:22:44",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:53",
+    "event_id": "6a5bd7d2-59ae-4d7f-a42b-fbbd74f056cd"
+  }
+}

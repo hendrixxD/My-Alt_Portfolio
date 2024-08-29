@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5562,
+    "user_id": 789,
+    "created_by_name": "Elizabeth Dixon",
+    "updated_at": "2023-10-23 23:28:52",
+    "created_at": "2023-10-23 23:28:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:52",
+    "event_id": "fb13a5cc-4e4f-4698-8900-762df7bb84fc"
+  }
+}

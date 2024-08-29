@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4939,
+    "user_id": 332,
+    "created_by_name": "Latoya Mitchell",
+    "updated_at": "2023-10-23 23:26:25",
+    "created_at": "2023-10-23 23:26:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:25",
+    "event_id": "db640d90-af58-46ce-97fa-cfe3da13c247"
+  }
+}

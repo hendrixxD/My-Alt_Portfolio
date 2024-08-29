@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c2c64a2d-e079-4b52-9041-e87e9fdaa355"
+  },
+  "payload": {
+    "id": 503,
+    "name": "Tamara Snow",
+    "address": "2187 Charles Point\nOconnorchester, ND 19325",
+    "job": "General practice doctor",
+    "score": 0.7169390654405101
+  }
+}

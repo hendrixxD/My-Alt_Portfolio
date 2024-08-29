@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fd963ff4-7320-4840-8272-41cf7c10376a"
+  },
+  "payload": {
+    "id": 772,
+    "name": "Michael Davis",
+    "address": "3849 Lang Throughway Suite 372\nTaylorville, MP 39630",
+    "job": "Designer, multimedia",
+    "score": 0.520532131372279
+  }
+}

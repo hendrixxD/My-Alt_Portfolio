@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ec72405b-5317-4d65-91cc-0bc1ad83c1da"
+  },
+  "payload": {
+    "id": 419,
+    "name": "Michael Gomez",
+    "address": "61255 Shea Keys\nCharlesland, SD 12338",
+    "job": "Scientific laboratory technician",
+    "score": 0.4367595422094813
+  }
+}

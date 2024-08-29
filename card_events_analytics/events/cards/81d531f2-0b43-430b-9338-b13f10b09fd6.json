@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5838,
+    "user_id": 410,
+    "created_by_name": "Dr. Manuel Allen Jr.",
+    "updated_at": "2023-10-23 23:29:52",
+    "created_at": "2023-10-23 23:29:52",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:52",
+    "event_id": "81d531f2-0b43-430b-9338-b13f10b09fd6"
+  }
+}

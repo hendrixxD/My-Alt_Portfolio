@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1398,
+    "user_id": 253,
+    "created_by_name": "Christopher Brown MD",
+    "updated_at": "2023-10-23 23:13:51",
+    "created_at": "2023-10-23 23:13:51",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:51",
+    "event_id": "d51306f8-4ff1-4ee9-9b6c-40671576214e"
+  }
+}

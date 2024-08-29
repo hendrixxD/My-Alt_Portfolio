@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5711,
+    "user_id": 840,
+    "created_by_name": "Phyllis Peck",
+    "updated_at": "2023-10-23 23:29:25",
+    "created_at": "2023-10-23 23:29:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:25",
+    "event_id": "9f9f1926-4eaf-4ff4-90e9-72ecdb99e5c5"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "adc4a570-169d-402c-b0e0-20b901e0b3d8"
+  },
+  "payload": {
+    "id": 119,
+    "name": "Douglas Rivera",
+    "address": "83242 Joshua Dale\nDawnfurt, MH 92106",
+    "job": "Biomedical engineer",
+    "score": 0.8271155655759233
+  }
+}

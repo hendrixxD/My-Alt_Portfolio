@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5175,
+    "user_id": 986,
+    "created_by_name": "Stephen Watson",
+    "updated_at": "2023-10-23 23:27:19",
+    "created_at": "2023-10-23 23:27:19",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:19",
+    "event_id": "1aa701c8-dcd9-4439-af3c-10d1d494f96f"
+  }
+}

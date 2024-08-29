@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "10903d75-2380-4182-8b02-ba0482b641e1"
+  },
+  "payload": {
+    "id": 974,
+    "name": "Steven Carrillo",
+    "address": "94184 Joseph Falls\nNorth Jayport, KS 41520",
+    "job": "Television production assistant",
+    "score": 0.6587264101921386
+  }
+}

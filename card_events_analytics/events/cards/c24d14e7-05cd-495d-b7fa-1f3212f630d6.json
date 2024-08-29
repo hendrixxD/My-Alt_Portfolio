@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1864,
+    "user_id": 667,
+    "created_by_name": "Lindsey Hebert",
+    "updated_at": "2023-10-23 23:15:29",
+    "created_at": "2023-10-23 23:15:29",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:29",
+    "event_id": "c24d14e7-05cd-495d-b7fa-1f3212f630d6"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1995,
+    "created_by_name": "Lisa Reed",
+    "updated_at": "2023-10-23 23:15:57",
+    "created_at": "2023-10-23 23:15:57",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:57",
+    "event_id": "b6674af8-4bf3-4457-8578-5226ccf8796b"
+  }
+}

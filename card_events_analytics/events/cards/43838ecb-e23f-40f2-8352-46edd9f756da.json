@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3231,
+    "user_id": 68,
+    "created_by_name": "Scott Scott",
+    "updated_at": "2023-10-23 23:20:29",
+    "created_at": "2023-10-23 23:20:29",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:29",
+    "event_id": "43838ecb-e23f-40f2-8352-46edd9f756da"
+  }
+}

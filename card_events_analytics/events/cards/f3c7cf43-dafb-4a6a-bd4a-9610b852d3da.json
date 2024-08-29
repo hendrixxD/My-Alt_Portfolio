@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 560,
+    "user_id": 812,
+    "created_by_name": "Michelle Cameron",
+    "updated_at": "2023-10-23 23:14:18",
+    "created_at": "2023-10-23 23:10:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:18",
+    "event_id": "f3c7cf43-dafb-4a6a-bd4a-9610b852d3da"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cfb9e791-7e79-4f00-bf71-e04c90651eb0"
+  },
+  "payload": {
+    "id": 631,
+    "name": "Emily Cisneros",
+    "address": "552 Wilson Ferry\nEast Benjamin, CA 54632",
+    "job": "Scientist, audiological",
+    "score": 0.280704160156411
+  }
+}

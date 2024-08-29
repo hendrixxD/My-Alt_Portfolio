@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b03f8398-10a1-4a35-80b4-24cfa1d2a631"
+  },
+  "payload": {
+    "id": 308,
+    "name": "Timothy Moss",
+    "address": "70522 Matthew Burg\nLeahside, VT 13487",
+    "job": "Designer, jewellery",
+    "score": 0.4337309809266864
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 445,
+    "user_id": 270,
+    "created_by_name": "Stephen Carroll",
+    "updated_at": "2023-10-23 23:13:55",
+    "created_at": "2023-10-23 23:10:27",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:55",
+    "event_id": "c324034c-a82a-4220-b8b5-297b84a51aeb"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3766,
+    "user_id": 42,
+    "created_by_name": "Diana Harmon",
+    "updated_at": "2023-10-23 23:22:23",
+    "created_at": "2023-10-23 23:22:23",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:23",
+    "event_id": "2e862307-e2ca-4d45-b999-72cfc02a82db"
+  }
+}

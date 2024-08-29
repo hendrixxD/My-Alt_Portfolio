@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3434,
+    "user_id": 756,
+    "created_by_name": "Sara Hooper",
+    "updated_at": "2023-10-23 23:21:15",
+    "created_at": "2023-10-23 23:21:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:15",
+    "event_id": "73e3a775-53ad-41ff-ac52-3a2c4ad7fd5f"
+  }
+}

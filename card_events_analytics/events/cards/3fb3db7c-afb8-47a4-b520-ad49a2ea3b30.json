@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1324,
+    "user_id": 433,
+    "created_by_name": "Kelly Garcia",
+    "updated_at": "2023-10-23 23:13:36",
+    "created_at": "2023-10-23 23:13:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:36",
+    "event_id": "3fb3db7c-afb8-47a4-b520-ad49a2ea3b30"
+  }
+}

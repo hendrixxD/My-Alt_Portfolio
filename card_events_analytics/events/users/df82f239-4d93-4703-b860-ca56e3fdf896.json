@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "df82f239-4d93-4703-b860-ca56e3fdf896"
+  },
+  "payload": {
+    "id": 933,
+    "name": "Lisa Wallace",
+    "address": "45399 Smith Causeway\nKathrynton, NM 18860",
+    "job": "Clothing/textile technologist",
+    "score": 0.00612259721374353
+  }
+}

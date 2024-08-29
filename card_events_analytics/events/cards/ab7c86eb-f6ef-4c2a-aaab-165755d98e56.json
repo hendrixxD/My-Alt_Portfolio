@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3836,
+    "user_id": 276,
+    "created_by_name": "Christian Martinez",
+    "updated_at": "2023-10-23 23:22:36",
+    "created_at": "2023-10-23 23:22:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:36",
+    "event_id": "ab7c86eb-f6ef-4c2a-aaab-165755d98e56"
+  }
+}

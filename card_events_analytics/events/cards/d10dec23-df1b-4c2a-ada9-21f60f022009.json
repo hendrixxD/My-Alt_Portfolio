@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3320,
+    "user_id": 131,
+    "created_by_name": "Donald Casey",
+    "updated_at": "2023-10-23 23:20:48",
+    "created_at": "2023-10-23 23:20:48",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:48",
+    "event_id": "d10dec23-df1b-4c2a-ada9-21f60f022009"
+  }
+}

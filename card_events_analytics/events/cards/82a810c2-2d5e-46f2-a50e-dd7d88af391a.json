@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3337,
+    "user_id": 562,
+    "created_by_name": "Jeremy Martinez",
+    "updated_at": "2023-10-23 23:20:52",
+    "created_at": "2023-10-23 23:20:52",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:52",
+    "event_id": "82a810c2-2d5e-46f2-a50e-dd7d88af391a"
+  }
+}

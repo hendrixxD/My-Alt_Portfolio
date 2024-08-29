@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4210,
+    "user_id": 211,
+    "created_by_name": "Daniel Cooper",
+    "updated_at": "2023-10-23 23:23:57",
+    "created_at": "2023-10-23 23:23:57",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:57",
+    "event_id": "6556dcdc-098c-4a79-88f4-2c730ba406da"
+  }
+}

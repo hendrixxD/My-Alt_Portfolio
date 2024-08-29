@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2713,
+    "user_id": 471,
+    "created_by_name": "Ashley Brown",
+    "updated_at": "2023-10-23 23:23:29",
+    "created_at": "2023-10-23 23:18:38",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:29",
+    "event_id": "f763baf7-be21-4235-8eb7-a752776d8748"
+  }
+}

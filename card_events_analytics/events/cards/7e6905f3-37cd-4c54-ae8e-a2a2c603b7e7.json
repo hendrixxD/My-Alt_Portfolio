@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2934,
+    "created_by_name": "Andrew Reed",
+    "updated_at": "2023-10-23 23:21:20",
+    "created_at": "2023-10-23 23:19:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:20",
+    "event_id": "7e6905f3-37cd-4c54-ae8e-a2a2c603b7e7"
+  }
+}

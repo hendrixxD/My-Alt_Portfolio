@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2fb5d089-0110-42ec-8fc4-7cdd21ffa1ca"
+  },
+  "payload": {
+    "id": 523,
+    "name": "Mark Conway",
+    "address": "61221 Willis Crossing Suite 070\nNew Sierra, OR 74907",
+    "job": "Chief Marketing Officer",
+    "score": 0.9378966166881371
+  }
+}

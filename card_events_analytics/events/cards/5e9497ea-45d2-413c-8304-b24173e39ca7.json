@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1050,
+    "user_id": 586,
+    "created_by_name": "Russell Davis",
+    "updated_at": "2023-10-23 23:12:42",
+    "created_at": "2023-10-23 23:12:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:42",
+    "event_id": "5e9497ea-45d2-413c-8304-b24173e39ca7"
+  }
+}

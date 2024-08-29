@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1375,
+    "user_id": 429,
+    "created_by_name": "Christopher Nguyen",
+    "updated_at": "2023-10-23 23:21:56",
+    "created_at": "2023-10-23 23:13:47",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:56",
+    "event_id": "a2160bde-df87-490f-90c7-b8bd883d30c0"
+  }
+}

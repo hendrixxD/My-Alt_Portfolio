@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3102,
+    "user_id": 671,
+    "created_by_name": "Kimberly Davis",
+    "updated_at": "2023-10-23 23:20:02",
+    "created_at": "2023-10-23 23:20:02",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:02",
+    "event_id": "eb23ca61-cc79-4229-9f20-92282580cd8f"
+  }
+}

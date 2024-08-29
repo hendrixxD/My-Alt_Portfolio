@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "91d0ebb8-d798-4bc0-9369-596998388ff3"
+  },
+  "payload": {
+    "id": 351,
+    "name": "Dr. Adam Jones",
+    "address": "660 Teresa Via\nBrandonton, WV 82699",
+    "job": "Insurance broker",
+    "score": 0.5302592469383521
+  }
+}

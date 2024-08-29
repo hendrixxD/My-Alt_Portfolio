@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3519,
+    "user_id": 647,
+    "created_by_name": "Becky Ramos",
+    "updated_at": "2023-10-23 23:21:36",
+    "created_at": "2023-10-23 23:21:36",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:36",
+    "event_id": "e08d7237-6b47-417f-b0ae-5b6afb5de47a"
+  }
+}

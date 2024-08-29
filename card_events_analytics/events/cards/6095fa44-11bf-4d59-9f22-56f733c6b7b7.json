@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3436,
+    "user_id": 726,
+    "created_by_name": "Melissa Ellis",
+    "updated_at": "2023-10-23 23:21:15",
+    "created_at": "2023-10-23 23:21:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:15",
+    "event_id": "6095fa44-11bf-4d59-9f22-56f733c6b7b7"
+  }
+}

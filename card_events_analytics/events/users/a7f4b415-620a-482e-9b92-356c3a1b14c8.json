@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a7f4b415-620a-482e-9b92-356c3a1b14c8"
+  },
+  "payload": {
+    "id": 556,
+    "name": "Teresa Gray",
+    "address": "743 Gutierrez Hills\nNew Amberberg, FL 44633",
+    "job": "Records manager",
+    "score": 0.12874344426731898
+  }
+}

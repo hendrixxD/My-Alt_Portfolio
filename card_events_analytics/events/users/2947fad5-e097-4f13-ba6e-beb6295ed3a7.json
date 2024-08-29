@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2947fad5-e097-4f13-ba6e-beb6295ed3a7"
+  },
+  "payload": {
+    "id": 737,
+    "name": "Paul Sanchez MD",
+    "address": "5799 Conner Plaza Suite 596\nCynthiashire, WA 28206",
+    "job": "Chemist, analytical",
+    "score": 0.15395630084284118
+  }
+}

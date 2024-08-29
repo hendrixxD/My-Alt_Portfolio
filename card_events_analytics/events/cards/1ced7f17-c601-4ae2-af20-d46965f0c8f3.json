@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5698,
+    "user_id": 69,
+    "created_by_name": "Sabrina Baker",
+    "updated_at": "2023-10-23 23:29:23",
+    "created_at": "2023-10-23 23:29:23",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:23",
+    "event_id": "1ced7f17-c601-4ae2-af20-d46965f0c8f3"
+  }
+}

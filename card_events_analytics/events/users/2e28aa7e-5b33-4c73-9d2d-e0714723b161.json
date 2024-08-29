@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "2e28aa7e-5b33-4c73-9d2d-e0714723b161"
+  },
+  "payload": {
+    "id": 416,
+    "name": "Joan Ward",
+    "address": "9657 Carson Via\nMcconnellview, MN 02078",
+    "job": "Radio producer",
+    "score": 0.15895749029459771
+  }
+}

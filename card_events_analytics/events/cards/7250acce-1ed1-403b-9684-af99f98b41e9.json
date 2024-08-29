@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 632,
+    "user_id": 163,
+    "created_by_name": "Mr. Jesus Cooley DDS",
+    "updated_at": "2023-10-23 23:12:44",
+    "created_at": "2023-10-23 23:11:08",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:44",
+    "event_id": "7250acce-1ed1-403b-9684-af99f98b41e9"
+  }
+}

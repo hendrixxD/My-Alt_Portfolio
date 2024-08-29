@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fe2a975d-44c4-4b9b-9462-e8aed40c3d24"
+  },
+  "payload": {
+    "id": 970,
+    "name": "Paul Mclaughlin",
+    "address": "287 Thompson Trail Apt. 696\nSouth Edwinville, MS 97883",
+    "job": "Primary school teacher",
+    "score": 0.7121528293267119
+  }
+}

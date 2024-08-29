@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5321,
+    "user_id": 429,
+    "created_by_name": "Anne White",
+    "updated_at": "2023-10-23 23:29:49",
+    "created_at": "2023-10-23 23:27:53",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:49",
+    "event_id": "fe93aeea-426d-4d4d-b693-f5d2576de061"
+  }
+}

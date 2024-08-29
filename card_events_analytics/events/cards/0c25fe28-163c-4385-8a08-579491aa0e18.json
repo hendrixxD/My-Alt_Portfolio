@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5466,
+    "user_id": 773,
+    "created_by_name": "Richard Howard",
+    "updated_at": "2023-10-23 23:28:31",
+    "created_at": "2023-10-23 23:28:31",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:31",
+    "event_id": "0c25fe28-163c-4385-8a08-579491aa0e18"
+  }
+}

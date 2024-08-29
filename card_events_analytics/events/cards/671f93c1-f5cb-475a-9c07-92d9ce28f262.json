@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2085,
+    "user_id": 490,
+    "created_by_name": "Ronald Hamilton",
+    "updated_at": "2023-10-23 23:16:19",
+    "created_at": "2023-10-23 23:16:19",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:19",
+    "event_id": "671f93c1-f5cb-475a-9c07-92d9ce28f262"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3053,
+    "created_by_name": "Albert Bauer",
+    "updated_at": "2023-10-23 23:19:50",
+    "created_at": "2023-10-23 23:19:50",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:50",
+    "event_id": "e27360ee-5be1-4d27-b773-5493141b4d01"
+  }
+}

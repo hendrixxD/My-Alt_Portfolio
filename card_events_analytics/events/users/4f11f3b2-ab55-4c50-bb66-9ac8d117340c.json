@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4f11f3b2-ab55-4c50-bb66-9ac8d117340c"
+  },
+  "payload": {
+    "id": 296,
+    "name": "Laura Martinez",
+    "address": "2532 Rebecca Lodge Suite 937\nWest Chadberg, FL 72794",
+    "job": "Manufacturing engineer",
+    "score": 0.5205583441390965
+  }
+}

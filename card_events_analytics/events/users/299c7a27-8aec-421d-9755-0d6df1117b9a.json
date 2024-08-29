@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "299c7a27-8aec-421d-9755-0d6df1117b9a"
+  },
+  "payload": {
+    "id": 172,
+    "name": "James Camacho",
+    "address": "219 Armstrong Wall Apt. 866\nAmyfurt, ME 00942",
+    "job": "Architect",
+    "score": 0.5529463541827196
+  }
+}

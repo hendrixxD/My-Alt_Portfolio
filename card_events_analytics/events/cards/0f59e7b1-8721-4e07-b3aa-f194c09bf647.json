@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1044,
+    "user_id": 558,
+    "created_by_name": "Kathryn Davidson",
+    "updated_at": "2023-10-23 23:12:41",
+    "created_at": "2023-10-23 23:12:41",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:41",
+    "event_id": "0f59e7b1-8721-4e07-b3aa-f194c09bf647"
+  }
+}

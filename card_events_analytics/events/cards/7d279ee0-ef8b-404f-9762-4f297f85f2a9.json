@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1507,
+    "user_id": 881,
+    "created_by_name": "Nicole Johnson",
+    "updated_at": "2023-10-23 23:14:40",
+    "created_at": "2023-10-23 23:14:14",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:40",
+    "event_id": "7d279ee0-ef8b-404f-9762-4f297f85f2a9"
+  }
+}

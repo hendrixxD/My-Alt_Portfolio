@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 65,
+    "user_id": 872,
+    "created_by_name": "Sheila Brown",
+    "updated_at": "2023-10-23 23:11:20",
+    "created_at": "2023-10-23 23:09:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:20",
+    "event_id": "04efe019-5929-4b96-bad7-4a7e91d4cc4f"
+  }
+}

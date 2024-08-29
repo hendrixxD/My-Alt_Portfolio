@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cb98c208-d353-434c-b8d8-3d53ae17adb6"
+  },
+  "payload": {
+    "id": 207,
+    "name": "Thomas Ross",
+    "address": "6210 Whitney Wells\nWest Catherinefort, WA 01839",
+    "job": "Charity fundraiser",
+    "score": 0.5692865449035347
+  }
+}

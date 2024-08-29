@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "00a3a97f-33b9-434e-a83d-a35c8daf31c1"
+  },
+  "payload": {
+    "id": 978,
+    "name": "Kelly Nguyen",
+    "address": "96204 Elliott Path\nJessicamouth, VA 85107",
+    "job": "Retail manager",
+    "score": 0.4970290674124882
+  }
+}

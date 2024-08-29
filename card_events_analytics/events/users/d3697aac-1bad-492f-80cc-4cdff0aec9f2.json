@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d3697aac-1bad-492f-80cc-4cdff0aec9f2"
+  },
+  "payload": {
+    "id": 315,
+    "name": "Leslie Meyer",
+    "address": "3779 Carl Stravenue\nThomasstad, CT 70362",
+    "job": "Research officer, government",
+    "score": 0.19594169922324756
+  }
+}

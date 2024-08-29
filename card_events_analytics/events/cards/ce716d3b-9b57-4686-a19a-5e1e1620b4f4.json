@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1351,
+    "created_by_name": "Brett Tran",
+    "updated_at": "2023-10-23 23:23:42",
+    "created_at": "2023-10-23 23:13:42",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:42",
+    "event_id": "ce716d3b-9b57-4686-a19a-5e1e1620b4f4"
+  }
+}

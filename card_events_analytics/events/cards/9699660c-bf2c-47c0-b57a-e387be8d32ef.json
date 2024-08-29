@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1674,
+    "user_id": 38,
+    "created_by_name": "Preston Smith",
+    "updated_at": "2023-10-23 23:14:53",
+    "created_at": "2023-10-23 23:14:53",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:53",
+    "event_id": "9699660c-bf2c-47c0-b57a-e387be8d32ef"
+  }
+}

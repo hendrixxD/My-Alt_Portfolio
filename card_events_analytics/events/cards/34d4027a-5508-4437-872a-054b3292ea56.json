@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 196,
+    "user_id": 784,
+    "created_by_name": "Kevin Simmons",
+    "updated_at": "2023-10-23 23:09:34",
+    "created_at": "2023-10-23 23:09:34",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:34",
+    "event_id": "34d4027a-5508-4437-872a-054b3292ea56"
+  }
+}

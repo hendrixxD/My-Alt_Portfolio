@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a7bae07c-11f6-4c13-ac73-21a74bbb5978"
+  },
+  "payload": {
+    "id": 86,
+    "name": "Stephanie Bush",
+    "address": "889 Holloway Bridge Apt. 906\nPort Jerry, WA 06079",
+    "job": "Designer, jewellery",
+    "score": 0.21709448856833347
+  }
+}

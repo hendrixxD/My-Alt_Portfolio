@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 985,
+    "user_id": 556,
+    "created_by_name": "Stephanie Carter",
+    "updated_at": "2023-10-23 23:16:00",
+    "created_at": "2023-10-23 23:12:30",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:00",
+    "event_id": "714b8c49-dc78-432d-a76f-2de026225794"
+  }
+}

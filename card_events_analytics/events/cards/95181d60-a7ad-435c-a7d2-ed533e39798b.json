@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 772,
+    "user_id": 5,
+    "created_by_name": "Ralph Robertson",
+    "updated_at": "2023-10-23 23:27:55",
+    "created_at": "2023-10-23 23:11:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:55",
+    "event_id": "95181d60-a7ad-435c-a7d2-ed533e39798b"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a67d7356-e5d3-41bf-ad80-1891dd1561cf"
+  },
+  "payload": {
+    "id": 594,
+    "name": "Craig Edwards",
+    "address": "84540 Benjamin Port Apt. 755\nSouth Heather, AR 05830",
+    "job": "Pilot, airline",
+    "score": 0.9517714248573994
+  }
+}

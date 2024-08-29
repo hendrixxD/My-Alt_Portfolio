@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3805,
+    "user_id": 913,
+    "created_by_name": "Daniel Rose",
+    "updated_at": "2023-10-23 23:22:32",
+    "created_at": "2023-10-23 23:22:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:32",
+    "event_id": "05761028-febf-491c-942c-96d58f1e34b0"
+  }
+}

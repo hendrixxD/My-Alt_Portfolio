@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5808,
+    "user_id": 998,
+    "created_by_name": "Dalton Tran",
+    "updated_at": "2023-10-23 23:29:47",
+    "created_at": "2023-10-23 23:29:47",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:47",
+    "event_id": "ea399ea7-11e5-4905-90b9-953cf5023693"
+  }
+}

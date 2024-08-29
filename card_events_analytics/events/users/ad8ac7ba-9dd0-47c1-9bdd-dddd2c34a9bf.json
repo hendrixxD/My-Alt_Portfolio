@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ad8ac7ba-9dd0-47c1-9bdd-dddd2c34a9bf"
+  },
+  "payload": {
+    "id": 584,
+    "name": "Melissa Thomas",
+    "address": "8108 Watkins Wall Apt. 975\nEast Timothy, WV 15510",
+    "job": "Nurse, learning disability",
+    "score": 0.8637217516789509
+  }
+}

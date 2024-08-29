@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "190536fb-deb2-4d4a-b53b-11bcbc739ca5"
+  },
+  "payload": {
+    "id": 396,
+    "name": "Kelly Nelson",
+    "address": "934 Cook Islands Suite 273\nRobertstad, AR 05620",
+    "job": "Early years teacher",
+    "score": 0.33306173396857375
+  }
+}

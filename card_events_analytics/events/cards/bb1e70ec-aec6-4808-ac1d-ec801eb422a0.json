@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3209,
+    "user_id": 487,
+    "created_by_name": "John Pearson",
+    "updated_at": "2023-10-23 23:27:21",
+    "created_at": "2023-10-23 23:20:25",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:21",
+    "event_id": "bb1e70ec-aec6-4808-ac1d-ec801eb422a0"
+  }
+}

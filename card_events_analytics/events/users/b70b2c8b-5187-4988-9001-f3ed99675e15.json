@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b70b2c8b-5187-4988-9001-f3ed99675e15"
+  },
+  "payload": {
+    "id": 902,
+    "name": "Philip James",
+    "address": "64998 Barnett Glen\nDanielland, ME 54798",
+    "job": "Charity fundraiser",
+    "score": 0.3998757847468577
+  }
+}

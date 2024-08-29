@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3939,
+    "created_by_name": "Michelle Jones",
+    "updated_at": "2023-10-23 23:22:59",
+    "created_at": "2023-10-23 23:22:59",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:59",
+    "event_id": "cc8def50-ca29-49cf-a2e7-2150d0412a19"
+  }
+}

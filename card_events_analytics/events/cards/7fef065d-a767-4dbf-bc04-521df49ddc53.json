@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1059,
+    "created_by_name": "Scott Livingston",
+    "updated_at": "2023-10-23 23:12:43",
+    "created_at": "2023-10-23 23:12:43",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:43",
+    "event_id": "7fef065d-a767-4dbf-bc04-521df49ddc53"
+  }
+}

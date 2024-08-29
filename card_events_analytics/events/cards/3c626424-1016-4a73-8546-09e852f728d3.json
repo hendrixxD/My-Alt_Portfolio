@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1028,
+    "user_id": 409,
+    "created_by_name": "Mason Porter DDS",
+    "updated_at": "2023-10-23 23:12:37",
+    "created_at": "2023-10-23 23:12:37",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:37",
+    "event_id": "3c626424-1016-4a73-8546-09e852f728d3"
+  }
+}

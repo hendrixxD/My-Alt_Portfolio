@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e9d44fb3-ef1a-4c6b-95d2-e63aa7f6d167"
+  },
+  "payload": {
+    "id": 944,
+    "name": "Laurie Foley",
+    "address": "36356 Nielsen Crescent Suite 075\nHollowayborough, NY 65621",
+    "job": "Conservation officer, nature",
+    "score": 0.631081126855026
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3550,
+    "user_id": 467,
+    "created_by_name": "Nathan Little",
+    "updated_at": "2023-10-23 23:21:42",
+    "created_at": "2023-10-23 23:21:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:42",
+    "event_id": "bd6eae6e-6054-4b73-b203-32b2a9337675"
+  }
+}

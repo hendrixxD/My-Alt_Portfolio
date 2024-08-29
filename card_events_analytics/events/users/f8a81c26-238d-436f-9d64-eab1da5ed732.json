@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f8a81c26-238d-436f-9d64-eab1da5ed732"
+  },
+  "payload": {
+    "id": 317,
+    "name": "Gary Mcgee",
+    "address": "744 Byrd Estates Suite 938\nNorth Julie, GU 88534",
+    "job": "Fast food restaurant manager",
+    "score": 0.4872215140559635
+  }
+}

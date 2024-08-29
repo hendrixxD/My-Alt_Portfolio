@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3861,
+    "user_id": 50,
+    "created_by_name": "Katherine Ramirez",
+    "updated_at": "2023-10-23 23:22:43",
+    "created_at": "2023-10-23 23:22:43",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:43",
+    "event_id": "e655585a-d5d2-4565-91f7-8ff2671cda0a"
+  }
+}

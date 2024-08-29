@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c789f216-00c8-40fa-a9cf-842fbdfc6215"
+  },
+  "payload": {
+    "id": 223,
+    "name": "Alexander Keller",
+    "address": "1944 Tammy Village Apt. 049\nVillanuevamouth, TX 97665",
+    "job": "Charity officer",
+    "score": 0.8855123267699984
+  }
+}

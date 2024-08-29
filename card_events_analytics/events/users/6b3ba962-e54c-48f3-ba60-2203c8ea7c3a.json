@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6b3ba962-e54c-48f3-ba60-2203c8ea7c3a"
+  },
+  "payload": {
+    "id": 983,
+    "name": "Victoria Robertson",
+    "address": "009 Patrick Hills\nWest Jessicaport, AK 54288",
+    "job": "Chartered loss adjuster",
+    "score": 0.24761805585987318
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2579,
+    "user_id": 713,
+    "created_by_name": "Angela Avery",
+    "updated_at": "2023-10-23 23:18:07",
+    "created_at": "2023-10-23 23:18:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:07",
+    "event_id": "6b905b21-1218-4a6a-b727-97a18fc12cc1"
+  }
+}

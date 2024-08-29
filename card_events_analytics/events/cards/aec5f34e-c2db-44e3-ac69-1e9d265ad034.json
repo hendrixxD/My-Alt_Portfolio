@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3471,
+    "user_id": 438,
+    "created_by_name": "Lauren Miller",
+    "updated_at": "2023-10-23 23:21:24",
+    "created_at": "2023-10-23 23:21:24",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:24",
+    "event_id": "aec5f34e-c2db-44e3-ac69-1e9d265ad034"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "776a398a-2ccb-42bf-8de3-8f687cb9cb1e"
+  },
+  "payload": {
+    "id": 566,
+    "name": "Pamela Dalton",
+    "address": "55551 Dana Tunnel Suite 295\nNorth Donaldmouth, NM 05685",
+    "job": "Web designer",
+    "score": 0.22866934459571508
+  }
+}

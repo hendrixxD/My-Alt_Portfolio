@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 873,
+    "user_id": 518,
+    "created_by_name": "Keith Rogers",
+    "updated_at": "2023-10-23 23:17:16",
+    "created_at": "2023-10-23 23:12:05",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:16",
+    "event_id": "e2f24c16-cb8f-4544-9bd2-e63ba1a07997"
+  }
+}

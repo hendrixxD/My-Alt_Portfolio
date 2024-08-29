@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8e77bd4e-05b0-4f67-bc1d-1575e1c10ba4"
+  },
+  "payload": {
+    "id": 567,
+    "name": "Taylor Nguyen",
+    "address": "48464 Wood Villages\nNorth Derekfurt, LA 27539",
+    "job": "Chief Technology Officer",
+    "score": 0.22157020355885582
+  }
+}

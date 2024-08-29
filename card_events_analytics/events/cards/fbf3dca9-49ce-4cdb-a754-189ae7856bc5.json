@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4685,
+    "user_id": 127,
+    "created_by_name": "Sherry Diaz",
+    "updated_at": "2023-10-23 23:25:34",
+    "created_at": "2023-10-23 23:25:34",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:34",
+    "event_id": "fbf3dca9-49ce-4cdb-a754-189ae7856bc5"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "497495ac-4b10-40c7-af61-f856e4aae2d7"
+  },
+  "payload": {
+    "id": 615,
+    "name": "Randy Paul",
+    "address": "16076 Brooks Fall Apt. 657\nRyanside, RI 97916",
+    "job": "Designer, multimedia",
+    "score": 0.5307126692773785
+  }
+}

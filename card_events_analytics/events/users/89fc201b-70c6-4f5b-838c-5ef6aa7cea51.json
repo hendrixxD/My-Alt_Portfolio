@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "89fc201b-70c6-4f5b-838c-5ef6aa7cea51"
+  },
+  "payload": {
+    "id": 339,
+    "name": "Caitlyn Anderson",
+    "address": "897 Miller Falls Suite 551\nLake Kathryn, CA 85387",
+    "job": "Therapist, sports",
+    "score": 0.5677130721785518
+  }
+}

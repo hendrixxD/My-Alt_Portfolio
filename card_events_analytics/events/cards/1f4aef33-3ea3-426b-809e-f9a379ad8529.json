@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5282,
+    "user_id": 609,
+    "created_by_name": "Gabriel Cortez",
+    "updated_at": "2023-10-23 23:27:45",
+    "created_at": "2023-10-23 23:27:45",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:45",
+    "event_id": "1f4aef33-3ea3-426b-809e-f9a379ad8529"
+  }
+}

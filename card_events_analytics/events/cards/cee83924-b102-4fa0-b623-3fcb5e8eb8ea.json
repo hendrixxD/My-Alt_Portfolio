@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 968,
+    "user_id": 830,
+    "created_by_name": "Casey Reed",
+    "updated_at": "2023-10-23 23:12:26",
+    "created_at": "2023-10-23 23:12:26",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:26",
+    "event_id": "cee83924-b102-4fa0-b623-3fcb5e8eb8ea"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "614bddbf-04a2-425a-a64d-a974e1c3cb19"
+  },
+  "payload": {
+    "id": 846,
+    "name": "Brandon Jones",
+    "address": "508 Abbott Ville Apt. 103\nJamesstad, DE 74157",
+    "job": "Administrator, education",
+    "score": 0.9072206997876949
+  }
+}

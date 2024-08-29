@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3ee6d433-0544-41ab-bda2-d1e8f48209e2"
+  },
+  "payload": {
+    "id": 796,
+    "name": "Tiffany Kerr",
+    "address": "90622 Thomas Shoal\nPatrickburgh, SC 53265",
+    "job": "Environmental consultant",
+    "score": 0.4090040614247188
+  }
+}

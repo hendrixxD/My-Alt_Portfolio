@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4261,
+    "user_id": 212,
+    "created_by_name": "Ryan Holt",
+    "updated_at": "2023-10-23 23:24:07",
+    "created_at": "2023-10-23 23:24:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:07",
+    "event_id": "856d4045-66db-4fde-9d49-ae37eb53f5b1"
+  }
+}

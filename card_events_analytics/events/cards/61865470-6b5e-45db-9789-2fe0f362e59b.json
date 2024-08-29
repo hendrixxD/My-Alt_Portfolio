@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 354,
+    "user_id": 839,
+    "created_by_name": "Alexander Guerra",
+    "updated_at": "2023-10-23 23:12:06",
+    "created_at": "2023-10-23 23:10:07",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:06",
+    "event_id": "61865470-6b5e-45db-9789-2fe0f362e59b"
+  }
+}

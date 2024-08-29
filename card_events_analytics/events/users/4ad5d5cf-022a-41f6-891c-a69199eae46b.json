@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4ad5d5cf-022a-41f6-891c-a69199eae46b"
+  },
+  "payload": {
+    "id": 234,
+    "name": "Jessica Frost",
+    "address": "983 Carlson Fields\nPerezfurt, MT 84708",
+    "job": "Health service manager",
+    "score": 0.7373316172279254
+  }
+}

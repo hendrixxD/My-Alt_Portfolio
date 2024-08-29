@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5148,
+    "user_id": 623,
+    "created_by_name": "Dawn Carlson",
+    "updated_at": "2023-10-23 23:27:10",
+    "created_at": "2023-10-23 23:27:10",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:10",
+    "event_id": "ae7a14f7-a775-4745-b4e1-65391a3e530c"
+  }
+}

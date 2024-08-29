@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 843,
+    "created_by_name": "James Hart",
+    "updated_at": "2023-10-23 23:12:00",
+    "created_at": "2023-10-23 23:12:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:00",
+    "event_id": "ab50d856-303c-4ed6-9b18-c23ce2e1b424"
+  }
+}

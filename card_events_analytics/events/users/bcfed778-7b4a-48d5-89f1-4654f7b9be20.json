@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "bcfed778-7b4a-48d5-89f1-4654f7b9be20"
+  },
+  "payload": {
+    "id": 270,
+    "name": "Julie Bennett",
+    "address": "USNS Davis\nFPO AP 52434",
+    "job": "Software engineer",
+    "score": 0.6595514671598673
+  }
+}

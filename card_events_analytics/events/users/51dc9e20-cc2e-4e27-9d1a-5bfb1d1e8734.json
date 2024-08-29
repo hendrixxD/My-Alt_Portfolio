@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "51dc9e20-cc2e-4e27-9d1a-5bfb1d1e8734"
+  },
+  "payload": {
+    "id": 613,
+    "name": "Lori Ray",
+    "address": "61830 Thomas Manors\nWest Davidville, ND 09576",
+    "job": "Environmental education officer",
+    "score": 0.8168954035926546
+  }
+}

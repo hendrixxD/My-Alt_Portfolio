@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7d1ad169-5372-48ae-91c4-01a61867b912"
+  },
+  "payload": {
+    "id": 731,
+    "name": "Jessica Kelley",
+    "address": "38894 Bridget Brooks Suite 638\nSouth Krista, AR 56974",
+    "job": "Oncologist",
+    "score": 0.053286056504114776
+  }
+}

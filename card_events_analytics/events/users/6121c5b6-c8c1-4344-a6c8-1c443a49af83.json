@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "6121c5b6-c8c1-4344-a6c8-1c443a49af83"
+  },
+  "payload": {
+    "id": 103,
+    "name": "Kimberly Duncan",
+    "address": "250 Angela Fall\nKellymouth, VA 32015",
+    "job": "Ship broker",
+    "score": 0.6573548574179798
+  }
+}

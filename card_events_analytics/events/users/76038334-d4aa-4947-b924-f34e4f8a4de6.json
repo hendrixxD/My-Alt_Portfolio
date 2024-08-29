@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "76038334-d4aa-4947-b924-f34e4f8a4de6"
+  },
+  "payload": {
+    "id": 620,
+    "name": "Raymond Gray",
+    "address": "26435 Ronald Knolls\nRothbury, ID 33629",
+    "job": "Clinical scientist, histocompatibility and immunogenetics",
+    "score": 0.31811703433863037
+  }
+}

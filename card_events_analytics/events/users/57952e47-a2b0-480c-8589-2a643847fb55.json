@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "57952e47-a2b0-480c-8589-2a643847fb55"
+  },
+  "payload": {
+    "id": 90,
+    "name": "Kevin Serrano",
+    "address": "4132 Tiffany Islands\nPort Raymondchester, NY 18716",
+    "job": "Orthoptist",
+    "score": 0.45407821290679384
+  }
+}

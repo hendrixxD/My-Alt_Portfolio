@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1826,
+    "created_by_name": "Sandy Le",
+    "updated_at": "2023-10-23 23:23:27",
+    "created_at": "2023-10-23 23:15:22",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:27",
+    "event_id": "e11dd170-1d68-4e92-85e2-6ea8a23e2ef0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 827,
+    "user_id": 451,
+    "created_by_name": "Nicholas Harrell",
+    "updated_at": "2023-10-23 23:24:26",
+    "created_at": "2023-10-23 23:11:56",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:26",
+    "event_id": "b5358d2c-c664-4d6b-a88c-637beb720c7d"
+  }
+}

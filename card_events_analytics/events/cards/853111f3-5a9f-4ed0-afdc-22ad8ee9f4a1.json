@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1970,
+    "created_by_name": "Julie Martinez",
+    "updated_at": "2023-10-23 23:18:35",
+    "created_at": "2023-10-23 23:15:51",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:35",
+    "event_id": "853111f3-5a9f-4ed0-afdc-22ad8ee9f4a1"
+  }
+}

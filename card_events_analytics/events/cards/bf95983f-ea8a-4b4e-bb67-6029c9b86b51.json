@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5593,
+    "user_id": 700,
+    "created_by_name": "Brandi Murphy",
+    "updated_at": "2023-10-23 23:28:58",
+    "created_at": "2023-10-23 23:28:58",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:58",
+    "event_id": "bf95983f-ea8a-4b4e-bb67-6029c9b86b51"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c2c06b49-52fb-43ee-8824-3becc678c6dd"
+  },
+  "payload": {
+    "id": 182,
+    "name": "Michael Dalton",
+    "address": "40376 Thomas Forest\nEast Joseph, IA 22078",
+    "job": "Designer, fashion/clothing",
+    "score": 0.934829694818027
+  }
+}

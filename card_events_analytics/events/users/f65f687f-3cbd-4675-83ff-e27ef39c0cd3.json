@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f65f687f-3cbd-4675-83ff-e27ef39c0cd3"
+  },
+  "payload": {
+    "id": 218,
+    "name": "Jennifer Patel",
+    "address": "3324 John Ranch Suite 153\nRobertfurt, CA 48619",
+    "job": "Agricultural consultant",
+    "score": 0.8482837347158058
+  }
+}

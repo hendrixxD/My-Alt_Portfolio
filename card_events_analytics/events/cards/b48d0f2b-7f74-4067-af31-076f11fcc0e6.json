@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2156,
+    "created_by_name": "Antonio Jackson",
+    "updated_at": "2023-10-23 23:16:34",
+    "created_at": "2023-10-23 23:16:34",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:34",
+    "event_id": "b48d0f2b-7f74-4067-af31-076f11fcc0e6"
+  }
+}

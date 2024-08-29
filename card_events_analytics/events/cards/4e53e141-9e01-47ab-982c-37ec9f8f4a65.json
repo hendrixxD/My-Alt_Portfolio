@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 482,
+    "user_id": 941,
+    "created_by_name": "Chelsea Mcmillan",
+    "updated_at": "2023-10-23 23:18:42",
+    "created_at": "2023-10-23 23:10:35",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:42",
+    "event_id": "4e53e141-9e01-47ab-982c-37ec9f8f4a65"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "40d2ab1f-f4cc-44ad-8f49-48fb7faf3c14"
+  },
+  "payload": {
+    "id": 691,
+    "name": "Joseph Freeman",
+    "address": "6185 Rhonda Extension\nNorth Mariaport, NJ 02672",
+    "job": "Secondary school teacher",
+    "score": 0.6756893235440622
+  }
+}

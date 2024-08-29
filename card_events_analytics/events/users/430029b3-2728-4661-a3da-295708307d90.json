@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "430029b3-2728-4661-a3da-295708307d90"
+  },
+  "payload": {
+    "id": 599,
+    "name": "Jessica Harrell",
+    "address": "17331 Cole Lane\nSouth Valerie, MO 38036",
+    "job": "Buyer, industrial",
+    "score": 0.8055590072104744
+  }
+}

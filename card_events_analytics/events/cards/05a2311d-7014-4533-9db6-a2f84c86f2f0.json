@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 202,
+    "user_id": 609,
+    "created_by_name": "Jill Morgan",
+    "updated_at": "2023-10-23 23:09:36",
+    "created_at": "2023-10-23 23:09:36",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:36",
+    "event_id": "05a2311d-7014-4533-9db6-a2f84c86f2f0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2587,
+    "user_id": 882,
+    "created_by_name": "Anita Brooks",
+    "updated_at": "2023-10-23 23:23:37",
+    "created_at": "2023-10-23 23:18:07",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:37",
+    "event_id": "efa4d9be-db68-4b51-8fed-b5f0f5c2c250"
+  }
+}

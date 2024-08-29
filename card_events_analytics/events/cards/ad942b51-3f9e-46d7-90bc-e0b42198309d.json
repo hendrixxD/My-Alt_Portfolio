@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 662,
+    "user_id": 897,
+    "created_by_name": "Jerry Hess",
+    "updated_at": "2023-10-23 23:15:45",
+    "created_at": "2023-10-23 23:11:15",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:45",
+    "event_id": "ad942b51-3f9e-46d7-90bc-e0b42198309d"
+  }
+}

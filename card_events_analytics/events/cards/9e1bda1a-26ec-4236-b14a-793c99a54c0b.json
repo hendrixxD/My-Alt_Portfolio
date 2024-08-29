@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4054,
+    "user_id": 445,
+    "created_by_name": "Michael Deleon",
+    "updated_at": "2023-10-23 23:23:24",
+    "created_at": "2023-10-23 23:23:24",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:24",
+    "event_id": "9e1bda1a-26ec-4236-b14a-793c99a54c0b"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1478,
+    "user_id": 105,
+    "created_by_name": "Aaron Fisher",
+    "updated_at": "2023-10-23 23:27:08",
+    "created_at": "2023-10-23 23:14:09",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:08",
+    "event_id": "0c467a2f-8e87-49ea-a0f5-c77f1da95be7"
+  }
+}

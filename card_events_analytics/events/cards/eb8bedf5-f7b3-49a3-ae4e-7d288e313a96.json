@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1529,
+    "user_id": 850,
+    "created_by_name": "Robert Galloway",
+    "updated_at": "2023-10-23 23:14:19",
+    "created_at": "2023-10-23 23:14:19",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:19",
+    "event_id": "eb8bedf5-f7b3-49a3-ae4e-7d288e313a96"
+  }
+}

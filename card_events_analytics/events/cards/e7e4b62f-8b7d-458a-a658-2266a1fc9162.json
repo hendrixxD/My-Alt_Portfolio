@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5261,
+    "user_id": 527,
+    "created_by_name": "Alison Austin",
+    "updated_at": "2023-10-23 23:27:40",
+    "created_at": "2023-10-23 23:27:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:40",
+    "event_id": "e7e4b62f-8b7d-458a-a658-2266a1fc9162"
+  }
+}

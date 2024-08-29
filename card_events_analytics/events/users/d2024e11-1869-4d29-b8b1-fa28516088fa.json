@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d2024e11-1869-4d29-b8b1-fa28516088fa"
+  },
+  "payload": {
+    "id": 954,
+    "name": "Joseph Pratt",
+    "address": "636 Frederick Flats Apt. 677\nGrossshire, ME 28236",
+    "job": "Drilling engineer",
+    "score": 0.8104002256704879
+  }
+}

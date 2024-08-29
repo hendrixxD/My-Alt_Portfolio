@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5a70fdc8-1fa3-4a28-886b-0044123fc8cc"
+  },
+  "payload": {
+    "id": 216,
+    "name": "Jennifer Massey",
+    "address": "34181 Stephanie Locks\nAlyssahaven, AS 46385",
+    "job": "Surveyor, minerals",
+    "score": 0.5712464762182846
+  }
+}

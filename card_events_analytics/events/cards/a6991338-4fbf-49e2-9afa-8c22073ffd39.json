@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 948,
+    "user_id": 952,
+    "created_by_name": "Janet Simpson",
+    "updated_at": "2023-10-23 23:12:23",
+    "created_at": "2023-10-23 23:12:23",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:23",
+    "event_id": "a6991338-4fbf-49e2-9afa-8c22073ffd39"
+  }
+}

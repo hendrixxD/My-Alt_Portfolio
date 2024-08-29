@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 217,
+    "user_id": 819,
+    "created_by_name": "Vanessa Miller",
+    "updated_at": "2023-10-23 23:09:39",
+    "created_at": "2023-10-23 23:09:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:39",
+    "event_id": "f4278a9c-fcf3-4748-bb81-7764a2b02ee6"
+  }
+}

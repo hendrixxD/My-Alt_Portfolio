@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1307,
+    "user_id": 502,
+    "created_by_name": "Andrew Williams",
+    "updated_at": "2023-10-23 23:26:56",
+    "created_at": "2023-10-23 23:13:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:56",
+    "event_id": "b5331ac6-826a-4a18-a8b6-daf0a30b78fe"
+  }
+}

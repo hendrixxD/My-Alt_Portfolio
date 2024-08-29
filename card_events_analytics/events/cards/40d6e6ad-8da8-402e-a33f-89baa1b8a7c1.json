@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 176,
+    "user_id": 296,
+    "created_by_name": "Annette Haynes",
+    "updated_at": "2023-10-23 23:09:29",
+    "created_at": "2023-10-23 23:09:29",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:29",
+    "event_id": "40d6e6ad-8da8-402e-a33f-89baa1b8a7c1"
+  }
+}

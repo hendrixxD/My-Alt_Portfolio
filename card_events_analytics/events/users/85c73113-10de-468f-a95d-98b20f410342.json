@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "85c73113-10de-468f-a95d-98b20f410342"
+  },
+  "payload": {
+    "id": 814,
+    "name": "Belinda Patton",
+    "address": "10196 Steven Union\nCarterview, AL 42473",
+    "job": "Medical sales representative",
+    "score": 0.2195928795408999
+  }
+}

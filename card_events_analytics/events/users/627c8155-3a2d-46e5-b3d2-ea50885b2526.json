@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "627c8155-3a2d-46e5-b3d2-ea50885b2526"
+  },
+  "payload": {
+    "id": 178,
+    "name": "David Jones",
+    "address": "0288 Natalie Burg\nEast Christopherfort, CA 92173",
+    "job": "Nurse, adult",
+    "score": 0.6785219431293155
+  }
+}

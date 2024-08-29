@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "66e5f100-6b56-468f-8790-22c25d0575ca"
+  },
+  "payload": {
+    "id": 869,
+    "name": "Kelsey Torres",
+    "address": "2254 Terri Bypass\nNorth Nicholas, OH 21687",
+    "job": "Hotel manager",
+    "score": 0.30660774408301117
+  }
+}

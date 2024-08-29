@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1133,
+    "created_by_name": "Julie Kim",
+    "updated_at": "2023-10-23 23:12:58",
+    "created_at": "2023-10-23 23:12:58",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:58",
+    "event_id": "74c4a066-e73c-493c-95d2-b99a84f264c7"
+  }
+}

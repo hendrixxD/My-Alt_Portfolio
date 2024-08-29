@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "65f84af7-b8d5-468c-92a5-77373d9adf60"
+  },
+  "payload": {
+    "id": 254,
+    "name": "Courtney Guerrero",
+    "address": "06040 Christina Garden\nPatriciaville, MO 51045",
+    "job": "Naval architect",
+    "score": 0.9410643844950878
+  }
+}

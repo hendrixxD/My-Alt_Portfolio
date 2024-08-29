@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 4269,
+    "created_by_name": "Melanie Rivera",
+    "updated_at": "2023-10-23 23:29:10",
+    "created_at": "2023-10-23 23:24:09",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:10",
+    "event_id": "aed6f896-d599-4dc0-802d-7ff69346111b"
+  }
+}

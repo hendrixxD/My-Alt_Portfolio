@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1911,
+    "user_id": 784,
+    "created_by_name": "Amy Smith",
+    "updated_at": "2023-10-23 23:15:39",
+    "created_at": "2023-10-23 23:15:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:39",
+    "event_id": "8858ec7f-0fc6-4aa2-928c-e048ca9c71e7"
+  }
+}

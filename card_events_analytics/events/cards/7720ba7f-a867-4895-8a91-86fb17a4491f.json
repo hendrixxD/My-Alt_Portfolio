@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 536,
+    "user_id": 584,
+    "created_by_name": "Nicholas Sandoval",
+    "updated_at": "2023-10-23 23:11:24",
+    "created_at": "2023-10-23 23:10:49",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:24",
+    "event_id": "7720ba7f-a867-4895-8a91-86fb17a4491f"
+  }
+}

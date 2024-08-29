@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2020,
+    "user_id": 491,
+    "created_by_name": "Bridget Walker",
+    "updated_at": "2023-10-23 23:16:04",
+    "created_at": "2023-10-23 23:16:04",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:04",
+    "event_id": "ee535a9d-cba8-4736-a488-c836e6031d13"
+  }
+}

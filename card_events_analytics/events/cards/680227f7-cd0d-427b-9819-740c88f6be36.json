@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2799,
+    "user_id": 105,
+    "created_by_name": "Karen Pacheco",
+    "updated_at": "2023-10-23 23:21:42",
+    "created_at": "2023-10-23 23:18:55",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:42",
+    "event_id": "680227f7-cd0d-427b-9819-740c88f6be36"
+  }
+}

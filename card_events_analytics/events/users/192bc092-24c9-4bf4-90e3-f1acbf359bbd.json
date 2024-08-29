@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "192bc092-24c9-4bf4-90e3-f1acbf359bbd"
+  },
+  "payload": {
+    "id": 664,
+    "name": "David Eaton",
+    "address": "9930 James Roads\nDuncanmouth, TN 36824",
+    "job": "Materials engineer",
+    "score": 0.28915169634439974
+  }
+}

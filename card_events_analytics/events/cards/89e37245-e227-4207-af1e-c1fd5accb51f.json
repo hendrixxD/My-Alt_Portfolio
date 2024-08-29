@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1193,
+    "user_id": 408,
+    "created_by_name": "Margaret Hudson",
+    "updated_at": "2023-10-23 23:13:10",
+    "created_at": "2023-10-23 23:13:10",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:10",
+    "event_id": "89e37245-e227-4207-af1e-c1fd5accb51f"
+  }
+}

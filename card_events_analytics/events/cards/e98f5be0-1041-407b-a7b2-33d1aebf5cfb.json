@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1735,
+    "user_id": 684,
+    "created_by_name": "Vincent Powell",
+    "updated_at": "2023-10-23 23:15:05",
+    "created_at": "2023-10-23 23:15:05",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:05",
+    "event_id": "e98f5be0-1041-407b-a7b2-33d1aebf5cfb"
+  }
+}

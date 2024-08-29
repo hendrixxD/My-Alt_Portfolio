@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a723a8f4-2f4c-4e65-8114-d523233399dc"
+  },
+  "payload": {
+    "id": 561,
+    "name": "Anthony Smith",
+    "address": "730 Paul Mountain\nNew Candacefort, ND 34521",
+    "job": "Administrator, Civil Service",
+    "score": 0.6600668362685728
+  }
+}

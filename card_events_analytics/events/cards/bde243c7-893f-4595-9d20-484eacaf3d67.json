@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2273,
+    "user_id": 519,
+    "created_by_name": "Jessica Simon",
+    "updated_at": "2023-10-23 23:16:59",
+    "created_at": "2023-10-23 23:16:59",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:59",
+    "event_id": "bde243c7-893f-4595-9d20-484eacaf3d67"
+  }
+}

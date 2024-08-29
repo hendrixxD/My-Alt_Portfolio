@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c2258fe1-7cd7-4fab-a4b3-8aa65caec15c"
+  },
+  "payload": {
+    "id": 239,
+    "name": "Jason Velazquez",
+    "address": "7562 Rhonda Garden\nJoantown, LA 12873",
+    "job": "Historic buildings inspector/conservation officer",
+    "score": 0.9857722459377829
+  }
+}

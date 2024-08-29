@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7959b945-c3c3-4204-9e47-ec26fb5c677f"
+  },
+  "payload": {
+    "id": 495,
+    "name": "Ricky Ward",
+    "address": "202 Stephens Cove\nElizabethchester, GA 04401",
+    "job": "Nurse, mental health",
+    "score": 0.08493048445840878
+  }
+}

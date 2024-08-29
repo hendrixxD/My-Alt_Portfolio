@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1309,
+    "user_id": 178,
+    "created_by_name": "Tiffany Wood",
+    "updated_at": "2023-10-23 23:13:51",
+    "created_at": "2023-10-23 23:13:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:13:51",
+    "event_id": "f9a263c4-082a-43c7-85f1-09bbf890b58a"
+  }
+}

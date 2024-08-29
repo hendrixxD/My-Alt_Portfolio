@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a87da2ec-26cc-4f8b-b52f-109842d0b7ba"
+  },
+  "payload": {
+    "id": 950,
+    "name": "Thomas Hester",
+    "address": "62713 Linda Brooks\nNorth Markside, PW 43827",
+    "job": "Pensions consultant",
+    "score": 0.4105965465903877
+  }
+}

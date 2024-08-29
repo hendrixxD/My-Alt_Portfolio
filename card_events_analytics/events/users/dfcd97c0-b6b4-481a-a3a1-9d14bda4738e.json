@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "dfcd97c0-b6b4-481a-a3a1-9d14bda4738e"
+  },
+  "payload": {
+    "id": 865,
+    "name": "Margaret Schultz",
+    "address": "USCGC Meyer\nFPO AA 32187",
+    "job": "Jewellery designer",
+    "score": 0.6600717472352027
+  }
+}

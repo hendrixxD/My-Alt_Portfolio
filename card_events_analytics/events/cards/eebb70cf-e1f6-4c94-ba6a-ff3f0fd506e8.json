@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5341,
+    "user_id": 238,
+    "created_by_name": "Garrett Thomas",
+    "updated_at": "2023-10-23 23:27:59",
+    "created_at": "2023-10-23 23:27:59",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:59",
+    "event_id": "eebb70cf-e1f6-4c94-ba6a-ff3f0fd506e8"
+  }
+}

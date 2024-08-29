@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "cb16ee56-7ffd-4891-ab97-97372e3e04cc"
+  },
+  "payload": {
+    "id": 815,
+    "name": "Kayla Shelton",
+    "address": "904 Marcus Parkways\nNew Tammiechester, WY 44710",
+    "job": "Exhibitions officer, museum/gallery",
+    "score": 0.4641291700670185
+  }
+}

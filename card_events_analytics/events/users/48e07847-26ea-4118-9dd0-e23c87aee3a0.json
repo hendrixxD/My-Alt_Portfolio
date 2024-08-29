@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "48e07847-26ea-4118-9dd0-e23c87aee3a0"
+  },
+  "payload": {
+    "id": 43,
+    "name": "Christina Harris",
+    "address": "524 Krista Bypass\nSamuelhaven, FL 14116",
+    "job": "Glass blower/designer",
+    "score": 0.5352998990972224
+  }
+}

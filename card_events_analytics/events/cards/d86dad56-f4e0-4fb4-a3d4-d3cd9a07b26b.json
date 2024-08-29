@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4884,
+    "user_id": 248,
+    "created_by_name": "Danielle Wang",
+    "updated_at": "2023-10-23 23:26:17",
+    "created_at": "2023-10-23 23:26:14",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:17",
+    "event_id": "d86dad56-f4e0-4fb4-a3d4-d3cd9a07b26b"
+  }
+}

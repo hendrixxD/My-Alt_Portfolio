@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a2f7b9e9-c782-4f7f-8d3c-16ad9f56b6e8"
+  },
+  "payload": {
+    "id": 712,
+    "name": "Erica Turner",
+    "address": "PSC 9090, Box 7249\nAPO AP 41006",
+    "job": "Teacher, early years/pre",
+    "score": 0.6929568111050574
+  }
+}

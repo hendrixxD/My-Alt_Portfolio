@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7504f574-5462-4aca-b897-4abd0454a44a"
+  },
+  "payload": {
+    "id": 113,
+    "name": "Maria Smith",
+    "address": "7259 Jordan Lakes\nLake Gregory, VA 18774",
+    "job": "Primary school teacher",
+    "score": 0.07936184782513989
+  }
+}

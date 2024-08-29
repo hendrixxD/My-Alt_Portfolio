@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2379,
+    "user_id": 460,
+    "created_by_name": "Abigail Bonilla",
+    "updated_at": "2023-10-23 23:17:24",
+    "created_at": "2023-10-23 23:17:24",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:17:24",
+    "event_id": "e67193b8-501b-4011-bf44-1660c9d37fcf"
+  }
+}

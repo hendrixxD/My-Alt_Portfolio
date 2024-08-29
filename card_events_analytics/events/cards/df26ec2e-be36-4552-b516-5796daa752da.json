@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2393,
+    "user_id": 657,
+    "created_by_name": "Cameron Howell",
+    "updated_at": "2023-10-23 23:29:18",
+    "created_at": "2023-10-23 23:17:25",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:29:18",
+    "event_id": "df26ec2e-be36-4552-b516-5796daa752da"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "3031758b-8570-4702-87a2-0ac3d57aa4b7"
+  },
+  "payload": {
+    "id": 493,
+    "name": "Robin Lawson",
+    "address": "9300 Wu Club\nAndrewston, KY 98437",
+    "job": "Exhibition designer",
+    "score": 0.6853177517896504
+  }
+}

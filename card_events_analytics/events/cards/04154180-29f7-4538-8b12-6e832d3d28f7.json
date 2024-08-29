@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2029,
+    "user_id": 960,
+    "created_by_name": "Joseph Harris",
+    "updated_at": "2023-10-23 23:16:05",
+    "created_at": "2023-10-23 23:16:05",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:05",
+    "event_id": "04154180-29f7-4538-8b12-6e832d3d28f7"
+  }
+}

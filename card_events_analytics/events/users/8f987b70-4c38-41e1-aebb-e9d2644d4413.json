@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8f987b70-4c38-41e1-aebb-e9d2644d4413"
+  },
+  "payload": {
+    "id": 173,
+    "name": "Billy Walters",
+    "address": "626 Ronald Ridge Suite 272\nNorth Amberside, DE 10760",
+    "job": "Risk manager",
+    "score": 0.5230204952364677
+  }
+}

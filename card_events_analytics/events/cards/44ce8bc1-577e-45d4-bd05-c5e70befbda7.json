@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 796,
+    "user_id": 639,
+    "created_by_name": "Shawn Hunt",
+    "updated_at": "2023-10-23 23:19:01",
+    "created_at": "2023-10-23 23:11:50",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:01",
+    "event_id": "44ce8bc1-577e-45d4-bd05-c5e70befbda7"
+  }
+}

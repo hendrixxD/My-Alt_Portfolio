@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4126,
+    "user_id": 201,
+    "created_by_name": "Brandon Miller",
+    "updated_at": "2023-10-23 23:23:40",
+    "created_at": "2023-10-23 23:23:40",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:40",
+    "event_id": "cb37b24f-d3f1-4932-8db1-624f1a88f5d5"
+  }
+}

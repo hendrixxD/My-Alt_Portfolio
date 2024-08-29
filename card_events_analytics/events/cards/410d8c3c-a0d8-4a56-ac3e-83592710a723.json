@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4132,
+    "user_id": 903,
+    "created_by_name": "Mrs. Pamela Thompson",
+    "updated_at": "2023-10-23 23:25:28",
+    "created_at": "2023-10-23 23:23:40",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:28",
+    "event_id": "410d8c3c-a0d8-4a56-ac3e-83592710a723"
+  }
+}

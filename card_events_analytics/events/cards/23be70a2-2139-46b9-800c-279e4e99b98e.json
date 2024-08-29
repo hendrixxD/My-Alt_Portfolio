@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 76,
+    "user_id": 756,
+    "created_by_name": "Rachael Mason",
+    "updated_at": "2023-10-23 23:24:47",
+    "created_at": "2023-10-23 23:09:08",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:47",
+    "event_id": "23be70a2-2139-46b9-800c-279e4e99b98e"
+  }
+}

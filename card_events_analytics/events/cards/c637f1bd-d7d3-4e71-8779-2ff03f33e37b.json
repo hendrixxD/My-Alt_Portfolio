@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 21,
+    "created_by_name": "Andrew Marks",
+    "updated_at": "2023-10-23 23:09:04",
+    "created_at": "2023-10-23 23:08:55",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:04",
+    "event_id": "c637f1bd-d7d3-4e71-8779-2ff03f33e37b"
+  }
+}

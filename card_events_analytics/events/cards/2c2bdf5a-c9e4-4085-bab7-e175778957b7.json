@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 3652,
+    "created_by_name": "Regina Kramer",
+    "updated_at": "2023-10-23 23:26:31",
+    "created_at": "2023-10-23 23:22:00",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:31",
+    "event_id": "2c2bdf5a-c9e4-4085-bab7-e175778957b7"
+  }
+}

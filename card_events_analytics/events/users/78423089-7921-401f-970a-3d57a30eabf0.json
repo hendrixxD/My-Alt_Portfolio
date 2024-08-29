@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "78423089-7921-401f-970a-3d57a30eabf0"
+  },
+  "payload": {
+    "id": 568,
+    "name": "Zachary Cortez",
+    "address": "45060 Ashley Junction Suite 838\nEast Christophershire, MH 10308",
+    "job": "Chemist, analytical",
+    "score": 0.9787780787913554
+  }
+}

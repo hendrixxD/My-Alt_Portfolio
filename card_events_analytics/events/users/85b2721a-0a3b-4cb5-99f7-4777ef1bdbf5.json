@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "85b2721a-0a3b-4cb5-99f7-4777ef1bdbf5"
+  },
+  "payload": {
+    "id": 167,
+    "name": "Joshua Reed",
+    "address": "3236 Bradley Brooks Apt. 310\nLake Heather, ND 57646",
+    "job": "Records manager",
+    "score": 0.26318480420741575
+  }
+}

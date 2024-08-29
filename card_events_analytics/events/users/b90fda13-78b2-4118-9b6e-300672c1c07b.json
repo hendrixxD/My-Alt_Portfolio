@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b90fda13-78b2-4118-9b6e-300672c1c07b"
+  },
+  "payload": {
+    "id": 936,
+    "name": "Keith Gonzalez",
+    "address": "748 Courtney Cape Suite 827\nLake William, RI 20524",
+    "job": "Control and instrumentation engineer",
+    "score": 0.6059685476967073
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2053,
+    "user_id": 766,
+    "created_by_name": "Mrs. Michelle Carter",
+    "updated_at": "2023-10-23 23:16:10",
+    "created_at": "2023-10-23 23:16:10",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:10",
+    "event_id": "5b2aedf5-93e6-4d2c-aba9-64e3c4f22bd9"
+  }
+}

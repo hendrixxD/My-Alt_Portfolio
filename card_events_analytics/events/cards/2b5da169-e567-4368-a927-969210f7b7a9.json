@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3135,
+    "user_id": 525,
+    "created_by_name": "Mariah Bishop",
+    "updated_at": "2023-10-23 23:20:08",
+    "created_at": "2023-10-23 23:20:08",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:08",
+    "event_id": "2b5da169-e567-4368-a927-969210f7b7a9"
+  }
+}

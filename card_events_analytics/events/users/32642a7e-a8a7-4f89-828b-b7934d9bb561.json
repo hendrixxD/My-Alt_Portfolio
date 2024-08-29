@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "32642a7e-a8a7-4f89-828b-b7934d9bb561"
+  },
+  "payload": {
+    "id": 412,
+    "name": "Victoria Robinson",
+    "address": "256 Cindy Spur Apt. 578\nNew Kristatown, NM 63702",
+    "job": "Patent examiner",
+    "score": 0.9854568563154738
+  }
+}

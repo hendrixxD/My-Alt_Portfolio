@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 461,
+    "user_id": 256,
+    "created_by_name": "Kevin Harper",
+    "updated_at": "2023-10-23 23:14:01",
+    "created_at": "2023-10-23 23:10:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:14:01",
+    "event_id": "7623f8c2-24bd-4a96-b407-24c5d540931e"
+  }
+}

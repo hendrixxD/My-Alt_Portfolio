@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "95eb1b55-8bac-40d9-b138-5cb0a715ef13"
+  },
+  "payload": {
+    "id": 891,
+    "name": "Ronald Mitchell",
+    "address": "25759 Hannah Groves\nNorth Melissamouth, AS 88899",
+    "job": "Journalist, newspaper",
+    "score": 0.4525648924153495
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5483,
+    "user_id": 541,
+    "created_by_name": "Mitchell Young",
+    "updated_at": "2023-10-23 23:28:34",
+    "created_at": "2023-10-23 23:28:34",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:34",
+    "event_id": "33f20bdd-3721-48cb-a0f9-8e5ed2808583"
+  }
+}

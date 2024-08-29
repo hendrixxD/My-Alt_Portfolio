@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1968,
+    "user_id": 670,
+    "created_by_name": "Tracy Williams",
+    "updated_at": "2023-10-23 23:20:39",
+    "created_at": "2023-10-23 23:15:51",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:39",
+    "event_id": "aca36354-70d3-49d0-b848-8109b7268b48"
+  }
+}

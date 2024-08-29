@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fbf1f905-8116-4a33-88da-e85ce810140c"
+  },
+  "payload": {
+    "id": 885,
+    "name": "Kelly Jones",
+    "address": "552 Clinton Locks Suite 707\nPamelaville, MH 89113",
+    "job": "Water engineer",
+    "score": 0.1219377448827621
+  }
+}

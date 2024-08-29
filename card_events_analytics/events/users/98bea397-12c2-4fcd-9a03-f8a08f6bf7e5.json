@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "98bea397-12c2-4fcd-9a03-f8a08f6bf7e5"
+  },
+  "payload": {
+    "id": 115,
+    "name": "Jason Vazquez",
+    "address": "98880 Bond Skyway Apt. 762\nSouth Michael, AK 15453",
+    "job": "Data scientist",
+    "score": 0.17882147292748862
+  }
+}

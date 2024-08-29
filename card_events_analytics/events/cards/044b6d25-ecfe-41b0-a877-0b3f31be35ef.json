@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2909,
+    "user_id": 58,
+    "created_by_name": "Mrs. Robin Taylor",
+    "updated_at": "2023-10-23 23:19:20",
+    "created_at": "2023-10-23 23:19:20",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:19:20",
+    "event_id": "044b6d25-ecfe-41b0-a877-0b3f31be35ef"
+  }
+}

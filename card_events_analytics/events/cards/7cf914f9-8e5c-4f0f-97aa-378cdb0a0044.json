@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 588,
+    "user_id": 141,
+    "created_by_name": "Matthew Miller",
+    "updated_at": "2023-10-23 23:22:00",
+    "created_at": "2023-10-23 23:10:59",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:00",
+    "event_id": "7cf914f9-8e5c-4f0f-97aa-378cdb0a0044"
+  }
+}

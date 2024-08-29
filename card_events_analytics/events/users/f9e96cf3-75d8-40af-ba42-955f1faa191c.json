@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f9e96cf3-75d8-40af-ba42-955f1faa191c"
+  },
+  "payload": {
+    "id": 34,
+    "name": "Amanda Johnson",
+    "address": "97013 Carpenter Common\nBrownstad, AS 60321",
+    "job": "Research scientist (life sciences)",
+    "score": 0.6353534257477369
+  }
+}

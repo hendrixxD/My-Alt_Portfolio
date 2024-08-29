@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2500,
+    "user_id": 466,
+    "created_by_name": "Miss Sabrina Gonzalez",
+    "updated_at": "2023-10-23 23:25:04",
+    "created_at": "2023-10-23 23:17:50",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:04",
+    "event_id": "bdecdd07-8b8a-4e62-815a-3b0f3f7048f4"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 83,
+    "user_id": 524,
+    "created_by_name": "Terrance Graham",
+    "updated_at": "2023-10-23 23:15:17",
+    "created_at": "2023-10-23 23:09:10",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:17",
+    "event_id": "cb7bc925-afdc-4462-8a6a-9ac9d74cb1cd"
+  }
+}

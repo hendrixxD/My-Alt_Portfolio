@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3427,
+    "user_id": 944,
+    "created_by_name": "Philip Taylor",
+    "updated_at": "2023-10-23 23:24:40",
+    "created_at": "2023-10-23 23:21:13",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:40",
+    "event_id": "b07ec3b3-820d-4d4c-8a13-870c36b73b03"
+  }
+}

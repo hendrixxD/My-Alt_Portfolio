@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "b7c0ca5d-57b8-419b-98e7-9ce82b2ca7ec"
+  },
+  "payload": {
+    "id": 577,
+    "name": "Denise Martin",
+    "address": "5947 Ellis Locks Apt. 531\nNorth Elizabeth, MS 96220",
+    "job": "Proofreader",
+    "score": 0.9684456187746284
+  }
+}

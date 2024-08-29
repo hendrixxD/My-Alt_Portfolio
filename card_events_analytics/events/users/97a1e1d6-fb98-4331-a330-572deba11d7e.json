@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "97a1e1d6-fb98-4331-a330-572deba11d7e"
+  },
+  "payload": {
+    "id": 938,
+    "name": "Yolanda Vargas",
+    "address": "39694 Todd Skyway\nSouth Charlesview, CA 51058",
+    "job": "Product/process development scientist",
+    "score": 0.003839203746695219
+  }
+}

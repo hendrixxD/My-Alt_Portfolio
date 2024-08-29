@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 134,
+    "created_by_name": "Chad Nicholson",
+    "updated_at": "2023-10-23 23:10:51",
+    "created_at": "2023-10-23 23:09:20",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:51",
+    "event_id": "74b21458-3d4f-427d-8f63-0622d87a3006"
+  }
+}

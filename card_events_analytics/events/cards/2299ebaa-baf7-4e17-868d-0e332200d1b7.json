@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4860,
+    "user_id": 612,
+    "created_by_name": "Derrick Harmon",
+    "updated_at": "2023-10-23 23:26:07",
+    "created_at": "2023-10-23 23:26:07",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:26:07",
+    "event_id": "2299ebaa-baf7-4e17-868d-0e332200d1b7"
+  }
+}

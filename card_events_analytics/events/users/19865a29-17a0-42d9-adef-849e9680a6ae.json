@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "19865a29-17a0-42d9-adef-849e9680a6ae"
+  },
+  "payload": {
+    "id": 682,
+    "name": "Eric Burgess",
+    "address": "549 Stephenson Flat\nSouth Martha, SC 88162",
+    "job": "Commercial art gallery manager",
+    "score": 0.2822163621565097
+  }
+}

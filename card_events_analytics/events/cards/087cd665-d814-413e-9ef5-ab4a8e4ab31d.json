@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 114,
+    "user_id": 541,
+    "created_by_name": "Valerie Wallace",
+    "updated_at": "2023-10-23 23:11:50",
+    "created_at": "2023-10-23 23:09:17",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:11:50",
+    "event_id": "087cd665-d814-413e-9ef5-ab4a8e4ab31d"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 1581,
+    "created_by_name": "Matthew Shepard",
+    "updated_at": "2023-10-23 23:18:36",
+    "created_at": "2023-10-23 23:14:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:36",
+    "event_id": "706d204c-e969-46c4-8b0b-d081d4ef541f"
+  }
+}

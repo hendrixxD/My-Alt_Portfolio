@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "61e4561c-a0c4-4bfe-8b56-c204a2e476fc"
+  },
+  "payload": {
+    "id": 771,
+    "name": "Tracy Cook",
+    "address": "7671 Smith Garden\nChristianfort, NE 85516",
+    "job": "Producer, radio",
+    "score": 0.36708873988729973
+  }
+}

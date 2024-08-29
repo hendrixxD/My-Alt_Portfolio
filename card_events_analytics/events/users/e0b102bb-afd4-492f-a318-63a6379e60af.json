@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "e0b102bb-afd4-492f-a318-63a6379e60af"
+  },
+  "payload": {
+    "id": 309,
+    "name": "Lauren Ball",
+    "address": "3521 Kristen Inlet Apt. 563\nSouth Jennifer, PW 38060",
+    "job": "Teacher, special educational needs",
+    "score": 0.47451855365368156
+  }
+}

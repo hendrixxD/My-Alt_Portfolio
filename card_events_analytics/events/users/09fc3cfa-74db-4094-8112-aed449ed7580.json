@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "09fc3cfa-74db-4094-8112-aed449ed7580"
+  },
+  "payload": {
+    "id": 745,
+    "name": "Doris Foster",
+    "address": "3985 Gina Lake Apt. 582\nSouth William, WI 46831",
+    "job": "Neurosurgeon",
+    "score": 0.1609384036238375
+  }
+}

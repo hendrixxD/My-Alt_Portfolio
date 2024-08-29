@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 838,
+    "user_id": 518,
+    "created_by_name": "Albert Perkins",
+    "updated_at": "2023-10-23 23:22:23",
+    "created_at": "2023-10-23 23:11:59",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:22:23",
+    "event_id": "83423633-d26c-4f60-b898-4c41fe351a66"
+  }
+}

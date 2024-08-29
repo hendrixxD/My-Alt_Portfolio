@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3401,
+    "user_id": 249,
+    "created_by_name": "Victoria Chan",
+    "updated_at": "2023-10-23 23:23:40",
+    "created_at": "2023-10-23 23:21:07",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:23:40",
+    "event_id": "49d3c608-419b-4c80-90c2-201a365b4237"
+  }
+}

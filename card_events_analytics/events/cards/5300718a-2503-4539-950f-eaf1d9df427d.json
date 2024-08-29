@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3437,
+    "user_id": 116,
+    "created_by_name": "Ruben Welch",
+    "updated_at": "2023-10-23 23:21:15",
+    "created_at": "2023-10-23 23:21:15",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:21:15",
+    "event_id": "5300718a-2503-4539-950f-eaf1d9df427d"
+  }
+}

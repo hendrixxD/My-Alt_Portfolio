@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4290,
+    "user_id": 151,
+    "created_by_name": "Kevin Garza",
+    "updated_at": "2023-10-23 23:24:15",
+    "created_at": "2023-10-23 23:24:15",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:15",
+    "event_id": "b5d611dd-86a5-4eb5-8038-220a19bb2663"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "ff76a55b-8a35-4d5c-8226-3afba64a82da"
+  },
+  "payload": {
+    "id": 12,
+    "name": "Caroline Murphy",
+    "address": "849 Cruz Squares Apt. 027\nPort Wayne, MP 13854",
+    "job": "IT consultant",
+    "score": 0.21705805742857254
+  }
+}

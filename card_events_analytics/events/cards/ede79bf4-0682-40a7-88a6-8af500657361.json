@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 3311,
+    "user_id": 764,
+    "created_by_name": "Mitchell Moore",
+    "updated_at": "2023-10-23 23:20:47",
+    "created_at": "2023-10-23 23:20:47",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:47",
+    "event_id": "ede79bf4-0682-40a7-88a6-8af500657361"
+  }
+}

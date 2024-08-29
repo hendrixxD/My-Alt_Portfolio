@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2421,
+    "user_id": 396,
+    "created_by_name": "Kristen Patterson",
+    "updated_at": "2023-10-23 23:20:05",
+    "created_at": "2023-10-23 23:17:32",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:20:05",
+    "event_id": "ef714117-bca0-432e-8817-84e3d9dccfc5"
+  }
+}

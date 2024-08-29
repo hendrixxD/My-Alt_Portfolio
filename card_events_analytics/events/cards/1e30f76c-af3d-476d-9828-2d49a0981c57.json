@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 77,
+    "user_id": 916,
+    "created_by_name": "Rebecca Brown",
+    "updated_at": "2023-10-23 23:09:29",
+    "created_at": "2023-10-23 23:09:08",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:29",
+    "event_id": "1e30f76c-af3d-476d-9828-2d49a0981c57"
+  }
+}

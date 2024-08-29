@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 195,
+    "user_id": 863,
+    "created_by_name": "Pamela Jenkins",
+    "updated_at": "2023-10-23 23:09:52",
+    "created_at": "2023-10-23 23:09:34",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:52",
+    "event_id": "d4cba09b-1e6e-4615-ac4f-a47a726cf6f9"
+  }
+}

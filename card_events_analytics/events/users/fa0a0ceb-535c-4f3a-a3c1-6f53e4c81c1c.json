@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "fa0a0ceb-535c-4f3a-a3c1-6f53e4c81c1c"
+  },
+  "payload": {
+    "id": 456,
+    "name": "David Murphy",
+    "address": "9812 Holly Expressway Suite 064\nNew Dawn, IA 25572",
+    "job": "Designer, exhibition/display",
+    "score": 0.1711979283833418
+  }
+}

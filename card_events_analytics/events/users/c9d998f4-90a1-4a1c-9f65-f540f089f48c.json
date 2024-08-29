@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c9d998f4-90a1-4a1c-9f65-f540f089f48c"
+  },
+  "payload": {
+    "id": 121,
+    "name": "James Edwards",
+    "address": "46849 Frederick Island Apt. 444\nBennettshire, GU 24400",
+    "job": "Proofreader",
+    "score": 0.7330983302585986
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "f5027c94-c759-4fde-87cb-24f5166a3cb9"
+  },
+  "payload": {
+    "id": 679,
+    "name": "Michael Hamilton",
+    "address": "800 White Loop Apt. 072\nLake Craigstad, CA 30438",
+    "job": "Community development worker",
+    "score": 0.6007341729751187
+  }
+}

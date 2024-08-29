@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 1354,
+    "user_id": 582,
+    "created_by_name": "Peter Meyers",
+    "updated_at": "2023-10-23 23:15:05",
+    "created_at": "2023-10-23 23:13:43",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:15:05",
+    "event_id": "935439fc-0f19-47fe-a1ca-a7dbdc6f39f8"
+  }
+}

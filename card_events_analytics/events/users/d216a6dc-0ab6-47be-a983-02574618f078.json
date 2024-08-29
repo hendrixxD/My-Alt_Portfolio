@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "d216a6dc-0ab6-47be-a983-02574618f078"
+  },
+  "payload": {
+    "id": 742,
+    "name": "Matthew Flores",
+    "address": "772 Montgomery Haven Apt. 813\nWest Davidfort, CT 36083",
+    "job": "Investment banker, operational",
+    "score": 0.4986664920822339
+  }
+}

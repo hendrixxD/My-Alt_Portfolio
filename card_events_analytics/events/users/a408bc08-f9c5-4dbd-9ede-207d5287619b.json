@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "a408bc08-f9c5-4dbd-9ede-207d5287619b"
+  },
+  "payload": {
+    "id": 908,
+    "name": "Danielle Wilson",
+    "address": "14573 Welch Coves\nAmandaport, OH 78633",
+    "job": "Meteorologist",
+    "score": 0.14518040886350703
+  }
+}

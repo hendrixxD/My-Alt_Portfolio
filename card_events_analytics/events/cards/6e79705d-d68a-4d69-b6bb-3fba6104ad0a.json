@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4260,
+    "user_id": 698,
+    "created_by_name": "Kathy Adams",
+    "updated_at": "2023-10-23 23:24:07",
+    "created_at": "2023-10-23 23:24:07",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:07",
+    "event_id": "6e79705d-d68a-4d69-b6bb-3fba6104ad0a"
+  }
+}

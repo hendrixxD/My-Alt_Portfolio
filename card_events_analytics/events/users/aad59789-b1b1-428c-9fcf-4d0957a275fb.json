@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "aad59789-b1b1-428c-9fcf-4d0957a275fb"
+  },
+  "payload": {
+    "id": 707,
+    "name": "Stephanie Turner",
+    "address": "483 Payne Port\nNew Matthewborough, ME 05898",
+    "job": "Customer service manager",
+    "score": 0.1721791211036806
+  }
+}

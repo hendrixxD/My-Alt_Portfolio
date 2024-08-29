@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 5496,
+    "user_id": 309,
+    "created_by_name": "Rachel Horton",
+    "updated_at": "2023-10-23 23:28:38",
+    "created_at": "2023-10-23 23:28:38",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:28:38",
+    "event_id": "485a1a6c-b728-4ba7-a189-4fd1875fcd50"
+  }
+}

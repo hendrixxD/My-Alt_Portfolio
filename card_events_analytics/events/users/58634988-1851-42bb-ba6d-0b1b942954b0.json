@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "58634988-1851-42bb-ba6d-0b1b942954b0"
+  },
+  "payload": {
+    "id": 580,
+    "name": "Annette Washington",
+    "address": "6253 Lisa Ranch Apt. 334\nPorterburgh, ME 51395",
+    "job": "Scientist, clinical (histocompatibility and immunogenetics)",
+    "score": 0.05584872397592122
+  }
+}

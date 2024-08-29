@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2081,
+    "user_id": 633,
+    "created_by_name": "Kathryn Francis",
+    "updated_at": "2023-10-23 23:16:17",
+    "created_at": "2023-10-23 23:16:17",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:16:17",
+    "event_id": "7330b250-df72-4f40-9f53-439d70a4863f"
+  }
+}

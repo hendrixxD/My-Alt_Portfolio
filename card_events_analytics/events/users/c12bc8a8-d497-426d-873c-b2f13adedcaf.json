@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "c12bc8a8-d497-426d-873c-b2f13adedcaf"
+  },
+  "payload": {
+    "id": 33,
+    "name": "Monica Ramos",
+    "address": "25740 Mary Springs\nMarymouth, DE 12942",
+    "job": "Social research officer, government",
+    "score": 0.9469652115978641
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 168,
+    "user_id": 640,
+    "created_by_name": "Robert Ryan",
+    "updated_at": "2023-10-23 23:10:58",
+    "created_at": "2023-10-23 23:09:28",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:58",
+    "event_id": "dbde339d-ca7d-4803-bfa1-f29d08ac80ad"
+  }
+}

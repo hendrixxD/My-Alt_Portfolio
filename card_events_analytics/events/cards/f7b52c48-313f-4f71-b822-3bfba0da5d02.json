@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 2596,
+    "user_id": 819,
+    "created_by_name": "Laura Cruz",
+    "updated_at": "2023-10-23 23:18:11",
+    "created_at": "2023-10-23 23:18:11",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:11",
+    "event_id": "f7b52c48-313f-4f71-b822-3bfba0da5d02"
+  }
+}

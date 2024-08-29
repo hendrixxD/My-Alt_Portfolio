@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "19e8a607-62c3-4961-bef6-c94ad0dab58f"
+  },
+  "payload": {
+    "id": 465,
+    "name": "Felicia Bright",
+    "address": "581 Todd Camp\nLake Michaelbury, GU 81888",
+    "job": "Designer, textile",
+    "score": 0.5489753624296212
+  }
+}

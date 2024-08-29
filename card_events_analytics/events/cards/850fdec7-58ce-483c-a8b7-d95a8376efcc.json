@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 2630,
+    "created_by_name": "Wanda Smith",
+    "updated_at": "2023-10-23 23:18:19",
+    "created_at": "2023-10-23 23:18:19",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:18:19",
+    "event_id": "850fdec7-58ce-483c-a8b7-d95a8376efcc"
+  }
+}

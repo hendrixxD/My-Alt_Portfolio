@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "id": 5269,
+    "created_by_name": "Janet Wright",
+    "updated_at": "2023-10-23 23:27:42",
+    "created_at": "2023-10-23 23:27:42",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:42",
+    "event_id": "3d65bafd-e75a-4889-bec8-b6a27baa261e"
+  }
+}

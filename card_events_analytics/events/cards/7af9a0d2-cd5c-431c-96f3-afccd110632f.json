@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 296,
+    "user_id": 144,
+    "created_by_name": "Vanessa Horn",
+    "updated_at": "2023-10-23 23:09:54",
+    "created_at": "2023-10-23 23:09:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:09:54",
+    "event_id": "7af9a0d2-cd5c-431c-96f3-afccd110632f"
+  }
+}

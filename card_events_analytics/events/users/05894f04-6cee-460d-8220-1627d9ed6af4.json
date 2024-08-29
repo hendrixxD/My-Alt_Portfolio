@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "05894f04-6cee-460d-8220-1627d9ed6af4"
+  },
+  "payload": {
+    "id": 40,
+    "name": "Tiffany Keith",
+    "address": "3467 Patricia Springs\nJulianhaven, HI 51756",
+    "job": "Sport and exercise psychologist",
+    "score": 0.771339496982272
+  }
+}

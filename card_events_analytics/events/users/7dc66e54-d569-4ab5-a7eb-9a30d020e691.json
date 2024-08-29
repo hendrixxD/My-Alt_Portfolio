@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "7dc66e54-d569-4ab5-a7eb-9a30d020e691"
+  },
+  "payload": {
+    "id": 4,
+    "name": "Zachary Foley",
+    "address": "3885 Carlos Isle\nThomasmouth, KS 43775",
+    "job": "Recruitment consultant",
+    "score": 0.03389329372053085
+  }
+}

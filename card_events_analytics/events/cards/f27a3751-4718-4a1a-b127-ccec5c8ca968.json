@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 4546,
+    "user_id": 273,
+    "created_by_name": "Matthew Kim",
+    "updated_at": "2023-10-23 23:25:06",
+    "created_at": "2023-10-23 23:25:06",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:25:06",
+    "event_id": "f27a3751-4718-4a1a-b127-ccec5c8ca968"
+  }
+}

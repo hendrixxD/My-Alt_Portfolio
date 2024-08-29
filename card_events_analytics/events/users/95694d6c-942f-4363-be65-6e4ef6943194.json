@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "95694d6c-942f-4363-be65-6e4ef6943194"
+  },
+  "payload": {
+    "id": 324,
+    "name": "Jordan Curry",
+    "address": "619 Wright Loaf\nChristianshire, VI 91062",
+    "job": "Haematologist",
+    "score": 0.12776047812050417
+  }
+}

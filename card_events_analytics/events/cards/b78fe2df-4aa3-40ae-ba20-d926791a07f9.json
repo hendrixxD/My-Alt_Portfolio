@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 34,
+    "user_id": 695,
+    "created_by_name": "Carl Martinez",
+    "updated_at": "2023-10-23 23:10:28",
+    "created_at": "2023-10-23 23:08:58",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:10:28",
+    "event_id": "b78fe2df-4aa3-40ae-ba20-d926791a07f9"
+  }
+}

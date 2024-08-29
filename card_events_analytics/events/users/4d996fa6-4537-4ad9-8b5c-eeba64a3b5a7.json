@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "4d996fa6-4537-4ad9-8b5c-eeba64a3b5a7"
+  },
+  "payload": {
+    "id": 870,
+    "name": "Andrew Ray",
+    "address": "70380 Christopher Points\nScottborough, IN 31870",
+    "job": "Clinical psychologist",
+    "score": 0.7160521030033445
+  }
+}

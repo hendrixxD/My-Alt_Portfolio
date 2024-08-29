@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "5bb18aea-3916-45db-85fc-a29c782f771b"
+  },
+  "payload": {
+    "id": 61,
+    "name": "Diamond Mercer",
+    "address": "5867 Pamela Unions Suite 057\nEast Deborahtown, DE 34578",
+    "job": "Chartered accountant",
+    "score": 0.16815699568938058
+  }
+}

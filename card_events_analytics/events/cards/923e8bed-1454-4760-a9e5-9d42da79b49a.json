@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 456,
+    "user_id": 598,
+    "created_by_name": "Andrea Craig",
+    "updated_at": "2023-10-23 23:12:05",
+    "created_at": "2023-10-23 23:10:30",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:12:05",
+    "event_id": "923e8bed-1454-4760-a9e5-9d42da79b49a"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 564,
+    "user_id": 934,
+    "created_by_name": "David Smith MD",
+    "updated_at": "2023-10-23 23:27:57",
+    "created_at": "2023-10-23 23:10:54",
+    "active": false
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:27:57",
+    "event_id": "d2880554-55e9-48ba-a264-a3dd1d108f4b"
+  }
+}

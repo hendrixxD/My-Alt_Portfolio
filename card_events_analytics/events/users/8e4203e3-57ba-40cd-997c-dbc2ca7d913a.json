@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "type": "user",
+    "event_at": "2023-10-23 22:55:01",
+    "event_id": "8e4203e3-57ba-40cd-997c-dbc2ca7d913a"
+  },
+  "payload": {
+    "id": 755,
+    "name": "Linda Wheeler",
+    "address": "2498 Munoz Brooks Suite 478\nNew Taylor, MO 20189",
+    "job": "Claims inspector/assessor",
+    "score": 0.05653154860000531
+  }
+}

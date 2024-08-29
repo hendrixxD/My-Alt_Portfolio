@@ -1,0 +1,15 @@
+{
+  "payload": {
+    "id": 218,
+    "user_id": 585,
+    "created_by_name": "Alejandro Burke",
+    "updated_at": "2023-10-23 23:24:35",
+    "created_at": "2023-10-23 23:09:39",
+    "active": true
+  },
+  "metadata": {
+    "type": "card",
+    "event_at": "2023-10-23 23:24:35",
+    "event_id": "91812f3c-da36-4e94-b0da-8b99d9708c5c"
+  }
+}
