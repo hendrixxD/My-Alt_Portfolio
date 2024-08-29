@@ -1,0 +1,22 @@
+OlistAnalytics:
+  outputs:
+    dev:
+      dbname: ecommerce
+      host: localhost
+      pass: hendrixx
+      port: 5433
+      schema: cpstn
+      threads: 2
+      type: postgres
+      user: drhendrixx
+    prod:
+      type: bigquery
+      method: service-account
+      project: <PROJECT_ID>
+      dataset: Olist_Eccomerce_Data
+      location: europe-west2
+      threads: 1
+      maximum_bytes_billed: 1000000000
+      keyfile: /home/hendrixx/.dbt/<SERVICE_ACCOUNT_JSON_KEY>.json
+    
+  target: prod

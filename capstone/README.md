@@ -5,8 +5,8 @@ Ochestrating the injestion and loading of data from postgres to bigquery and ana
 ---
 ![task flow](./imgs/taskflow.png)
 ###### [ELT diagram flow](https://shorturl.at/EBJK2)
-
 ---
+
 
                               Table Of Contents
 
@@ -134,20 +134,21 @@ When the container starts for the first time, it will automatically run this `in
 This approach allows for automating the process of setting up the initial database schema and populating it with data.
 
 - **Load**
+  - PG to GCS:
   
-   **PG to GCS**
-   - Uses PostgresToGCSOperator
-   - Extracts data from Postgres using a SQL query
-   - Loads this data into Google Cloud Storage (GCS) as JSON files
+    - Uses PostgresToGCSOperator
+    - Extracts data from Postgres using a SQL query
+    - Loads this data into Google Cloud Storage (GCS) as JSON files
 
-   **GCS to BigQuery**:
-   - Uses GCSToBigQueryOperator
-   - Reads the JSON files from GCS
-   - Loads the data into BigQuery
-   - Automatically detects the schema of the incoming data
-   - Creates the table if it doesn't exist, or truncates and replaces data if it does
-   - Each file is named with the table name and a timestamp
-  
+  - GCS to BigQuery:
+
+    - Uses GCSToBigQueryOperator
+    - Reads the JSON files from GCS
+    - Loads the data into BigQuery
+    - Automatically detects the schema of the incoming data
+    - Creates the table if it doesn't exist, or truncates and replaces data if it does
+    - Each file is named with the table name and a timestamp
+
 
 - **Transform**
 
@@ -340,21 +341,35 @@ This DAG allows for parallel processing of multiple tables, efficiently transfer
 
                               How To Run The Project
 
-- clone the repository and `cd` intp the project directory
+- Fork the main branch of the repository, clone and `cd` intp the project directory: `capstone`
 
-- head to the `/capstone/airflow/` and create a `config` directory.
+- Head to the `/capstone/airflow/` and create a `config` directory.
 
   look at the `config.example` directory for how to setup the files.
 
   your service account json key should sit at the root of the `config` directory.
 
-- create a `.env` file at the root of the project directory. 
+- Create a `.env` file at the root of the project directory. 
 
   look at  `env.example` - only set your `postgres` details and thats it
+
+- To run `dbt` models, you will need to create a `.dbt` direcotry if it does not exist.
+
+  ```python
+  touch $HOME/.dbt
+  ```
+
+  create a `profiles.yml` file. `profiles.yml` is a critical configuration file in dbt Core that contains GCP connection details.
+
+  ```python
+  touch $HOME/.dbt/profiles.yml
+  ```
+  this file should look like this [here](./dbt/profiles.example.yml). Edit the neccasry connection details.
 
 - then run the `docker-compose.yml` with 
    ```ssh
    docker-compose up
+   ```
 
 - when `docker-compose` is up and running, access the webserver at port `8080`.
 
@@ -448,3 +463,5 @@ This project serves as a practical demonstration of how modern data engineering 
            -- tests
            -- dbt_project.yml
     --- docker-compose.yml
+
+---

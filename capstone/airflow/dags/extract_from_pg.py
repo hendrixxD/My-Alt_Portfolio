@@ -1,8 +1,4 @@
-#
-# -----------------------------------------------------------------------------------------------
-# VERSION 4
-# -----------------------------------------------------------------------------------------------
-#  
+  
 import yaml
 import logging
 from airflow import DAG
@@ -69,7 +65,7 @@ with DAG(
     start = DummyOperator(task_id='start')
     end = DummyOperator(task_id='end')
 
-    # Create GCS bucket if it doesn't exist
+    # Creates GCS bucket if it doesn't exist
     create_bucket = GCSCreateBucketOperator(
         task_id='create_gcs_bucket',
         bucket_name=GCS_BUCKET,
@@ -79,7 +75,7 @@ with DAG(
         gcp_conn_id=GCP_CONN_ID
     )
 
-    # create a bigquery dataset if it dosent alrady exist
+    # creates a bigquery dataset if it dosent alrady exist
     create_dataset = BigQueryCreateEmptyDatasetOperator(
         task_id='create_bigquery_dataset',
         dataset_id=BQ_DATASET,
