@@ -463,5 +463,3 @@ This project serves as a practical demonstration of how modern data engineering 
            -- tests
            -- dbt_project.yml
     --- docker-compose.yml
-
----
