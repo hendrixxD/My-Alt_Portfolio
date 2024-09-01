@@ -2,7 +2,7 @@
 
 ## Phase 1: Planning and Design
 
-1. Project Scope and Requirements
+### 1. Project Scope and Requirements
    - Project goals and objectives
      - extract every important datapoint on Bitcoin from coinmarketcap and other sources.
      - to develop realtime dashboard off transformed data delivering key insights on BITCOIN
@@ -59,88 +59,88 @@
      - data sources can be found [here](./api_sources.txt)
    - Determine real-time and batch processing needs
 
-2. Architecture Design
+### 2. Architecture Design
    - Create a high-level system architecture diagram
    - Define data flow and component interactions
    - Plan for scalability, reliability, and maintainability
    - Consider data governance and compliance requirements
 
-3. Data Modeling
+### 3. Data Modeling
    - Design the data model for BigQuery
    - Plan the schema for operational data in PostgreSQL
    - Define data quality rules and expectations
 
-Best Practices:
+### Best Practices:
 - Use draw.io or Lucidchart for architecture diagrams
 - Follow dimensional modeling principles for the data warehouse
 - Implement a data dictionary and maintain it in DataHub
 
 ## Phase 2: Development Environment Setup
 
-1. Version Control
+### 1. Version Control
    - Set up a Git repository (e.g., GitHub, GitLab)
    - Establish branching strategy (e.g., GitFlow)
 
-2. Local Development Environment
+### 2. Local Development Environment
    - Install Docker and Docker Compose
    - Set up Minikube or Kind for local Kubernetes development
 
-3. CI/CD Pipeline
+### 3. CI/CD Pipeline
    - Configure GitLab CI or GitHub Actions
    - Set up artifact repositories (e.g., Docker Registry, Helm Chart Repository)
 
-Best Practices:
+#### Best Practices:
 - Use pre-commit hooks for code formatting and linting
 - Implement trunk-based development for faster iterations
 - Use Skaffold for local Kubernetes development
 
 ## Phase 3: Infrastructure Provisioning
 
-1. Terraform Setup
+### 1. Terraform Setup
    - Create Terraform modules for GCP resources
    - Implement state management (e.g., using GCS backend)
    - Set up Terraform workspaces for different environments
 
-2. Kubernetes Cluster Provisioning
+### 2. Kubernetes Cluster Provisioning
    - Use GKE or set up a custom Kubernetes cluster
    - Implement cluster autoscaling
    - Set up proper node pools for different workloads
 
-Best Practices:
+#### Best Practices:
 - Use Terraform workspaces for environment separation
 - Implement least privilege principle for service accounts
 - Use Regional GKE clusters for high availability
 
 ## Phase 4: Data Ingestion
 
-1. Airbyte Configuration
+### 1. Airbyte Configuration
    - Set up Airbyte on Kubernetes using Helm
    - Configure CoinMarketCap API source connector
    - Implement proper error handling and retries
 
-2. Kafka Setup
+### 2. Kafka Setup
    - Deploy Kafka using Strimzi Operator
    - Configure topics with appropriate partitioning
    - Implement proper security (authentication, authorization, encryption)
 
-Best Practices:
+#### Best Practices:
 - Use Airbyte's incremental sync for efficient data loading
 - Implement dead letter queues in Kafka for error handling
 - Use Kafka Connect for streaming data to GCS (data lake)
 
 ## Phase 5: Data Storage and Warehousing
 
-1. Data Lake Setup (GCS)
+### 1. Data Lake Setup (GCS)
    - Create bucket structure (raw, processed, curated zones)
    - Implement lifecycle policies for data retention
    - Set up appropriate IAM roles and permissions
 
-2. BigQuery Setup
+### 2. BigQuery Setup
    - Create datasets for different data stages (raw, transformed, reporting)
    - Implement partitioning and clustering for performance
    - Set up appropriate access controls
 
-Best Practices:
+#### Best Practices:
 - Use GCS Object Versioning for data lineage
 - Implement BigQuery cost controls (e.g., query quotas)
 - Use BigQuery authorized views for secure data sharing
