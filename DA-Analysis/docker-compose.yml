@@ -1,0 +1,34 @@
+version: '3'
+
+services:
+  
+  # source database for injestion
+  source-postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: ${SOURCE_PG_DB}
+      POSTGRES_USER: ${SOURCE_PG_USER}
+      POSTGRES_PASSWORD: ${SOURCE_PG_PASS}
+    volumes:
+      - ./pg/source_pg_data:/var/lib/postgresql/src_db/data
+      - ./pg/data:/data
+      - ./pg/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - '5433:5432'
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${SOURCE_PG_USER} -d ${SOURCE_PG_DB}"]
+      # test: ["CMD-SHELL", "pg_isready -h localhost -p 5432 -U hendrixx -d hng"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - bigquery_data_network
+  
+networks:
+  bigquery_data_network:
+    driver: bridge
+
+volumes:
+  source_pg_data:
+  airflow_pg_data:
+  dbt-data:
